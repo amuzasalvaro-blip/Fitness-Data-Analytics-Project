@@ -60,7 +60,7 @@ GROUP BY rango_edad
 ORDER BY numero_contrataciones DESC;
 
 
-	-- KPI 4.5 RELACIÓN EDAD DEL CLIENTE VS TICKET MEDDIO
+	-- KPI 4.5 RELACIÓN EDAD DEL CLIENTE VS TICKET MEDIO
 	-- Análisis del gasto medio según edad del cliente
 
 SELECT
