@@ -1,0 +1,5 @@
+﻿pago_id;forma_pago;pago_automatico;canal_pago;tipo_de_pago;pago_recurrente
+P-01;Tarjeta;No;TPV;Electrónico;No
+P-02;Transferencia;No;Banco;Electrónico;No
+P-03;Domiciliación bancaria ;Si;Banco;Automático;Sí
+P-04;Metálico;No;Recepción;Efectivo;No

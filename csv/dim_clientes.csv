@@ -1,0 +1,1599 @@
+﻿cliente_id;pais;ciudad;comunidad_autonoma;edad;genero;nivel_fisico;condicion_medica;lesiones_previas;sesiones_contratadas_mes;franja_horaria
+C-0273;España;Plasencia;Extremadura;22;Masculino;Alto;Ninguna;No;16;Mañana
+C-1441;España;Alicante;Comunidad Valenciana;22;Masculino;Alto;Ninguna;No;16;Tarde
+C-1393;España;Granada;Andalucía;23;Masculino;Alto;Ninguna;No;16;Tarde
+C-1277;España;Vigo;Galicia;25;Masculino;Alto;Leve;Sí;16;Tarde
+C-0833;España;Gijón;Asturias;25;Femenino;Alto;Ninguna;No;16;Tarde
+C-0344;España;Plasencia;Extremadura;25;Masculino;Alto;Ninguna;No;16;Mañana
+C-0887;España;Alicante;Comunidad Valenciana;25;Femenino;Alto;Ninguna;Sí;16;Mañana
+C-1000;España;Elche;Comunidad Valenciana;25;Femenino;Alto;Ninguna;No;16;Tarde
+C-0014;España;Barcelona;Cataluña;25;Masculino;Alto;Ninguna;Sí;16;Tarde
+C-0097;España;Vigo;Galicia;26;Masculino;Alto;Ninguna;No;16;Mañana
+C-1052;España;Bilbao;País Vasco;26;Masculino;Alto;Ninguna;Sí;16;Tarde
+C-1504;España;Madrid;Comunidad de Madrid;26;Masculino;Alto;Ninguna;Sí;16;Tarde
+C-1033;España;Barcelona;Cataluña;26;Masculino;Alto;Ninguna;No;16;Mediodía
+C-1121;España;San Sebastián;País Vasco;26;Femenino;Alto;Ninguna;No;16;Tarde
+C-1525;España;Bilbao;País Vasco;26;Femenino;Alto;Ninguna;No;16;Tarde
+C-0200;España;Santander;Cantabria;26;Femenino;Alto;Ninguna;No;16;Tarde
+C-1146;España;Burgos;Castilla y León;26;Masculino;Alto;Ninguna;No;16;Tarde
+C-1239;España;Zaragoza;Aragón;26;Femenino;Alto;Ninguna;No;16;Tarde
+C-1319;España;Logroño;La Rioja;26;Masculino;Alto;Leve;Sí;16;Tarde
+C-0971;España;Cáceres;Extremadura;26;Masculino;Alto;Ninguna;Sí;16;Tarde
+C-0558;España;Granada;Andalucía;26;Masculino;Alto;Ninguna;No;16;Tarde
+C-1542;España;Gijón;Asturias;26;Femenino;Alto;Leve;Sí;16;Tarde
+C-0974;España;Cáceres;Extremadura;27;Masculino;Alto;Ninguna;No;16;Tarde
+C-0239;España;Logroño;La Rioja;27;Femenino;Alto;Ninguna;Sí;16;Tarde
+C-0189;España;Burgos;Castilla y León;27;Masculino;Alto;Ninguna;No;16;Noche
+C-1142;España;Burgos;Castilla y León;27;Masculino;Alto;Ninguna;No;16;Tarde
+C-1290;España;Burgos;Castilla y León;27;Femenino;Alto;Ninguna;No;16;Tarde
+C-0294;España;Palma;Islas Baleares;28;Masculino;Alto;Ninguna;No;16;Mediodía
+C-1554;España;Valencia;Comunidad Valenciana;28;Masculino;Alto;Ninguna;No;16;Tarde
+C-0522;España;Bilbao;País Vasco;28;Femenino;Alto;Leve;Sí;16;Tarde
+C-1383;España;Madrid;Comunidad de Madrid;28;Masculino;Alto;Ninguna;Sí;16;Tarde
+C-1483;España;Plasencia;Extremadura;28;Femenino;Alto;Ninguna;No;16;Mediodía
+C-0998;España;Elche;Comunidad Valenciana;28;Femenino;Alto;Ninguna;No;16;Mediodía
+C-0405;España;Granada;Andalucía;28;Masculino;Alto;Ninguna;Sí;16;Tarde
+C-0547;España;Zaragoza;Aragón;28;Femenino;Alto;Ninguna;No;16;Mañana
+C-0607;España;San Sebastián;País Vasco;28;Femenino;Alto;Ninguna;Sí;16;Tarde
+C-1210;España;Valencia;Comunidad Valenciana;28;Masculino;Alto;Ninguna;No;16;Tarde
+C-1419;España;Cáceres;Extremadura;28;Femenino;Alto;Ninguna;Sí;16;Tarde
+C-0174;España;Valladolid;Castilla y León;28;Masculino;Alto;Leve;Sí;16;Mañana
+C-0700;España;Salamanca;Castilla y León;29;Masculino;Alto;Ninguna;No;16;Mañana
+C-0940;España;Vigo;Galicia;29;Masculino;Alto;Ninguna;Sí;16;Tarde
+C-0304;España;Alicante;Comunidad Valenciana;29;Masculino;Alto;Ninguna;No;16;Tarde
+C-0549;España;Zaragoza;Aragón;29;Femenino;Alto;Ninguna;Sí;16;Tarde
+C-0311;España;Elche;Comunidad Valenciana;29;Femenino;Alto;Ninguna;No;16;Tarde
+C-1556;España;Valencia;Comunidad Valenciana;29;Masculino;Alto;Ninguna;No;16;Tarde
+C-0524;España;Bilbao;País Vasco;29;Femenino;Alto;Ninguna;Sí;16;Tarde
+C-1099;España;Alicante;Comunidad Valenciana;29;Masculino;Alto;Ninguna;No;16;Mañana
+C-1223;España;Vitoria-Gasteiz;País Vasco;29;Masculino;Alto;Leve;Sí;16;Mañana
+C-0909;España;Alicante;Comunidad Valenciana;29;Masculino;Alto;Ninguna;No;16;Tarde
+C-0812;España;Vigo;Galicia;29;Femenino;Alto;Ninguna;No;16;Tarde
+C-0706;España;Alicante;Comunidad Valenciana;29;Femenino;Alto;Ninguna;No;16;Tarde
+C-1569;España;Zaragoza;Aragón;29;Masculino;Alto;Ninguna;No;16;Mañana
+C-1309;España;Valladolid;Castilla y León;30;Masculino;Alto;Ninguna;Sí;16;Tarde
+C-0617;España;Madrid;Comunidad de Madrid;30;Femenino;Alto;Ninguna;No;16;Tarde
+C-0656;España;San Sebastián;País Vasco;30;Femenino;Alto;Ninguna;No;16;Tarde
+C-1055;España;Bilbao;País Vasco;30;Femenino;Alto;Ninguna;No;16;Tarde
+C-1120;España;San Sebastián;País Vasco;30;Femenino;Alto;Ninguna;No;16;Mediodía
+C-1359;España;Elche;Comunidad Valenciana;30;Masculino;Alto;Ninguna;Sí;16;Tarde
+C-1208;España;Córdoba;Andalucía;31;Masculino;Alto;Ninguna;Sí;16;Tarde
+C-0238;España;Logroño;La Rioja;31;Masculino;Alto;Leve;Sí;16;Tarde
+C-0785;España;Sevilla;Andalucía;31;Masculino;Alto;Ninguna;No;16;Tarde
+C-0976;España;Cáceres;Extremadura;31;Masculino;Alto;Ninguna;No;16;Tarde
+C-1563;España;Zaragoza;Aragón;31;Femenino;Alto;Ninguna;No;16;Mediodía
+C-0720;España;A Coruña;Galicia;31;Masculino;Alto;Ninguna;No;16;Tarde
+C-0653;España;San Sebastián;País Vasco;32;Masculino;Alto;Ninguna;No;16;Mañana
+C-1060;España;Badajoz;Extremadura;32;Masculino;Alto;Ninguna;No;16;Tarde
+C-0168;España;Valladolid;Castilla y León;32;Masculino;Alto;Ninguna;No;16;Tarde
+C-0428;España;Logroño;La Rioja;33;Femenino;Alto;Ninguna;Sí;16;Mañana
+C-0216;España;Oviedo;Asturias;33;Femenino;Alto;Ninguna;Sí;16;Mañana
+C-0938;España;Vigo;Galicia;33;Femenino;Alto;Leve;Sí;16;Tarde
+C-0403;España;Granada;Andalucía;33;Femenino;Alto;Ninguna;No;16;Mañana
+C-1185;España;Logroño;La Rioja;33;Femenino;Alto;Ninguna;No;16;Tarde
+C-0342;España;Plasencia;Extremadura;33;Masculino;Alto;Ninguna;No;16;Tarde
+C-1334;España;Bilbao;País Vasco;35;Femenino;Alto;Ninguna;No;16;Tarde
+C-1176;España;Barcelona;Cataluña;35;Femenino;Alto;Crónica;Sí;16;Mediodía
+C-1565;España;Zaragoza;Aragón;36;Masculino;Alto;Ninguna;Sí;16;Mañana
+C-1008;España;Zaragoza;Aragón;38;Masculino;Alto;Leve;Sí;16;Tarde
+C-0008;España;Madrid;Comunidad de Madrid;39;Femenino;Alto;Ninguna;Sí;16;Tarde
+C-1315;España;Valladolid;Castilla y León;41;Masculino;Alto;Ninguna;No;16;Mañana
+C-0925;España;Bilbao;País Vasco;55;Masculino;Alto;Ninguna;No;16;Tarde
+C-1394;España;Granada;Andalucía;57;Femenino;Alto;Ninguna;No;16;Mañana
+C-0385;España;Vigo;Galicia;68;Femenino;Alto;Crónica;Sí;16;Tarde
+C-0434;España;Madrid;Comunidad de Madrid;25;Femenino;Alto;Ninguna;No;15;Tarde
+C-0748;España;Oviedo;Asturias;26;Masculino;Alto;Ninguna;No;15;Mediodía
+C-1079;España;Elche;Comunidad Valenciana;26;Femenino;Alto;Ninguna;No;15;Mediodía
+C-1507;España;Madrid;Comunidad de Madrid;26;Femenino;Alto;Ninguna;No;15;Tarde
+C-0459;España;Valencia;Comunidad Valenciana;26;Masculino;Alto;Ninguna;Sí;15;Tarde
+C-1360;España;Elche;Comunidad Valenciana;26;Masculino;Alto;Ninguna;No;15;Tarde
+C-0852;España;Málaga;Andalucía;26;Masculino;Alto;Ninguna;No;15;Tarde
+C-0691;España;Cáceres;Extremadura;27;Masculino;Alto;Ninguna;Sí;15;Mediodía
+C-0180;España;Salamanca;Castilla y León;27;Masculino;Alto;Ninguna;No;15;Noche
+C-0347;España;Plasencia;Extremadura;27;Masculino;Alto;Ninguna;No;15;Tarde
+C-0124;España;Granada;Andalucía;28;Masculino;Alto;Ninguna;Sí;15;Mediodía
+C-1423;España;Cáceres;Extremadura;29;Femenino;Alto;Ninguna;No;15;Mañana
+C-1479;España;Plasencia;Extremadura;29;Femenino;Alto;Ninguna;Sí;15;Mañana
+C-1568;España;Zaragoza;Aragón;29;Femenino;Alto;Ninguna;No;15;Noche
+C-0209;España;Santander;Cantabria;29;Masculino;Alto;Ninguna;No;15;Noche
+C-0202;España;Santander;Cantabria;29;Masculino;Alto;Ninguna;Sí;15;Tarde
+C-1156;España;Gijón;Asturias;29;Masculino;Alto;Ninguna;Sí;15;Mañana
+C-1113;España;Pamplona;Navarra;30;Femenino;Alto;Leve;Sí;15;Tarde
+C-0172;España;Valladolid;Castilla y León;30;Masculino;Alto;Ninguna;No;15;Tarde
+C-0985;España;Málaga;Andalucía;30;Femenino;Alto;Ninguna;No;15;Tarde
+C-0453;España;Valencia;Comunidad Valenciana;31;Femenino;Alto;Ninguna;No;15;Tarde
+C-0041;España;Sevilla;Andalucía;31;Masculino;Alto;Ninguna;No;15;Noche
+C-1446;España;Alicante;Comunidad Valenciana;31;Masculino;Alto;Ninguna;Sí;15;Noche
+C-0278;España;Miranda de Ebro;Castilla y León;32;Masculino;Alto;Ninguna;No;15;Mediodía
+C-0143;España;Córdoba;Andalucía;32;Masculino;Alto;Ninguna;Sí;15;Noche
+C-0564;España;Alicante;Comunidad Valenciana;32;Masculino;Alto;Leve;Sí;15;Tarde
+C-0193;España;Burgos;Castilla y León;32;Masculino;Alto;Ninguna;Sí;15;Tarde
+C-0315;España;Elche;Comunidad Valenciana;32;Masculino;Alto;Ninguna;No;15;Tarde
+C-0784;España;Sevilla;Andalucía;32;Masculino;Alto;Ninguna;Sí;15;Tarde
+C-0652;España;San Sebastián;País Vasco;32;Masculino;Alto;Ninguna;No;15;Tarde
+C-0821;España;Madrid;Comunidad de Madrid;33;Masculino;Alto;Ninguna;No;15;Mediodía
+C-1594;España;Madrid;Comunidad de Madrid;33;Femenino;Alto;Ninguna;No;15;Mañana
+C-1425;España;Cáceres;Extremadura;33;Masculino;Alto;Ninguna;No;15;Noche
+C-0068;España;San Sebastián;País Vasco;33;Masculino;Alto;Ninguna;No;15;Noche
+C-0774;España;Palma;Islas Baleares;33;Femenino;Alto;Ninguna;No;15;Tarde
+C-1215;España;Valencia;Comunidad Valenciana;33;Masculino;Alto;Ninguna;No;15;Tarde
+C-1324;España;Logroño;La Rioja;33;Masculino;Alto;Ninguna;No;15;Tarde
+C-0395;España;Miranda de Ebro;Castilla y León;33;Masculino;Alto;Ninguna;No;15;Tarde
+C-0619;España;Madrid;Comunidad de Madrid;33;Femenino;Alto;Ninguna;No;15;Tarde
+C-0391;España;Miranda de Ebro;Castilla y León;34;Masculino;Alto;Ninguna;No;15;Tarde
+C-0807;España;Vigo;Galicia;36;Masculino;Alto;Ninguna;No;15;Tarde
+C-0184;España;Salamanca;Castilla y León;40;Femenino;Alto;Ninguna;No;15;Tarde
+C-0185;España;Salamanca;Castilla y León;41;Femenino;Alto;Ninguna;No;15;Tarde
+C-0167;España;Valladolid;Castilla y León;42;Masculino;Alto;Ninguna;No;15;Mediodía
+C-0159;España;Zaragoza;Aragón;47;Masculino;Alto;Ninguna;No;15;Mediodía
+C-0588;España;Oviedo;Asturias;47;Masculino;Alto;Ninguna;No;15;Mediodía
+C-1484;España;Plasencia;Extremadura;48;Masculino;Alto;Ninguna;No;15;Mediodía
+C-0712;España;Alicante;Comunidad Valenciana;51;Femenino;Alto;Ninguna;No;15;Mediodía
+C-1225;España;Vitoria-Gasteiz;País Vasco;51;Masculino;Alto;Ninguna;No;15;Mediodía
+C-0369;España;Sevilla;Andalucía;53;Masculino;Alto;Ninguna;No;15;Mediodía
+C-0113;España;Santiago de Compostela;Galicia;54;Masculino;Alto;Ninguna;Sí;15;Mediodía
+C-1518;España;Alicante;Comunidad Valenciana;58;Masculino;Alto;Ninguna;No;15;Mañana
+C-0160;España;Zaragoza;Aragón;59;Masculino;Alto;Ninguna;No;15;Mediodía
+C-0495;España;Madrid;Comunidad de Madrid;65;Femenino;Alto;Ninguna;Sí;15;Mediodía
+C-0786;España;Sevilla;Andalucía;22;Femenino;Alto;Ninguna;No;12;Mediodía
+C-0162;España;Zaragoza;Aragón;22;Femenino;Alto;Ninguna;No;12;Tarde
+C-0847;España;Alicante;Comunidad Valenciana;22;Femenino;Alto;Ninguna;No;12;Tarde
+C-1558;España;Valencia;Comunidad Valenciana;23;Masculino;Alto;Ninguna;No;12;Noche
+C-0102;España;A Coruña;Galicia;23;Femenino;Alto;Ninguna;No;12;Tarde
+C-1107;España;Alicante;Comunidad Valenciana;23;Femenino;Alto;Ninguna;No;12;Tarde
+C-1040;España;Vigo;Galicia;24;Femenino;Alto;Ninguna;No;12;Mañana
+C-0169;España;Valladolid;Castilla y León;24;Masculino;Alto;Ninguna;Sí;12;Mediodía
+C-0213;España;Oviedo;Asturias;24;Femenino;Alto;Ninguna;No;12;Tarde
+C-0235;España;Logroño;La Rioja;24;Masculino;Alto;Ninguna;No;12;Tarde
+C-0208;España;Santander;Cantabria;25;Masculino;Alto;Ninguna;No;12;Tarde
+C-0568;España;Alicante;Comunidad Valenciana;25;Femenino;Alto;Ninguna;No;12;Tarde
+C-0724;España;A Coruña;Galicia;25;Masculino;Alto;Ninguna;No;12;Tarde
+C-0144;España;Murcia;Región de Murcia;25;Masculino;Alto;Ninguna;No;12;Tarde
+C-1091;España;Salamanca;Castilla y León;26;Masculino;Alto;Ninguna;No;12;Mañana
+C-0725;España;A Coruña;Galicia;26;Masculino;Alto;Crónica;Sí;12;Mediodía
+C-0329;España;Gijón;Asturias;26;Masculino;Alto;Ninguna;Sí;12;Tarde
+C-0566;España;Alicante;Comunidad Valenciana;26;Femenino;Alto;Leve;Sí;12;Tarde
+C-0870;España;Bilbao;País Vasco;26;Masculino;Alto;Crónica;Sí;12;Tarde
+C-1512;España;Alicante;Comunidad Valenciana;26;Femenino;Alto;Ninguna;No;12;Tarde
+C-1586;España;Sevilla;Andalucía;26;Masculino;Alto;Ninguna;Sí;12;Tarde
+C-0181;España;Salamanca;Castilla y León;26;Femenino;Alto;Ninguna;No;12;Tarde
+C-0726;España;A Coruña;Galicia;26;Femenino;Alto;Leve;Sí;12;Tarde
+C-0647;España;Sevilla;Andalucía;26;Femenino;Alto;Leve;Sí;12;Tarde
+C-0376;España;Vigo;Galicia;26;Masculino;Alto;Leve;Sí;12;Tarde
+C-0482;España;Valladolid;Castilla y León;26;Femenino;Alto;Ninguna;No;12;Tarde
+C-0125;España;Granada;Andalucía;26;Masculino;Alto;Ninguna;Sí;12;Tarde
+C-0890;España;Alicante;Comunidad Valenciana;26;Femenino;Alto;Ninguna;Sí;12;Mañana
+C-0627;España;Madrid;Comunidad de Madrid;26;Masculino;Alto;Ninguna;Sí;12;Mediodía
+C-1595;España;Madrid;Comunidad de Madrid;26;Masculino;Alto;Ninguna;No;12;Noche
+C-1124;España;San Sebastián;País Vasco;26;Femenino;Alto;Ninguna;Sí;12;Tarde
+C-0047;España;Málaga;Andalucía;26;Femenino;Alto;Ninguna;No;12;Tarde
+C-1583;España;Sevilla;Andalucía;26;Masculino;Alto;Ninguna;No;12;Tarde
+C-0380;España;Vigo;Galicia;26;Femenino;Alto;Ninguna;No;12;Noche
+C-0280;España;Miranda de Ebro;Castilla y León;26;Masculino;Alto;Ninguna;No;12;Tarde
+C-0686;España;Cáceres;Extremadura;26;Masculino;Alto;Ninguna;No;12;Mañana
+C-0248;España;Badajoz;Extremadura;26;Masculino;Alto;Ninguna;Sí;12;Mediodía
+C-0948;España;San Sebastián;País Vasco;27;Femenino;Alto;Ninguna;No;12;Mañana
+C-0704;España;Salamanca;Castilla y León;27;Masculino;Alto;Ninguna;Sí;12;Mañana
+C-0511;España;Alicante;Comunidad Valenciana;27;Femenino;Alto;Ninguna;Sí;12;Mediodía
+C-0883;España;Alicante;Comunidad Valenciana;27;Masculino;Alto;Ninguna;Sí;12;Tarde
+C-1585;España;Sevilla;Andalucía;27;Femenino;Alto;Ninguna;Sí;12;Tarde
+C-0066;España;Bilbao;País Vasco;27;Masculino;Alto;Ninguna;No;12;Tarde
+C-0723;España;A Coruña;Galicia;27;Masculino;Alto;Ninguna;No;12;Mediodía
+C-0470;España;Salamanca;Castilla y León;27;Femenino;Alto;Ninguna;No;16;Mediodía
+C-1058;España;Badajoz;Extremadura;27;Femenino;Alto;Ninguna;No;16;Tarde
+C-1468;España;Valladolid;Castilla y León;27;Masculino;Alto;Ninguna;No;16;Tarde
+C-1493;España;Cáceres;Extremadura;27;Masculino;Alto;Ninguna;No;16;Tarde
+C-1517;España;Alicante;Comunidad Valenciana;27;Masculino;Alto;Leve;Sí;16;Tarde
+C-0737;España;Burgos;Castilla y León;27;Masculino;Alto;Ninguna;No;12;Tarde
+C-0241;España;Logroño;La Rioja;27;Femenino;Alto;Ninguna;Sí;12;Tarde
+C-0462;España;Valencia;Comunidad Valenciana;27;Masculino;Alto;Ninguna;No;12;Tarde
+C-1551;España;Valencia;Comunidad Valenciana;27;Masculino;Alto;Ninguna;Sí;12;Mañana
+C-0932;España;Bilbao;País Vasco;28;Masculino;Alto;Ninguna;No;12;Mañana
+C-0444;España;Oviedo;Asturias;28;Femenino;Alto;Ninguna;Sí;12;Mediodía
+C-0254;España;Cáceres;Extremadura;28;Masculino;Alto;Ninguna;No;12;Noche
+C-0857;España;Málaga;Andalucía;28;Femenino;Alto;Ninguna;Sí;12;Tarde
+C-0980;España;Málaga;Andalucía;28;Masculino;Alto;Ninguna;Sí;12;Tarde
+C-0747;España;Oviedo;Asturias;28;Masculino;Alto;Ninguna;Sí;12;Mediodía
+C-0004;España;Madrid;Comunidad de Madrid;28;Femenino;Alto;Ninguna;Sí;12;Noche
+C-0012;España;Barcelona;Cataluña;28;Femenino;Alto;Ninguna;Sí;12;Tarde
+C-1284;España;Málaga;Andalucía;28;Femenino;Alto;Ninguna;No;12;Tarde
+C-0303;España;Alicante;Comunidad Valenciana;28;Masculino;Alto;Ninguna;No;12;Tarde
+C-0055;España;Málaga;Andalucía;28;Femenino;Alto;Ninguna;No;12;Mañana
+C-1219;España;Vitoria-Gasteiz;País Vasco;28;Masculino;Alto;Ninguna;No;12;Mañana
+C-0972;España;Cáceres;Extremadura;28;Masculino;Alto;Ninguna;No;12;Mediodía
+C-1069;España;Salamanca;Castilla y León;28;Femenino;Alto;Ninguna;No;12;Tarde
+C-1254;España;Madrid;Comunidad de Madrid;28;Masculino;Alto;Ninguna;Sí;12;Tarde
+C-0310;España;Elche;Comunidad Valenciana;28;Masculino;Alto;Ninguna;No;12;Tarde
+C-0429;España;Logroño;La Rioja;28;Femenino;Alto;Ninguna;Sí;12;Tarde
+C-0471;España;Salamanca;Castilla y León;28;Femenino;Alto;Ninguna;No;12;Tarde
+C-0692;España;Cáceres;Extremadura;28;Femenino;Alto;Ninguna;No;12;Tarde
+C-1148;España;Burgos;Castilla y León;28;Masculino;Alto;Ninguna;No;12;Mañana
+C-0204;España;Santander;Cantabria;28;Masculino;Alto;Ninguna;No;12;Tarde
+C-1464;España;Valladolid;Castilla y León;28;Masculino;Alto;Ninguna;No;12;Tarde
+C-1050;España;Bilbao;País Vasco;28;Masculino;Alto;Ninguna;Sí;12;Tarde
+C-0449;España;Oviedo;Asturias;28;Femenino;Alto;Ninguna;No;12;Tarde
+C-0163;España;Zaragoza;Aragón;28;Masculino;Alto;Ninguna;No;12;Tarde
+C-0023;España;Valencia;Comunidad Valenciana;28;Femenino;Alto;Ninguna;No;12;Tarde
+C-1023;España;Gijón;Asturias;28;Femenino;Alto;Ninguna;No;12;Mañana
+C-0574;España;Pamplona;Navarra;28;Masculino;Alto;Leve;Sí;12;Tarde
+C-1086;España;Elche;Comunidad Valenciana;28;Masculino;Alto;Ninguna;No;12;Mediodía
+C-0993;España;Elche;Comunidad Valenciana;29;Masculino;Alto;Ninguna;Sí;12;Mañana
+C-0880;España;Bilbao;País Vasco;29;Femenino;Alto;Ninguna;No;12;Mañana
+C-0370;España;Sevilla;Andalucía;29;Femenino;Alto;Ninguna;No;12;Mediodía
+C-0666;España;Córdoba;Andalucía;29;Masculino;Alto;Ninguna;No;12;Mediodía
+C-0864;España;Logroño;La Rioja;29;Femenino;Alto;Ninguna;No;12;Mediodía
+C-0744;España;Oviedo;Asturias;29;Femenino;Alto;Ninguna;Sí;12;Tarde
+C-0837;España;Alicante;Comunidad Valenciana;29;Masculino;Alto;Ninguna;No;12;Tarde
+C-1111;España;Pamplona;Navarra;29;Masculino;Alto;Leve;Sí;12;Tarde
+C-0340;España;Murcia;Región de Murcia;29;Femenino;Alto;Ninguna;No;12;Mañana
+C-0256;España;Cáceres;Extremadura;29;Femenino;Alto;Ninguna;Sí;12;Tarde
+C-1354;España;Málaga;Andalucía;29;Masculino;Alto;Ninguna;Sí;12;Mañana
+C-1304;España;Barcelona;Cataluña;29;Masculino;Alto;Ninguna;No;12;Mañana
+C-1305;España;Barcelona;Cataluña;29;Masculino;Alto;Ninguna;No;12;Mañana
+C-0430;España;Madrid;Comunidad de Madrid;29;Masculino;Alto;Ninguna;No;12;Mediodía
+C-1306;España;Barcelona;Cataluña;29;Masculino;Alto;Ninguna;Sí;12;Mediodía
+C-1536;España;Logroño;La Rioja;29;Femenino;Alto;Ninguna;No;16;Mediodía
+C-0763;España;Alicante;Comunidad Valenciana;29;Masculino;Alto;Ninguna;No;16;Tarde
+C-1331;España;Bilbao;País Vasco;29;Masculino;Alto;Ninguna;Sí;16;Tarde
+C-1443;España;Alicante;Comunidad Valenciana;29;Femenino;Alto;Ninguna;No;12;Tarde
+C-0308;España;Alicante;Comunidad Valenciana;29;Masculino;Alto;Ninguna;No;12;Tarde
+C-0334;España;Murcia;Región de Murcia;29;Femenino;Alto;Ninguna;Sí;12;Tarde
+C-0348;España;Plasencia;Extremadura;29;Femenino;Alto;Ninguna;No;12;Tarde
+C-0525;España;Bilbao;País Vasco;29;Masculino;Alto;Ninguna;No;12;Tarde
+C-0641;España;Sevilla;Andalucía;29;Masculino;Alto;Ninguna;No;12;Tarde
+C-0913;España;Alicante;Comunidad Valenciana;29;Masculino;Alto;Leve;Sí;12;Mañana
+C-0475;España;Valladolid;Castilla y León;29;Femenino;Alto;Ninguna;No;12;Tarde
+C-0299;España;Alicante;Comunidad Valenciana;29;Femenino;Alto;Ninguna;No;12;Mañana
+C-1538;España;Logroño;La Rioja;29;Masculino;Alto;Ninguna;No;12;Tarde
+C-0447;España;Oviedo;Asturias;29;Masculino;Alto;Ninguna;No;15;Tarde
+C-0679;España;Santander;Cantabria;29;Masculino;Alto;Ninguna;No;15;Mediodía
+C-0029;España;Valencia;Comunidad Valenciana;30;Femenino;Alto;Ninguna;Sí;15;Mañana
+C-0611;España;San Sebastián;País Vasco;30;Femenino;Alto;Ninguna;No;15;Mañana
+C-0771;España;Palma;Islas Baleares;30;Femenino;Alto;Ninguna;No;15;Tarde
+C-0958;España;Gijón;Asturias;30;Masculino;Alto;Ninguna;No;15;Tarde
+C-1004;España;Zaragoza;Aragón;30;Masculino;Alto;Ninguna;No;12;Tarde
+C-0377;España;Vigo;Galicia;30;Femenino;Alto;Ninguna;No;12;Tarde
+C-0739;España;Oviedo;Asturias;30;Femenino;Alto;Ninguna;No;12;Tarde
+C-1267;España;Zaragoza;Aragón;30;Masculino;Alto;Ninguna;No;12;Mediodía
+C-1067;España;Badajoz;Extremadura;30;Masculino;Alto;Ninguna;No;12;Mediodía
+C-1096;España;Salamanca;Castilla y León;30;Femenino;Alto;Ninguna;No;12;Mediodía
+C-1283;España;Málaga;Andalucía;30;Femenino;Alto;Ninguna;No;12;Mediodía
+C-0917;España;Sevilla;Andalucía;30;Masculino;Alto;Crónica;Sí;12;Tarde
+C-1268;España;Zaragoza;Aragón;30;Femenino;Alto;Ninguna;No;12;Tarde
+C-1591;España;Madrid;Comunidad de Madrid;30;Femenino;Alto;Ninguna;No;12;Tarde
+C-0039;España;Sevilla;Andalucía;30;Masculino;Alto;Leve;Sí;12;Tarde
+C-0484;España;Valladolid;Castilla y León;30;Masculino;Alto;Crónica;Sí;12;Tarde
+C-0625;España;Madrid;Comunidad de Madrid;30;Femenino;Alto;Ninguna;No;12;Tarde
+C-1068;España;Salamanca;Castilla y León;30;Masculino;Alto;Leve;Sí;12;Tarde
+C-0492;España;Madrid;Comunidad de Madrid;30;Femenino;Alto;Ninguna;No;12;Mañana
+C-0274;España;Plasencia;Extremadura;30;Femenino;Alto;Ninguna;No;12;Mediodía
+C-0488;España;Madrid;Comunidad de Madrid;30;Masculino;Alto;Ninguna;No;12;Tarde
+C-0992;España;Elche;Comunidad Valenciana;30;Masculino;Alto;Ninguna;Sí;12;Tarde
+C-1232;España;Bilbao;País Vasco;30;Femenino;Alto;Ninguna;No;12;Tarde
+C-0390;España;Miranda de Ebro;Castilla y León;30;Masculino;Alto;Ninguna;No;12;Tarde
+C-0759;España;Gijón;Asturias;30;Masculino;Alto;Ninguna;Sí;12;Tarde
+C-1112;España;Pamplona;Navarra;30;Masculino;Alto;Ninguna;No;12;Tarde
+C-0061;España;Bilbao;País Vasco;30;Femenino;Alto;Leve;Sí;12;Mañana
+C-0036;España;Sevilla;Andalucía;31;Masculino;Alto;Ninguna;Sí;12;Mañana
+C-1130;España;Madrid;Comunidad de Madrid;31;Femenino;Alto;Ninguna;No;12;Mañana
+C-0507;España;Alicante;Comunidad Valenciana;31;Masculino;Alto;Ninguna;No;12;Mañana
+C-0460;España;Valencia;Comunidad Valenciana;31;Femenino;Alto;Ninguna;No;12;Mediodía
+C-1065;España;Badajoz;Extremadura;31;Femenino;Alto;Ninguna;No;12;Mediodía
+C-0823;España;Madrid;Comunidad de Madrid;31;Femenino;Alto;Ninguna;No;12;Tarde
+C-1108;España;Alicante;Comunidad Valenciana;31;Masculino;Alto;Ninguna;No;12;Tarde
+C-0114;España;Santiago de Compostela;Galicia;31;Masculino;Alto;Ninguna;No;12;Mañana
+C-0237;España;Logroño;La Rioja;31;Femenino;Alto;Ninguna;Sí;12;Mañana
+C-0536;España;Cáceres;Extremadura;31;Masculino;Alto;Leve;Sí;12;Mañana
+C-0675;España;Santander;Cantabria;31;Masculino;Alto;Ninguna;Sí;12;Mañana
+C-1162;España;Valencia;Comunidad Valenciana;31;Masculino;Alto;Leve;Sí;12;Mañana
+C-1526;España;Bilbao;País Vasco;31;Femenino;Alto;Ninguna;No;12;Mañana
+C-1024;España;Barcelona;Cataluña;31;Femenino;Alto;Ninguna;No;12;Mañana
+C-1209;España;Valencia;Comunidad Valenciana;31;Femenino;Alto;Ninguna;No;12;Mañana
+C-1321;España;Logroño;La Rioja;31;Masculino;Alto;Crónica;Sí;12;Mañana
+C-1355;España;Málaga;Andalucía;31;Femenino;Alto;Ninguna;Sí;12;Mañana
+C-0164;España;Zaragoza;Aragón;31;Masculino;Alto;Ninguna;No;12;Tarde
+C-1276;España;Vigo;Galicia;31;Femenino;Alto;Ninguna;No;12;Tarde
+C-1395;España;Granada;Andalucía;31;Masculino;Alto;Ninguna;No;12;Tarde
+C-0219;España;Oviedo;Asturias;31;Masculino;Alto;Ninguna;Sí;16;Tarde
+C-0415;España;Bilbao;País Vasco;31;Masculino;Alto;Ninguna;No;16;Tarde
+C-0750;España;Gijón;Asturias;31;Femenino;Alto;Leve;Sí;16;Mañana
+C-0121;España;Santiago de Compostela;Galicia;31;Femenino;Alto;Ninguna;Sí;12;Mañana
+C-0082;España;Vitoria-Gasteiz;País Vasco;31;Femenino;Alto;Ninguna;Sí;12;Tarde
+C-0148;España;Murcia;Región de Murcia;31;Femenino;Alto;Ninguna;No;12;Tarde
+C-0224;España;Pamplona;Navarra;31;Femenino;Alto;Ninguna;No;15;Mediodía
+C-0973;España;Cáceres;Extremadura;31;Masculino;Alto;Ninguna;No;15;Mañana
+C-0115;España;Santiago de Compostela;Galicia;31;Femenino;Alto;Ninguna;No;15;Mañana
+C-0930;España;Bilbao;País Vasco;31;Masculino;Alto;Ninguna;No;15;Noche
+C-1429;España;San Sebastián;País Vasco;31;Masculino;Alto;Ninguna;No;12;Tarde
+C-0297;España;Palma;Islas Baleares;32;Masculino;Alto;Ninguna;No;12;Mediodía
+C-0911;España;Alicante;Comunidad Valenciana;32;Masculino;Alto;Ninguna;Sí;12;Tarde
+C-0960;España;Gijón;Asturias;32;Masculino;Alto;Ninguna;No;12;Tarde
+C-1122;España;San Sebastián;País Vasco;32;Femenino;Alto;Ninguna;No;12;Tarde
+C-1548;España;Gijón;Asturias;32;Masculino;Alto;Ninguna;No;12;Mañana
+C-0177;España;Salamanca;Castilla y León;32;Masculino;Alto;Ninguna;No;12;Mediodía
+C-1537;España;Logroño;La Rioja;32;Femenino;Alto;Ninguna;No;12;Tarde
+C-0766;España;Alicante;Comunidad Valenciana;32;Femenino;Alto;Ninguna;No;12;Tarde
+C-0661;España;Córdoba;Andalucía;32;Femenino;Alto;Ninguna;No;12;Tarde
+C-0841;España;Alicante;Comunidad Valenciana;32;Masculino;Alto;Leve;Sí;12;Tarde
+C-0855;España;Málaga;Andalucía;32;Masculino;Alto;Ninguna;Sí;12;Noche
+C-0531;España;Cáceres;Extremadura;33;Femenino;Alto;Ninguna;No;12;Mañana
+C-0123;España;Granada;Andalucía;33;Femenino;Alto;Ninguna;Sí;12;Mediodía
+C-0866;España;Logroño;La Rioja;33;Femenino;Alto;Ninguna;No;12;Mediodía
+C-0138;España;Córdoba;Andalucía;33;Femenino;Alto;Ninguna;No;16;Mañana
+C-0443;España;Oviedo;Asturias;33;Masculino;Alto;Ninguna;No;16;Mañana
+C-1194;España;Burgos;Castilla y León;33;Femenino;Alto;Ninguna;No;16;Tarde
+C-0275;España;Plasencia;Extremadura;33;Masculino;Alto;Ninguna;No;16;Mañana
+C-1449;España;Logroño;La Rioja;33;Femenino;Alto;Ninguna;No;16;Mañana
+C-1424;España;Cáceres;Extremadura;33;Masculino;Alto;Ninguna;No;16;Mañana
+C-1204;España;Córdoba;Andalucía;33;Femenino;Alto;Leve;Sí;16;Tarde
+C-1288;España;Málaga;Andalucía;33;Masculino;Alto;Ninguna;Sí;12;Tarde
+C-0300;España;Alicante;Comunidad Valenciana;33;Femenino;Alto;Leve;Sí;12;Tarde
+C-0331;España;Murcia;Región de Murcia;33;Femenino;Alto;Ninguna;Sí;12;Tarde
+C-1547;España;Gijón;Asturias;33;Femenino;Alto;Ninguna;No;12;Tarde
+C-0136;España;Córdoba;Andalucía;33;Femenino;Alto;Ninguna;No;12;Tarde
+C-0486;España;Madrid;Comunidad de Madrid;33;Femenino;Alto;Ninguna;No;12;Tarde
+C-0755;España;Gijón;Asturias;33;Masculino;Alto;Ninguna;No;12;Tarde
+C-0363;España;Zaragoza;Aragón;34;Femenino;Alto;Ninguna;No;12;Mañana
+C-0424;España;Logroño;La Rioja;34;Femenino;Alto;Ninguna;No;12;Mañana
+C-0563;España;Alicante;Comunidad Valenciana;34;Masculino;Alto;Ninguna;No;12;Mañana
+C-0882;España;Alicante;Comunidad Valenciana;34;Femenino;Alto;Leve;Sí;12;Tarde
+C-0667;España;Córdoba;Andalucía;34;Masculino;Alto;Ninguna;Sí;12;Mañana
+C-0898;España;Burgos;Castilla y León;34;Masculino;Alto;Leve;Sí;12;Mañana
+C-1218;España;Valencia;Comunidad Valenciana;34;Femenino;Alto;Ninguna;No;12;Mañana
+C-1308;España;Barcelona;Cataluña;34;Femenino;Alto;Ninguna;Sí;12;Tarde
+C-0643;España;Sevilla;Andalucía;34;Masculino;Alto;Crónica;Sí;12;Tarde
+C-0862;España;Logroño;La Rioja;35;Femenino;Alto;Ninguna;No;12;Mañana
+C-0907;España;Alicante;Comunidad Valenciana;35;Femenino;Alto;Ninguna;No;12;Mediodía
+C-0314;España;Elche;Comunidad Valenciana;35;Masculino;Alto;Ninguna;Sí;12;Noche
+C-1092;España;Salamanca;Castilla y León;35;Femenino;Alto;Ninguna;No;12;Tarde
+C-0688;España;Cáceres;Extremadura;35;Femenino;Alto;Ninguna;No;12;Mañana
+C-0199;España;Santander;Cantabria;35;Masculino;Alto;Ninguna;No;12;Mañana
+C-0420;España;Logroño;La Rioja;35;Femenino;Alto;Ninguna;No;12;Mañana
+C-0543;España;Zaragoza;Aragón;35;Masculino;Alto;Ninguna;No;12;Mañana
+C-0207;España;Santander;Cantabria;35;Femenino;Alto;Ninguna;Sí;12;Mediodía
+C-0934;España;Bilbao;País Vasco;35;Masculino;Alto;Ninguna;No;12;Mediodía
+C-1374;España;Bilbao;País Vasco;35;Masculino;Alto;Ninguna;No;12;Noche
+C-0590;España;Oviedo;Asturias;36;Femenino;Alto;Ninguna;No;12;Mañana
+C-0135;España;Córdoba;Andalucía;36;Masculino;Alto;Ninguna;Sí;12;Mañana
+C-0145;España;Murcia;Región de Murcia;36;Femenino;Alto;Ninguna;No;12;Mañana
+C-1051;España;Bilbao;País Vasco;36;Masculino;Alto;Ninguna;No;12;Mañana
+C-1523;España;Bilbao;País Vasco;36;Masculino;Alto;Crónica;Sí;12;Mediodía
+C-0006;España;Madrid;Comunidad de Madrid;36;Masculino;Alto;Ninguna;No;12;Noche
+C-1138;España;Madrid;Comunidad de Madrid;36;Masculino;Alto;Ninguna;No;12;Tarde
+C-0108;España;A Coruña;Galicia;36;Masculino;Alto;Ninguna;Sí;12;Tarde
+C-0630;España;Barcelona;Cataluña;36;Masculino;Alto;Ninguna;No;12;Tarde
+C-0279;España;Miranda de Ebro;Castilla y León;36;Masculino;Alto;Ninguna;No;12;Mañana
+C-0727;España;Burgos;Castilla y León;36;Femenino;Alto;Ninguna;No;12;Mañana
+C-0227;España;Pamplona;Navarra;37;Femenino;Alto;Ninguna;No;12;Mediodía
+C-0408;España;Bilbao;País Vasco;37;Femenino;Alto;Ninguna;No;12;Mediodía
+C-0104;España;A Coruña;Galicia;37;Masculino;Alto;Ninguna;No;12;Mediodía
+C-0941;España;Vigo;Galicia;37;Femenino;Alto;Leve;Sí;12;Mediodía
+C-1377;España;Bilbao;País Vasco;37;Masculino;Alto;Ninguna;No;12;Noche
+C-0632;España;Barcelona;Cataluña;38;Femenino;Alto;Ninguna;Sí;12;Mañana
+C-1087;España;Elche;Comunidad Valenciana;38;Masculino;Alto;Ninguna;No;12;Tarde
+C-1266;España;Zaragoza;Aragón;38;Masculino;Alto;Ninguna;No;12;Mañana
+C-0598;España;Elche;Comunidad Valenciana;39;Femenino;Alto;Ninguna;No;12;Mañana
+C-0871;España;Bilbao;País Vasco;39;Femenino;Alto;Ninguna;No;12;Mañana
+C-1473;España;Salamanca;Castilla y León;39;Masculino;Alto;Ninguna;No;12;Mañana
+C-1444;España;Alicante;Comunidad Valenciana;39;Masculino;Alto;Ninguna;Sí;12;Mediodía
+C-0758;España;Gijón;Asturias;39;Masculino;Alto;Leve;Sí;12;Tarde
+C-0152;España;Murcia;Región de Murcia;40;Femenino;Alto;Ninguna;Sí;12;Mañana
+C-1076;España;Salamanca;Castilla y León;40;Femenino;Alto;Leve;Sí;12;Mediodía
+C-1580;España;Sevilla;Andalucía;40;Masculino;Alto;Ninguna;No;12;Mediodía
+C-0551;España;Granada;Andalucía;40;Masculino;Alto;Ninguna;Sí;12;Mediodía
+C-0354;España;Zaragoza;Aragón;41;Femenino;Alto;Leve;Sí;12;Mediodía
+C-1478;España;Salamanca;Castilla y León;41;Masculino;Alto;Ninguna;No;12;Mañana
+C-0685;España;Cáceres;Extremadura;42;Masculino;Alto;Ninguna;No;12;Mañana
+C-0707;España;Alicante;Comunidad Valenciana;42;Femenino;Alto;Ninguna;No;12;Tarde
+C-0710;España;Alicante;Comunidad Valenciana;42;Femenino;Alto;Ninguna;No;12;Tarde
+C-0662;España;Córdoba;Andalucía;43;Masculino;Alto;Ninguna;No;12;Mañana
+C-0296;España;Palma;Islas Baleares;43;Masculino;Alto;Leve;Sí;12;Mañana
+C-0414;España;Bilbao;País Vasco;44;Femenino;Alto;Ninguna;No;12;Mañana
+C-1590;España;Madrid;Comunidad de Madrid;44;Masculino;Alto;Ninguna;No;12;Noche
+C-0091;España;Vigo;Galicia;44;Femenino;Alto;Ninguna;No;12;Tarde
+C-1187;España;Logroño;La Rioja;45;Femenino;Alto;Ninguna;No;12;Mediodía
+C-1368;España;Elche;Comunidad Valenciana;45;Femenino;Alto;Ninguna;No;12;Mediodía
+C-0793;España;Granada;Andalucía;45;Femenino;Alto;Ninguna;Sí;12;Tarde
+C-0324;España;Gijón;Asturias;45;Masculino;Alto;Ninguna;No;12;Tarde
+C-0396;España;Miranda de Ebro;Castilla y León;46;Masculino;Alto;Ninguna;No;12;Mañana
+C-1039;España;Vigo;Galicia;46;Masculino;Alto;Ninguna;No;12;Mañana
+C-1417;España;Barcelona;Cataluña;46;Femenino;Alto;Ninguna;Sí;12;Mañana
+C-0015;España;Barcelona;Cataluña;46;Masculino;Alto;Ninguna;No;12;Tarde
+C-0281;España;Miranda de Ebro;Castilla y León;47;Femenino;Alto;Ninguna;Sí;12;Mediodía
+C-1264;España;Zaragoza;Aragón;47;Femenino;Alto;Ninguna;Sí;12;Noche
+C-1205;España;Córdoba;Andalucía;48;Masculino;Alto;Ninguna;No;12;Tarde
+C-1415;España;Barcelona;Cataluña;49;Masculino;Alto;Leve;Sí;12;Tarde
+C-0987;España;Málaga;Andalucía;50;Masculino;Alto;Ninguna;Sí;12;Mediodía
+C-0481;España;Valladolid;Castilla y León;51;Femenino;Alto;Ninguna;No;12;Mediodía
+C-1522;España;Bilbao;País Vasco;51;Masculino;Alto;Ninguna;No;12;Tarde
+C-1017;España;Gijón;Asturias;52;Masculino;Alto;Leve;Sí;12;Tarde
+C-1373;España;Bilbao;País Vasco;52;Masculino;Alto;Leve;Sí;12;Tarde
+C-1488;España;Plasencia;Extremadura;53;Femenino;Alto;Leve;Sí;12;Noche
+C-0198;España;Burgos;Castilla y León;54;Masculino;Alto;Ninguna;Sí;12;Mañana
+C-0246;España;Badajoz;Extremadura;54;Masculino;Alto;Ninguna;No;12;Mañana
+C-0567;España;Alicante;Comunidad Valenciana;54;Masculino;Alto;Leve;Sí;12;Mañana
+C-1546;España;Gijón;Asturias;54;Femenino;Alto;Ninguna;Sí;12;Mediodía
+C-1295;España;Burgos;Castilla y León;54;Masculino;Alto;Ninguna;Sí;12;Noche
+C-0410;España;Bilbao;País Vasco;55;Femenino;Alto;Ninguna;No;12;Mediodía
+C-0116;España;Santiago de Compostela;Galicia;55;Masculino;Alto;Ninguna;Sí;12;Mañana
+C-0955;España;San Sebastián;País Vasco;56;Masculino;Alto;Ninguna;No;12;Tarde
+C-1161;España;Valencia;Comunidad Valenciana;56;Femenino;Alto;Ninguna;No;12;Mañana
+C-1552;España;Valencia;Comunidad Valenciana;56;Masculino;Alto;Leve;Sí;12;Noche
+C-0526;España;Bilbao;País Vasco;57;Masculino;Alto;Ninguna;No;12;Mediodía
+C-0132;España;Granada;Andalucía;57;Femenino;Alto;Ninguna;No;12;Tarde
+C-1236;España;Bilbao;País Vasco;61;Masculino;Alto;Ninguna;Sí;12;Mañana
+C-0673;España;Santander;Cantabria;61;Femenino;Alto;Ninguna;Sí;12;Tarde
+C-1426;España;Cáceres;Extremadura;62;Femenino;Alto;Ninguna;No;12;Noche
+C-0119;España;Santiago de Compostela;Galicia;62;Masculino;Alto;Ninguna;Sí;12;Tarde
+C-1587;España;Sevilla;Andalucía;63;Masculino;Alto;Ninguna;No;12;Mediodía
+C-0099;España;Vigo;Galicia;65;Femenino;Alto;Ninguna;No;12;Mañana
+C-0431;España;Madrid;Comunidad de Madrid;65;Femenino;Alto;Leve;Sí;12;Mediodía
+C-0309;España;Elche;Comunidad Valenciana;65;Masculino;Alto;Ninguna;No;12;Mañana
+C-1095;España;Salamanca;Castilla y León;22;Femenino;Alto;Ninguna;No;10;Mediodía
+C-1307;España;Barcelona;Cataluña;22;Masculino;Alto;Ninguna;No;10;Noche
+C-1381;España;Madrid;Comunidad de Madrid;22;Masculino;Alto;Ninguna;No;10;Tarde
+C-1384;España;Madrid;Comunidad de Madrid;22;Masculino;Alto;Ninguna;No;10;Tarde
+C-1136;España;Madrid;Comunidad de Madrid;22;Masculino;Alto;Ninguna;Sí;10;Tarde
+C-1020;España;Gijón;Asturias;23;Femenino;Alto;Ninguna;No;10;Mañana
+C-0903;España;Alicante;Comunidad Valenciana;23;Femenino;Alto;Ninguna;No;10;Mañana
+C-0546;España;Zaragoza;Aragón;23;Femenino;Alto;Ninguna;Sí;10;Tarde
+C-0988;España;Málaga;Andalucía;23;Masculino;Alto;Ninguna;No;10;Tarde
+C-0600;España;Elche;Comunidad Valenciana;23;Masculino;Alto;Ninguna;No;10;Mañana
+C-0945;España;Vigo;Galicia;23;Masculino;Alto;Ninguna;Sí;10;Tarde
+C-1572;España;Zaragoza;Aragón;24;Masculino;Alto;Leve;Sí;10;Mañana
+C-0074;España;San Sebastián;País Vasco;24;Femenino;Alto;Ninguna;No;10;Mediodía
+C-1597;España;Madrid;Comunidad de Madrid;24;Femenino;Alto;Crónica;Sí;10;Noche
+C-0682;España;Santander;Cantabria;25;Femenino;Alto;Ninguna;No;10;Mañana
+C-1006;España;Zaragoza;Aragón;25;Masculino;Alto;Ninguna;Sí;10;Tarde
+C-1246;España;Zaragoza;Aragón;25;Masculino;Alto;Ninguna;No;10;Tarde
+C-1477;España;Salamanca;Castilla y León;25;Masculino;Alto;Ninguna;Sí;10;Tarde
+C-0541;España;Zaragoza;Aragón;25;Masculino;Alto;Leve;Sí;10;Mañana
+C-0868;España;Logroño;La Rioja;25;Masculino;Alto;Ninguna;No;10;Mañana
+C-0550;España;Zaragoza;Aragón;25;Femenino;Alto;Ninguna;No;10;Mediodía
+C-0277;España;Miranda de Ebro;Castilla y León;25;Masculino;Alto;Ninguna;No;10;Tarde
+C-0622;España;Madrid;Comunidad de Madrid;26;Masculino;Alto;Ninguna;Sí;10;Mañana
+C-0389;España;Miranda de Ebro;Castilla y León;26;Femenino;Alto;Ninguna;No;10;Mediodía
+C-0236;España;Logroño;La Rioja;26;Femenino;Alto;Ninguna;No;10;Tarde
+C-0818;España;Madrid;Comunidad de Madrid;26;Masculino;Alto;Ninguna;No;10;Tarde
+C-1160;España;Valencia;Comunidad Valenciana;26;Masculino;Alto;Ninguna;No;10;Tarde
+C-1158;España;Gijón;Asturias;26;Masculino;Alto;Ninguna;No;10;Mañana
+C-0863;España;Logroño;La Rioja;26;Masculino;Alto;Ninguna;No;10;Mañana
+C-0711;España;Alicante;Comunidad Valenciana;26;Masculino;Alto;Ninguna;Sí;10;Mañana
+C-0924;España;Sevilla;Andalucía;26;Femenino;Alto;Ninguna;No;10;Tarde
+C-0011;España;Madrid;Comunidad de Madrid;26;Femenino;Alto;Ninguna;No;10;Tarde
+C-1411;España;Barcelona;Cataluña;27;Femenino;Alto;Ninguna;No;10;Mañana
+C-1346;España;Córdoba;Andalucía;27;Femenino;Alto;Ninguna;Sí;10;Mañana
+C-0920;España;Sevilla;Andalucía;27;Femenino;Alto;Ninguna;No;10;Mediodía
+C-1157;España;Gijón;Asturias;27;Masculino;Alto;Ninguna;Sí;10;Mediodía
+C-1224;España;Vitoria-Gasteiz;País Vasco;27;Femenino;Alto;Ninguna;No;10;Noche
+C-1349;España;Málaga;Andalucía;27;Femenino;Alto;Ninguna;No;10;Noche
+C-0977;España;Cáceres;Extremadura;27;Masculino;Alto;Ninguna;No;10;Mediodía
+C-0966;España;Gijón;Asturias;28;Femenino;Alto;Leve;Sí;10;Mañana
+C-1081;España;Elche;Comunidad Valenciana;28;Femenino;Alto;Ninguna;No;10;Mañana
+C-1134;España;Madrid;Comunidad de Madrid;28;Masculino;Alto;Ninguna;No;10;Mañana
+C-1372;España;Bilbao;País Vasco;28;Femenino;Alto;Leve;Sí;10;Mañana
+C-1335;España;Bilbao;País Vasco;28;Femenino;Alto;Ninguna;No;10;Mañana
+C-1571;España;Zaragoza;Aragón;28;Masculino;Alto;Ninguna;No;10;Mañana
+C-0831;España;Gijón;Asturias;28;Femenino;Alto;Ninguna;No;10;Mediodía
+C-0999;España;Elche;Comunidad Valenciana;28;Masculino;Alto;Crónica;Sí;10;Tarde
+C-0845;España;Alicante;Comunidad Valenciana;28;Masculino;Alto;Ninguna;Sí;10;Mañana
+C-1003;España;Zaragoza;Aragón;29;Femenino;Alto;Ninguna;No;10;Mañana
+C-1294;España;Burgos;Castilla y León;29;Masculino;Alto;Ninguna;No;10;Mañana
+C-0245;España;Badajoz;Extremadura;29;Masculino;Alto;Ninguna;No;10;Mañana
+C-1071;España;Salamanca;Castilla y León;29;Femenino;Alto;Ninguna;Sí;10;Mañana
+C-1490;España;Cáceres;Extremadura;29;Masculino;Alto;Ninguna;No;10;Mañana
+C-1435;España;San Sebastián;País Vasco;29;Femenino;Alto;Ninguna;No;10;Noche
+C-0188;España;Burgos;Castilla y León;29;Masculino;Alto;Leve;Sí;10;Noche
+C-1012;España;Zaragoza;Aragón;29;Masculino;Alto;Ninguna;Sí;10;Tarde
+C-1300;España;Barcelona;Cataluña;29;Femenino;Alto;Ninguna;No;10;Tarde
+C-1598;España;Madrid;Comunidad de Madrid;29;Masculino;Alto;Crónica;Sí;10;Tarde
+C-1104;España;Alicante;Comunidad Valenciana;29;Masculino;Alto;Ninguna;No;10;Mañana
+C-0646;España;Sevilla;Andalucía;30;Femenino;Alto;Ninguna;No;10;Mañana
+C-0933;España;Bilbao;País Vasco;30;Femenino;Alto;Ninguna;No;10;Mañana
+C-1159;España;Valencia;Comunidad Valenciana;30;Masculino;Alto;Ninguna;No;10;Mediodía
+C-1463;España;Valladolid;Castilla y León;30;Masculino;Alto;Leve;Sí;10;Noche
+C-1506;España;Madrid;Comunidad de Madrid;30;Masculino;Alto;Ninguna;No;10;Noche
+C-1152;España;Gijón;Asturias;30;Masculino;Alto;Ninguna;No;10;Tarde
+C-1258;España;Madrid;Comunidad de Madrid;30;Femenino;Alto;Ninguna;No;10;Tarde
+C-1574;España;Zaragoza;Aragón;31;Masculino;Alto;Ninguna;No;10;Mañana
+C-0919;España;Sevilla;Andalucía;31;Masculino;Alto;Ninguna;Sí;10;Mediodía
+C-1540;España;Gijón;Asturias;31;Femenino;Alto;Ninguna;No;10;Mediodía
+C-0800;España;Granada;Andalucía;31;Masculino;Alto;Ninguna;Sí;10;Tarde
+C-0983;España;Málaga;Andalucía;31;Femenino;Alto;Ninguna;Sí;10;Tarde
+C-1155;España;Gijón;Asturias;32;Femenino;Alto;Leve;Sí;10;Mañana
+C-1561;España;Zaragoza;Aragón;32;Femenino;Alto;Ninguna;No;10;Mañana
+C-0790;España;Sevilla;Andalucía;32;Masculino;Alto;Ninguna;Sí;10;Mediodía
+C-0286;España;Miranda de Ebro;Castilla y León;32;Femenino;Alto;Ninguna;No;10;Tarde
+C-1495;España;Cáceres;Extremadura;32;Masculino;Alto;Crónica;Sí;10;Tarde
+C-1501;España;Madrid;Comunidad de Madrid;32;Femenino;Alto;Ninguna;No;10;Tarde
+C-0947;España;San Sebastián;País Vasco;33;Masculino;Alto;Leve;Sí;10;Mañana
+C-1431;España;San Sebastián;País Vasco;33;Femenino;Alto;Ninguna;No;10;Mediodía
+C-0469;España;Salamanca;Castilla y León;33;Femenino;Alto;Crónica;Sí;10;Mediodía
+C-1082;España;Elche;Comunidad Valenciana;33;Masculino;Alto;Leve;Sí;10;Mediodía
+C-1214;España;Valencia;Comunidad Valenciana;33;Femenino;Alto;Ninguna;No;10;Mediodía
+C-0072;España;San Sebastián;País Vasco;33;Masculino;Alto;Ninguna;No;10;Tarde
+C-0503;España;Málaga;Andalucía;34;Masculino;Alto;Ninguna;Sí;10;Mañana
+C-0478;España;Valladolid;Castilla y León;34;Masculino;Alto;Ninguna;No;10;Mañana
+C-0676;España;Santander;Cantabria;34;Femenino;Alto;Ninguna;No;10;Mediodía
+C-0819;España;Madrid;Comunidad de Madrid;34;Masculino;Alto;Ninguna;No;10;Mediodía
+C-1461;España;Valladolid;Castilla y León;34;Masculino;Alto;Ninguna;Sí;10;Noche
+C-1519;España;Bilbao;País Vasco;34;Masculino;Alto;Ninguna;No;10;Noche
+C-0341;España;Murcia;Región de Murcia;34;Femenino;Alto;Ninguna;No;10;Tarde
+C-0754;España;Gijón;Asturias;34;Masculino;Alto;Leve;Sí;10;Tarde
+C-0795;España;Granada;Andalucía;34;Masculino;Alto;Ninguna;No;10;Tarde
+C-1189;España;Burgos;Castilla y León;34;Femenino;Alto;Ninguna;No;10;Tarde
+C-0433;España;Madrid;Comunidad de Madrid;35;Masculino;Alto;Ninguna;No;10;Tarde
+C-1378;España;Bilbao;País Vasco;35;Femenino;Alto;Ninguna;No;10;Tarde
+C-0813;España;Vigo;Galicia;37;Masculino;Alto;Ninguna;Sí;10;Mañana
+C-0195;España;Burgos;Castilla y León;37;Femenino;Alto;Ninguna;No;10;Tarde
+C-0872;España;Bilbao;País Vasco;37;Masculino;Alto;Ninguna;No;10;Tarde
+C-0487;España;Madrid;Comunidad de Madrid;38;Femenino;Alto;Crónica;Sí;10;Tarde
+C-1198;España;Burgos;Castilla y León;39;Femenino;Alto;Ninguna;Sí;10;Mañana
+C-1282;España;Málaga;Andalucía;40;Femenino;Alto;Leve;Sí;10;Tarde
+C-0853;España;Málaga;Andalucía;41;Femenino;Alto;Ninguna;No;10;Mañana
+C-0266;España;Plasencia;Extremadura;41;Femenino;Alto;Ninguna;No;10;Mañana
+C-0904;España;Alicante;Comunidad Valenciana;41;Femenino;Alto;Ninguna;No;10;Tarde
+C-1253;España;Madrid;Comunidad de Madrid;41;Femenino;Alto;Leve;Sí;10;Tarde
+C-1485;España;Plasencia;Extremadura;41;Masculino;Alto;Ninguna;No;10;Tarde
+C-1412;España;Barcelona;Cataluña;42;Femenino;Alto;Ninguna;No;10;Mañana
+C-1255;España;Madrid;Comunidad de Madrid;42;Masculino;Alto;Ninguna;No;10;Mañana
+C-0889;España;Alicante;Comunidad Valenciana;43;Masculino;Alto;Crónica;Sí;10;Mediodía
+C-0020;España;Barcelona;Cataluña;43;Femenino;Alto;Ninguna;No;10;Tarde
+C-1116;España;Pamplona;Navarra;43;Femenino;Alto;Ninguna;No;10;Tarde
+C-0301;España;Alicante;Comunidad Valenciana;44;Femenino;Alto;Leve;Sí;10;Mañana
+C-1369;España;Bilbao;País Vasco;44;Masculino;Alto;Ninguna;No;10;Mañana
+C-1274;España;Vigo;Galicia;45;Masculino;Alto;Crónica;Sí;10;Tarde
+C-0613;España;San Sebastián;País Vasco;46;Femenino;Alto;Ninguna;No;10;Mañana
+C-0965;España;Gijón;Asturias;46;Femenino;Alto;Ninguna;Sí;10;Mañana
+C-1234;España;Bilbao;País Vasco;46;Masculino;Alto;Ninguna;Sí;10;Mañana
+C-1396;España;Granada;Andalucía;46;Femenino;Alto;Ninguna;Sí;10;Mediodía
+C-1245;España;Zaragoza;Aragón;47;Masculino;Alto;Ninguna;No;10;Mañana
+C-1261;España;Zaragoza;Aragón;47;Femenino;Alto;Ninguna;No;10;Mañana
+C-1063;España;Badajoz;Extremadura;47;Masculino;Alto;Leve;Sí;10;Tarde
+C-0830;España;Gijón;Asturias;49;Masculino;Alto;Ninguna;No;10;Mañana
+C-0876;España;Bilbao;País Vasco;49;Femenino;Alto;Ninguna;No;10;Mañana
+C-1358;España;Málaga;Andalucía;49;Femenino;Alto;Ninguna;No;10;Noche
+C-1241;España;Zaragoza;Aragón;49;Masculino;Alto;Ninguna;Sí;10;Tarde
+C-1366;España;Elche;Comunidad Valenciana;50;Masculino;Alto;Ninguna;No;10;Mañana
+C-1438;España;San Sebastián;País Vasco;50;Masculino;Alto;Ninguna;No;10;Mañana
+C-0794;España;Granada;Andalucía;50;Masculino;Alto;Ninguna;No;10;Tarde
+C-0106;España;A Coruña;Galicia;52;Femenino;Alto;Ninguna;No;10;Mediodía
+C-0105;España;A Coruña;Galicia;52;Masculino;Alto;Ninguna;No;10;Tarde
+C-0223;España;Pamplona;Navarra;52;Masculino;Alto;Ninguna;No;10;Tarde
+C-0733;España;Burgos;Castilla y León;52;Masculino;Alto;Ninguna;No;10;Tarde
+C-1326;España;Logroño;La Rioja;56;Femenino;Alto;Ninguna;No;10;Mañana
+C-1182;España;Logroño;La Rioja;56;Masculino;Alto;Ninguna;Sí;10;Mediodía
+C-1404;España;Málaga;Andalucía;56;Masculino;Alto;Ninguna;No;10;Noche
+C-1057;España;Badajoz;Extremadura;58;Masculino;Alto;Crónica;Sí;10;Mañana
+C-0295;España;Palma;Islas Baleares;58;Femenino;Alto;Ninguna;Sí;10;Mediodía
+C-0802;España;Granada;Andalucía;58;Femenino;Alto;Ninguna;No;10;Tarde
+C-1147;España;Burgos;Castilla y León;58;Masculino;Alto;Ninguna;No;10;Tarde
+C-1455;España;Logroño;La Rioja;59;Femenino;Alto;Ninguna;No;10;Mañana
+C-1476;España;Salamanca;Castilla y León;59;Femenino;Alto;Ninguna;No;10;Mañana
+C-0284;España;Miranda de Ebro;Castilla y León;59;Femenino;Alto;Ninguna;No;10;Mediodía
+C-0975;España;Cáceres;Extremadura;59;Masculino;Alto;Ninguna;Sí;10;Tarde
+C-1149;España;Gijón;Asturias;59;Femenino;Alto;Ninguna;Sí;10;Tarde
+C-0893;España;Burgos;Castilla y León;60;Femenino;Alto;Ninguna;Sí;10;Mediodía
+C-0230;España;Pamplona;Navarra;60;Masculino;Alto;Ninguna;No;10;Tarde
+C-1200;España;Córdoba;Andalucía;61;Masculino;Alto;Ninguna;Sí;10;Mañana
+C-0693;España;Cáceres;Extremadura;61;Masculino;Alto;Ninguna;No;10;Tarde
+C-1422;España;Cáceres;Extremadura;62;Masculino;Alto;Ninguna;No;10;Mañana
+C-0112;España;Santiago de Compostela;Galicia;62;Masculino;Alto;Ninguna;No;10;Mediodía
+C-1220;España;Vitoria-Gasteiz;País Vasco;62;Masculino;Alto;Ninguna;No;10;Mediodía
+C-1353;España;Málaga;Andalucía;62;Femenino;Alto;Ninguna;No;10;Noche
+C-1497;España;Cáceres;Extremadura;62;Femenino;Alto;Ninguna;No;10;Tarde
+C-1135;España;Madrid;Comunidad de Madrid;65;Femenino;Alto;Ninguna;No;10;Mañana
+C-1410;España;Barcelona;Cataluña;65;Masculino;Alto;Ninguna;Sí;10;Noche
+C-1575;España;Zaragoza;Aragón;65;Femenino;Alto;Ninguna;No;10;Noche
+C-0799;España;Granada;Andalucía;65;Masculino;Alto;Leve;Sí;10;Tarde
+C-1271;España;Vigo;Galicia;65;Masculino;Alto;Ninguna;No;10;Tarde
+C-0496;España;Málaga;Andalucía;67;Femenino;Alto;Ninguna;Sí;10;Mañana
+C-1347;España;Córdoba;Andalucía;67;Femenino;Alto;Ninguna;Sí;10;Mañana
+C-0242;España;Logroño;La Rioja;21;Femenino;Alto;Leve;Sí;8;Mañana
+C-0506;España;Málaga;Andalucía;21;Masculino;Alto;Ninguna;Sí;8;Mañana
+C-0518;España;Bilbao;País Vasco;21;Femenino;Alto;Ninguna;No;8;Mañana
+C-1323;España;Logroño;La Rioja;21;Femenino;Alto;Ninguna;No;8;Mañana
+C-1231;España;Bilbao;País Vasco;21;Femenino;Alto;Ninguna;Sí;8;Mediodía
+C-0043;España;Sevilla;Andalucía;21;Femenino;Alto;Ninguna;No;8;Mediodía
+C-0772;España;Palma;Islas Baleares;21;Femenino;Alto;Leve;Sí;8;Mediodía
+C-1048;España;Bilbao;País Vasco;21;Femenino;Alto;Ninguna;Sí;8;Tarde
+C-1342;España;Córdoba;Andalucía;21;Femenino;Alto;Ninguna;No;8;Tarde
+C-0728;España;Burgos;Castilla y León;21;Masculino;Alto;Ninguna;No;8;Mañana
+C-1061;España;Badajoz;Extremadura;21;Masculino;Alto;Ninguna;No;8;Mediodía
+C-0268;España;Plasencia;Extremadura;22;Masculino;Alto;Ninguna;No;8;Mañana
+C-0404;España;Granada;Andalucía;22;Masculino;Alto;Ninguna;Sí;8;Mañana
+C-0316;España;Elche;Comunidad Valenciana;22;Femenino;Alto;Leve;Sí;8;Mañana
+C-0087;España;Vitoria-Gasteiz;País Vasco;22;Femenino;Alto;Ninguna;Sí;8;Mediodía
+C-0895;España;Burgos;Castilla y León;22;Masculino;Alto;Leve;Sí;8;Mediodía
+C-0540;España;Zaragoza;Aragón;22;Masculino;Alto;Ninguna;No;8;Mediodía
+C-0382;España;Vigo;Galicia;22;Masculino;Alto;Ninguna;Sí;8;Tarde
+C-0402;España;Granada;Andalucía;22;Femenino;Alto;Leve;Sí;8;Tarde
+C-1014;España;Gijón;Asturias;22;Femenino;Alto;Ninguna;No;8;Mañana
+C-1045;España;Vigo;Galicia;22;Masculino;Alto;Leve;Sí;8;Mañana
+C-0674;España;Santander;Cantabria;23;Masculino;Alto;Ninguna;Sí;8;Mañana
+C-0665;España;Córdoba;Andalucía;23;Femenino;Alto;Ninguna;No;8;Mediodía
+C-0269;España;Plasencia;Extremadura;23;Femenino;Alto;Ninguna;No;8;Tarde
+C-0457;España;Valencia;Comunidad Valenciana;23;Masculino;Alto;Ninguna;No;8;Tarde
+C-0025;España;Valencia;Comunidad Valenciana;24;Masculino;Alto;Ninguna;No;8;Mañana
+C-0905;España;Alicante;Comunidad Valenciana;24;Femenino;Alto;Ninguna;No;8;Mañana
+C-1448;España;Alicante;Comunidad Valenciana;24;Masculino;Alto;Ninguna;No;8;Mañana
+C-0867;España;Logroño;La Rioja;24;Masculino;Alto;Ninguna;No;8;Mediodía
+C-0173;España;Valladolid;Castilla y León;24;Masculino;Alto;Ninguna;No;8;Tarde
+C-0231;España;Pamplona;Navarra;25;Femenino;Alto;Ninguna;Sí;8;Mañana
+C-0255;España;Cáceres;Extremadura;25;Masculino;Alto;Leve;Sí;8;Mediodía
+C-1389;España;Granada;Andalucía;25;Femenino;Alto;Ninguna;No;8;Mediodía
+C-0067;España;San Sebastián;País Vasco;25;Masculino;Alto;Ninguna;No;8;Tarde
+C-0079;España;Vitoria-Gasteiz;País Vasco;25;Masculino;Alto;Ninguna;Sí;8;Tarde
+C-1174;España;Barcelona;Cataluña;25;Masculino;Alto;Ninguna;Sí;8;Tarde
+C-0249;España;Badajoz;Extremadura;26;Masculino;Alto;Crónica;Sí;8;Mañana
+C-0796;España;Granada;Andalucía;26;Masculino;Alto;Ninguna;Sí;8;Mañana
+C-0019;España;Barcelona;Cataluña;26;Masculino;Alto;Ninguna;No;8;Mediodía
+C-0018;España;Barcelona;Cataluña;26;Masculino;Alto;Leve;Sí;8;Noche
+C-0287;España;Palma;Islas Baleares;26;Femenino;Alto;Crónica;Sí;8;Mañana
+C-1228;España;Vitoria-Gasteiz;País Vasco;26;Masculino;Alto;Ninguna;No;8;Mañana
+C-0128;España;Granada;Andalucía;26;Masculino;Alto;Ninguna;No;8;Mañana
+C-0767;España;Alicante;Comunidad Valenciana;27;Masculino;Alto;Leve;Sí;8;Mediodía
+C-0787;España;Sevilla;Andalucía;27;Masculino;Alto;Ninguna;No;8;Mediodía
+C-1398;España;Granada;Andalucía;27;Masculino;Alto;Ninguna;No;8;Noche
+C-0519;España;Bilbao;País Vasco;27;Masculino;Alto;Ninguna;Sí;8;Tarde
+C-1098;España;Salamanca;Castilla y León;27;Femenino;Alto;Ninguna;Sí;8;Tarde
+C-0338;España;Murcia;Región de Murcia;28;Femenino;Alto;Ninguna;No;8;Mañana
+C-0565;España;Alicante;Comunidad Valenciana;28;Masculino;Alto;Leve;Sí;8;Mañana
+C-0654;España;San Sebastián;País Vasco;28;Masculino;Alto;Crónica;Sí;8;Mañana
+C-0753;España;Gijón;Asturias;28;Femenino;Alto;Ninguna;No;8;Mediodía
+C-1511;España;Alicante;Comunidad Valenciana;28;Femenino;Alto;Ninguna;Sí;8;Tarde
+C-0051;España;Málaga;Andalucía;28;Masculino;Alto;Ninguna;Sí;8;Mañana
+C-0621;España;Madrid;Comunidad de Madrid;28;Masculino;Alto;Ninguna;No;8;Mediodía
+C-0346;España;Plasencia;Extremadura;29;Femenino;Alto;Ninguna;No;8;Mañana
+C-1577;España;Zaragoza;Aragón;29;Femenino;Alto;Leve;Sí;8;Mañana
+C-0045;España;Málaga;Andalucía;29;Masculino;Alto;Ninguna;No;8;Noche
+C-0040;España;Sevilla;Andalucía;29;Masculino;Alto;Ninguna;No;8;Tarde
+C-0133;España;Córdoba;Andalucía;29;Masculino;Alto;Ninguna;No;8;Tarde
+C-0343;España;Plasencia;Extremadura;29;Femenino;Alto;Crónica;Sí;8;Tarde
+C-0505;España;Málaga;Andalucía;29;Masculino;Alto;Ninguna;No;8;Tarde
+C-0779;España;Palma;Islas Baleares;29;Masculino;Alto;Ninguna;Sí;8;Tarde
+C-1013;España;Gijón;Asturias;29;Femenino;Alto;Ninguna;No;8;Tarde
+C-0095;España;Vigo;Galicia;30;Masculino;Alto;Ninguna;No;8;Mañana
+C-0695;España;Salamanca;Castilla y León;30;Femenino;Alto;Ninguna;No;8;Mañana
+C-0730;España;Burgos;Castilla y León;30;Masculino;Alto;Ninguna;No;8;Mañana
+C-0879;España;Bilbao;País Vasco;30;Masculino;Alto;Ninguna;No;8;Mañana
+C-0532;España;Cáceres;Extremadura;30;Femenino;Alto;Ninguna;Sí;8;Mediodía
+C-1163;España;Valencia;Comunidad Valenciana;30;Femenino;Alto;Ninguna;No;8;Mediodía
+C-0228;España;Pamplona;Navarra;30;Masculino;Alto;Ninguna;No;8;Mañana
+C-1352;España;Málaga;Andalucía;31;Masculino;Alto;Ninguna;Sí;8;Mañana
+C-0197;España;Burgos;Castilla y León;31;Femenino;Alto;Ninguna;No;8;Mediodía
+C-0210;España;Oviedo;Asturias;31;Masculino;Alto;Ninguna;No;8;Noche
+C-0032;España;Valencia;Comunidad Valenciana;31;Masculino;Alto;Ninguna;Sí;8;Tarde
+C-0201;España;Santander;Cantabria;31;Masculino;Alto;Ninguna;No;8;Tarde
+C-0456;España;Valencia;Comunidad Valenciana;31;Masculino;Alto;Leve;Sí;8;Mañana
+C-1514;España;Alicante;Comunidad Valenciana;31;Femenino;Alto;Ninguna;No;8;Mañana
+C-0397;España;Granada;Andalucía;31;Masculino;Alto;Ninguna;Sí;8;Mañana
+C-0501;España;Málaga;Andalucía;31;Masculino;Alto;Ninguna;No;8;Mediodía
+C-0412;España;Bilbao;País Vasco;32;Femenino;Alto;Ninguna;No;8;Mañana
+C-0687;España;Cáceres;Extremadura;32;Femenino;Alto;Ninguna;No;8;Mañana
+C-0776;España;Palma;Islas Baleares;32;Masculino;Alto;Ninguna;No;8;Mañana
+C-0745;España;Oviedo;Asturias;32;Femenino;Alto;Leve;Sí;8;Mediodía
+C-1465;España;Valladolid;Castilla y León;32;Masculino;Alto;Ninguna;No;8;Noche
+C-0212;España;Oviedo;Asturias;32;Masculino;Alto;Ninguna;No;8;Noche
+C-0078;España;Vitoria-Gasteiz;País Vasco;33;Masculino;Alto;Ninguna;No;8;Mediodía
+C-0298;España;Alicante;Comunidad Valenciana;33;Masculino;Alto;Crónica;Sí;8;Mediodía
+C-0060;España;Bilbao;País Vasco;33;Femenino;Alto;Crónica;Sí;8;Mediodía
+C-1505;España;Madrid;Comunidad de Madrid;33;Femenino;Alto;Ninguna;No;8;Tarde
+C-1247;España;Zaragoza;Aragón;33;Masculino;Alto;Ninguna;No;8;Mañana
+C-1291;España;Burgos;Castilla y León;33;Masculino;Alto;Ninguna;Sí;8;Mañana
+C-0253;España;Badajoz;Extremadura;34;Masculino;Alto;Crónica;Sí;8;Mañana
+C-0225;España;Pamplona;Navarra;34;Femenino;Alto;Ninguna;No;8;Noche
+C-0915;España;Sevilla;Andalucía;34;Masculino;Alto;Crónica;Sí;8;Tarde
+C-1053;España;Bilbao;País Vasco;34;Femenino;Alto;Ninguna;No;8;Tarde
+C-1153;España;Gijón;Asturias;34;Femenino;Alto;Ninguna;No;8;Tarde
+C-0122;España;Granada;Andalucía;35;Masculino;Alto;Crónica;Sí;8;Mañana
+C-0134;España;Córdoba;Andalucía;35;Masculino;Alto;Leve;Sí;8;Mañana
+C-0312;España;Elche;Comunidad Valenciana;35;Femenino;Alto;Leve;Sí;8;Mañana
+C-0636;España;Barcelona;Cataluña;35;Masculino;Alto;Ninguna;No;8;Mañana
+C-1336;España;Bilbao;País Vasco;35;Masculino;Alto;Ninguna;No;8;Mañana
+C-1171;España;Barcelona;Cataluña;35;Masculino;Alto;Ninguna;No;8;Mediodía
+C-1035;España;Vigo;Galicia;36;Masculino;Alto;Leve;Sí;8;Mañana
+C-0101;España;A Coruña;Galicia;36;Masculino;Alto;Ninguna;Sí;8;Mañana
+C-1581;España;Sevilla;Andalucía;36;Femenino;Alto;Ninguna;Sí;8;Noche
+C-0080;España;Vitoria-Gasteiz;País Vasco;37;Femenino;Alto;Ninguna;No;8;Tarde
+C-0267;España;Plasencia;Extremadura;37;Masculino;Alto;Leve;Sí;8;Tarde
+C-0761;España;Alicante;Comunidad Valenciana;37;Femenino;Alto;Ninguna;No;8;Tarde
+C-1316;España;Valladolid;Castilla y León;37;Masculino;Alto;Ninguna;No;8;Tarde
+C-0054;España;Málaga;Andalucía;38;Masculino;Alto;Ninguna;No;8;Mañana
+C-0073;España;San Sebastián;País Vasco;38;Masculino;Alto;Ninguna;No;8;Mañana
+C-0282;España;Miranda de Ebro;Castilla y León;38;Masculino;Alto;Ninguna;No;8;Mañana
+C-0366;España;Sevilla;Andalucía;39;Femenino;Alto;Ninguna;No;8;Mañana
+C-0580;España;Pamplona;Navarra;39;Femenino;Alto;Crónica;Sí;8;Mediodía
+C-0226;España;Pamplona;Navarra;39;Masculino;Alto;Ninguna;Sí;8;Tarde
+C-0100;España;A Coruña;Galicia;40;Femenino;Alto;Ninguna;No;8;Tarde
+C-0936;España;Vigo;Galicia;41;Femenino;Alto;Ninguna;No;8;Mañana
+C-0732;España;Burgos;Castilla y León;41;Femenino;Alto;Ninguna;No;8;Tarde
+C-0406;España;Granada;Andalucía;42;Femenino;Alto;Ninguna;Sí;8;Tarde
+C-0648;España;Sevilla;Andalucía;42;Femenino;Alto;Ninguna;No;8;Tarde
+C-0156;España;Zaragoza;Aragón;43;Masculino;Alto;Ninguna;No;8;Mañana
+C-0140;España;Córdoba;Andalucía;44;Femenino;Alto;Ninguna;Sí;8;Noche
+C-0825;España;Madrid;Comunidad de Madrid;44;Femenino;Alto;Ninguna;Sí;8;Tarde
+C-0326;España;Gijón;Asturias;45;Femenino;Alto;Ninguna;Sí;8;Noche
+C-0063;España;Bilbao;País Vasco;45;Femenino;Alto;Leve;Sí;8;Tarde
+C-0353;España;Zaragoza;Aragón;46;Masculino;Alto;Ninguna;No;8;Mañana
+C-0170;España;Valladolid;Castilla y León;46;Femenino;Alto;Ninguna;No;8;Mediodía
+C-0504;España;Málaga;Andalucía;46;Femenino;Alto;Ninguna;No;8;Tarde
+C-0455;España;Valencia;Comunidad Valenciana;47;Masculino;Alto;Crónica;Sí;8;Mañana
+C-0049;España;Málaga;Andalucía;47;Femenino;Alto;Ninguna;No;8;Mañana
+C-0722;España;A Coruña;Galicia;47;Masculino;Alto;Ninguna;No;8;Mañana
+C-0770;España;Alicante;Comunidad Valenciana;48;Femenino;Alto;Leve;Sí;8;Mañana
+C-0620;España;Madrid;Comunidad de Madrid;48;Masculino;Alto;Ninguna;No;8;Mañana
+C-0626;España;Madrid;Comunidad de Madrid;49;Masculino;Alto;Ninguna;No;8;Mañana
+C-1475;España;Salamanca;Castilla y León;49;Masculino;Alto;Ninguna;Sí;8;Mediodía
+C-0318;España;Elche;Comunidad Valenciana;49;Femenino;Alto;Ninguna;No;8;Tarde
+C-1470;España;Salamanca;Castilla y León;50;Masculino;Alto;Ninguna;No;8;Mañana
+C-1390;España;Granada;Andalucía;50;Masculino;Alto;Ninguna;Sí;8;Noche
+C-0367;España;Sevilla;Andalucía;50;Masculino;Alto;Ninguna;No;8;Tarde
+C-0120;España;Santiago de Compostela;Galicia;51;Masculino;Alto;Ninguna;No;8;Mañana
+C-0283;España;Miranda de Ebro;Castilla y León;52;Femenino;Alto;Ninguna;No;8;Mañana
+C-0388;España;Miranda de Ebro;Castilla y León;52;Masculino;Alto;Leve;Sí;8;Mañana
+C-0708;España;Alicante;Comunidad Valenciana;52;Masculino;Alto;Ninguna;No;8;Mañana
+C-1056;España;Bilbao;País Vasco;52;Femenino;Alto;Ninguna;No;8;Mediodía
+C-0439;España;Madrid;Comunidad de Madrid;52;Masculino;Alto;Ninguna;No;8;Tarde
+C-0962;España;Gijón;Asturias;53;Masculino;Alto;Ninguna;No;8;Mañana
+C-0573;España;Pamplona;Navarra;53;Masculino;Alto;Ninguna;No;8;Tarde
+C-0217;España;Oviedo;Asturias;57;Masculino;Alto;Ninguna;Sí;8;Mañana
+C-0107;España;A Coruña;Galicia;57;Femenino;Alto;Ninguna;No;8;Noche
+C-0176;España;Valladolid;Castilla y León;58;Masculino;Alto;Ninguna;Sí;8;Tarde
+C-1509;España;Alicante;Comunidad Valenciana;58;Femenino;Alto;Ninguna;No;8;Tarde
+C-1132;España;Madrid;Comunidad de Madrid;59;Masculino;Alto;Ninguna;Sí;8;Mañana
+C-0262;España;Cáceres;Extremadura;59;Femenino;Alto;Ninguna;Sí;8;Tarde
+C-1164;España;Valencia;Comunidad Valenciana;59;Masculino;Alto;Ninguna;No;8;Tarde
+C-0328;España;Gijón;Asturias;61;Femenino;Alto;Ninguna;No;8;Mañana
+C-0094;España;Vigo;Galicia;64;Masculino;Alto;Ninguna;No;8;Mañana
+C-0243;España;Badajoz;Extremadura;64;Masculino;Alto;Ninguna;No;8;Mediodía
+C-1297;España;Burgos;Castilla y León;65;Masculino;Alto;Ninguna;No;8;Mañana
+C-0789;España;Sevilla;Andalucía;65;Masculino;Alto;Ninguna;No;8;Tarde
+C-1165;España;Valencia;Comunidad Valenciana;65;Masculino;Alto;Ninguna;No;8;Tarde
+C-0485;España;Madrid;Comunidad de Madrid;66;Masculino;Alto;Ninguna;No;8;Mañana
+C-1021;España;Gijón;Asturias;67;Masculino;Alto;Ninguna;No;8;Mañana
+C-0062;España;Bilbao;País Vasco;67;Masculino;Alto;Crónica;Sí;8;Mañana
+C-1416;España;Barcelona;Cataluña;67;Femenino;Alto;Ninguna;No;8;Mañana
+C-1059;España;Badajoz;Extremadura;25;Femenino;Bajo;Ninguna;No;16;Tarde
+C-1310;España;Valladolid;Castilla y León;26;Masculino;Bajo;Crónica;Sí;16;Noche
+C-0633;España;Barcelona;Cataluña;26;Femenino;Bajo;Ninguna;No;16;Tarde
+C-1428;España;Cáceres;Extremadura;26;Masculino;Bajo;Ninguna;No;16;Tarde
+C-0820;España;Madrid;Comunidad de Madrid;26;Femenino;Bajo;Ninguna;No;16;Tarde
+C-0491;España;Madrid;Comunidad de Madrid;26;Masculino;Bajo;Ninguna;Sí;16;Tarde
+C-0637;España;Barcelona;Cataluña;27;Masculino;Bajo;Ninguna;No;16;Tarde
+C-1074;España;Salamanca;Castilla y León;27;Femenino;Bajo;Ninguna;No;16;Tarde
+C-0718;España;A Coruña;Galicia;28;Masculino;Bajo;Leve;Sí;16;Tarde
+C-1273;España;Vigo;Galicia;28;Femenino;Bajo;Ninguna;No;16;Tarde
+C-0158;España;Zaragoza;Aragón;28;Masculino;Bajo;Ninguna;No;16;Tarde
+C-0319;España;Elche;Comunidad Valenciana;28;Femenino;Bajo;Ninguna;No;16;Tarde
+C-0053;España;Málaga;Andalucía;28;Femenino;Bajo;Ninguna;No;16;Tarde
+C-0894;España;Burgos;Castilla y León;28;Femenino;Bajo;Ninguna;No;16;Tarde
+C-0400;España;Granada;Andalucía;29;Masculino;Bajo;Ninguna;No;16;Tarde
+C-0592;España;Oviedo;Asturias;29;Femenino;Bajo;Ninguna;No;16;Noche
+C-1078;España;Salamanca;Castilla y León;29;Femenino;Bajo;Ninguna;No;16;Tarde
+C-0081;España;Vitoria-Gasteiz;País Vasco;29;Femenino;Bajo;Ninguna;No;16;Tarde
+C-0118;España;Santiago de Compostela;Galicia;29;Masculino;Bajo;Ninguna;No;16;Tarde
+C-0981;España;Málaga;Andalucía;29;Masculino;Bajo;Ninguna;No;16;Tarde
+C-0559;España;Granada;Andalucía;30;Femenino;Bajo;Ninguna;No;16;Tarde
+C-1137;España;Madrid;Comunidad de Madrid;30;Masculino;Bajo;Ninguna;No;16;Tarde
+C-0463;España;Salamanca;Castilla y León;30;Masculino;Bajo;Ninguna;No;16;Tarde
+C-0721;España;A Coruña;Galicia;32;Femenino;Bajo;Ninguna;No;16;Noche
+C-0130;España;Granada;Andalucía;40;Masculino;Bajo;Ninguna;No;16;Tarde
+C-0995;España;Elche;Comunidad Valenciana;26;Femenino;Bajo;Ninguna;No;15;Tarde
+C-1032;España;Barcelona;Cataluña;26;Femenino;Bajo;Ninguna;No;15;Tarde
+C-0935;España;Bilbao;País Vasco;26;Femenino;Bajo;Ninguna;Sí;15;Tarde
+C-0810;España;Vigo;Galicia;29;Femenino;Bajo;Ninguna;No;15;Tarde
+C-0059;España;Bilbao;País Vasco;29;Masculino;Bajo;Ninguna;No;15;Tarde
+C-1237;España;Bilbao;País Vasco;30;Femenino;Bajo;Ninguna;No;15;Noche
+C-0854;España;Málaga;Andalucía;32;Masculino;Bajo;Ninguna;No;15;Tarde
+C-0703;España;Salamanca;Castilla y León;34;Masculino;Bajo;Ninguna;No;15;Noche
+C-1318;España;Valladolid;Castilla y León;51;Femenino;Bajo;Ninguna;No;15;Noche
+C-0399;España;Granada;Andalucía;60;Masculino;Bajo;Ninguna;No;15;Noche
+C-1286;España;Málaga;Andalucía;21;Femenino;Bajo;Ninguna;Sí;12;Noche
+C-0142;España;Córdoba;Andalucía;21;Masculino;Bajo;Ninguna;No;12;Tarde
+C-1524;España;Bilbao;País Vasco;24;Masculino;Bajo;Ninguna;Sí;12;Noche
+C-0052;España;Málaga;Andalucía;24;Masculino;Bajo;Ninguna;No;12;Tarde
+C-0569;España;Alicante;Comunidad Valenciana;24;Femenino;Bajo;Ninguna;No;12;Tarde
+C-0016;España;Barcelona;Cataluña;26;Femenino;Bajo;Ninguna;Sí;12;Tarde
+C-1462;España;Valladolid;Castilla y León;26;Femenino;Bajo;Ninguna;No;12;Noche
+C-0827;España;Gijón;Asturias;26;Masculino;Bajo;Ninguna;Sí;12;Tarde
+C-0362;España;Zaragoza;Aragón;26;Masculino;Bajo;Ninguna;Sí;12;Noche
+C-0179;España;Salamanca;Castilla y León;27;Masculino;Bajo;Ninguna;No;12;Tarde
+C-0345;España;Plasencia;Extremadura;27;Femenino;Bajo;Ninguna;No;12;Tarde
+C-0109;España;A Coruña;Galicia;27;Masculino;Bajo;Ninguna;No;12;Tarde
+C-0834;España;Gijón;Asturias;27;Femenino;Bajo;Ninguna;No;12;Tarde
+C-0937;España;Vigo;Galicia;27;Masculino;Bajo;Ninguna;No;12;Tarde
+C-0013;España;Barcelona;Cataluña;28;Masculino;Bajo;Ninguna;Sí;12;Tarde
+C-0069;España;San Sebastián;País Vasco;28;Femenino;Bajo;Ninguna;Sí;12;Tarde
+C-0250;España;Badajoz;Extremadura;28;Masculino;Bajo;Ninguna;No;12;Tarde
+C-1026;España;Barcelona;Cataluña;28;Masculino;Bajo;Ninguna;No;12;Tarde
+C-1118;España;Pamplona;Navarra;28;Femenino;Bajo;Crónica;Sí;12;Tarde
+C-1386;España;Madrid;Comunidad de Madrid;28;Masculino;Bajo;Ninguna;No;12;Noche
+C-0165;España;Zaragoza;Aragón;28;Masculino;Bajo;Ninguna;No;12;Tarde
+C-0440;España;Madrid;Comunidad de Madrid;28;Masculino;Bajo;Ninguna;No;12;Tarde
+C-0681;España;Santander;Cantabria;28;Femenino;Bajo;Ninguna;No;12;Tarde
+C-0926;España;Bilbao;País Vasco;28;Femenino;Bajo;Ninguna;No;12;Tarde
+C-1022;España;Gijón;Asturias;28;Femenino;Bajo;Leve;Sí;12;Tarde
+C-0264;España;Cáceres;Extremadura;28;Femenino;Bajo;Ninguna;Sí;12;Tarde
+C-0500;España;Málaga;Andalucía;28;Masculino;Bajo;Ninguna;No;12;Tarde
+C-0832;España;Gijón;Asturias;29;Masculino;Bajo;Ninguna;No;12;Noche
+C-0306;España;Alicante;Comunidad Valenciana;29;Masculino;Bajo;Ninguna;No;12;Tarde
+C-0657;España;San Sebastián;País Vasco;29;Masculino;Bajo;Ninguna;No;12;Tarde
+C-0949;España;San Sebastián;País Vasco;29;Masculino;Bajo;Ninguna;No;12;Tarde
+C-1009;España;Zaragoza;Aragón;29;Masculino;Bajo;Ninguna;No;12;Tarde
+C-0077;España;San Sebastián;País Vasco;29;Masculino;Bajo;Ninguna;No;12;Tarde
+C-0139;España;Córdoba;Andalucía;29;Femenino;Bajo;Ninguna;No;12;Tarde
+C-0423;España;Logroño;La Rioja;29;Masculino;Bajo;Ninguna;No;12;Tarde
+C-0964;España;Gijón;Asturias;29;Masculino;Bajo;Ninguna;No;12;Tarde
+C-1097;España;Salamanca;Castilla y León;29;Femenino;Bajo;Ninguna;No;12;Tarde
+C-1103;España;Alicante;Comunidad Valenciana;29;Masculino;Bajo;Ninguna;No;12;Tarde
+C-1110;España;Pamplona;Navarra;29;Femenino;Bajo;Crónica;Sí;12;Tarde
+C-0651;España;San Sebastián;País Vasco;29;Femenino;Bajo;Ninguna;No;12;Tarde
+C-0092;España;Vigo;Galicia;30;Femenino;Bajo;Ninguna;No;12;Tarde
+C-0374;España;Sevilla;Andalucía;30;Femenino;Bajo;Ninguna;No;12;Tarde
+C-0523;España;Bilbao;País Vasco;30;Femenino;Bajo;Ninguna;Sí;12;Tarde
+C-0717;España;A Coruña;Galicia;30;Femenino;Bajo;Ninguna;No;12;Tarde
+C-0182;España;Salamanca;Castilla y León;30;Masculino;Bajo;Ninguna;No;12;Tarde
+C-0349;España;Plasencia;Extremadura;30;Femenino;Bajo;Ninguna;Sí;12;Tarde
+C-0610;España;San Sebastián;País Vasco;30;Masculino;Bajo;Crónica;Sí;12;Tarde
+C-0371;España;Sevilla;Andalucía;31;Femenino;Bajo;Ninguna;No;12;Tarde
+C-0644;España;Sevilla;Andalucía;31;Femenino;Bajo;Ninguna;No;12;Tarde
+C-0961;España;Gijón;Asturias;31;Masculino;Bajo;Ninguna;No;12;Tarde
+C-0290;España;Palma;Islas Baleares;31;Masculino;Bajo;Ninguna;No;12;Tarde
+C-0697;España;Salamanca;Castilla y León;31;Femenino;Bajo;Ninguna;No;12;Tarde
+C-0764;España;Alicante;Comunidad Valenciana;31;Femenino;Bajo;Ninguna;No;12;Tarde
+C-0956;España;San Sebastián;País Vasco;31;Femenino;Bajo;Ninguna;No;15;Tarde
+C-0792;España;Sevilla;Andalucía;32;Masculino;Bajo;Crónica;Sí;12;Noche
+C-0407;España;Granada;Andalucía;32;Masculino;Bajo;Ninguna;No;12;Tarde
+C-0608;España;San Sebastián;País Vasco;32;Femenino;Bajo;Leve;Sí;12;Tarde
+C-0838;España;Alicante;Comunidad Valenciana;32;Masculino;Bajo;Ninguna;No;12;Tarde
+C-0161;España;Zaragoza;Aragón;33;Femenino;Bajo;Ninguna;No;12;Tarde
+C-0276;España;Miranda de Ebro;Castilla y León;33;Femenino;Bajo;Ninguna;No;12;Tarde
+C-0355;España;Zaragoza;Aragón;33;Masculino;Bajo;Ninguna;Sí;12;Tarde
+C-0877;España;Bilbao;País Vasco;33;Masculino;Bajo;Ninguna;No;12;Tarde
+C-0432;España;Madrid;Comunidad de Madrid;33;Masculino;Bajo;Ninguna;No;12;Tarde
+C-0026;España;Valencia;Comunidad Valenciana;34;Femenino;Bajo;Ninguna;No;12;Tarde
+C-0265;España;Plasencia;Extremadura;34;Femenino;Bajo;Leve;Sí;12;Tarde
+C-0232;España;Logroño;La Rioja;35;Femenino;Bajo;Ninguna;Sí;12;Tarde
+C-0953;España;San Sebastián;País Vasco;35;Femenino;Bajo;Leve;Sí;12;Tarde
+C-0445;España;Oviedo;Asturias;36;Masculino;Bajo;Leve;Sí;12;Tarde
+C-1047;España;Bilbao;País Vasco;37;Masculino;Bajo;Ninguna;No;12;Tarde
+C-0002;España;Madrid;Comunidad de Madrid;38;Masculino;Bajo;Ninguna;No;12;Tarde
+C-0398;España;Granada;Andalucía;38;Femenino;Bajo;Ninguna;No;12;Tarde
+C-1481;España;Plasencia;Extremadura;39;Femenino;Bajo;Ninguna;No;12;Noche
+C-0594;España;Oviedo;Asturias;40;Femenino;Bajo;Ninguna;No;12;Tarde
+C-1244;España;Zaragoza;Aragón;40;Masculino;Bajo;Ninguna;No;12;Noche
+C-0736;España;Burgos;Castilla y León;42;Femenino;Bajo;Ninguna;No;12;Noche
+C-1593;España;Madrid;Comunidad de Madrid;44;Femenino;Bajo;Ninguna;Sí;12;Noche
+C-0441;España;Oviedo;Asturias;44;Masculino;Bajo;Ninguna;No;12;Tarde
+C-1399;España;Málaga;Andalucía;45;Femenino;Bajo;Ninguna;No;12;Noche
+C-1494;España;Cáceres;Extremadura;46;Femenino;Bajo;Ninguna;No;12;Noche
+C-0418;España;Bilbao;País Vasco;47;Masculino;Bajo;Ninguna;No;12;Tarde
+C-1201;España;Córdoba;Andalucía;49;Masculino;Bajo;Leve;Sí;12;Noche
+C-0751;España;Gijón;Asturias;49;Masculino;Bajo;Ninguna;Sí;12;Noche
+C-0878;España;Bilbao;País Vasco;50;Masculino;Bajo;Ninguna;No;12;Tarde
+C-0502;España;Málaga;Andalucía;51;Femenino;Bajo;Ninguna;No;12;Tarde
+C-1482;España;Plasencia;Extremadura;51;Masculino;Bajo;Ninguna;No;12;Noche
+C-0603;España;Elche;Comunidad Valenciana;54;Masculino;Bajo;Ninguna;Sí;12;Noche
+C-0215;España;Oviedo;Asturias;54;Femenino;Bajo;Ninguna;No;12;Tarde
+C-0386;España;Miranda de Ebro;Castilla y León;55;Masculino;Bajo;Ninguna;Sí;12;Tarde
+C-1314;España;Valladolid;Castilla y León;56;Masculino;Bajo;Ninguna;No;12;Noche
+C-0383;España;Vigo;Galicia;57;Masculino;Bajo;Ninguna;No;12;Tarde
+C-0650;España;San Sebastián;País Vasco;58;Masculino;Bajo;Leve;Sí;12;Tarde
+C-0452;España;Valencia;Comunidad Valenciana;63;Femenino;Bajo;Ninguna;No;12;Noche
+C-0360;España;Zaragoza;Aragón;65;Femenino;Bajo;Leve;Sí;12;Noche
+C-0968;España;Gijón;Asturias;22;Femenino;Bajo;Ninguna;No;10;Noche
+C-0497;España;Málaga;Andalucía;23;Masculino;Bajo;Ninguna;No;10;Noche
+C-0401;España;Granada;Andalucía;23;Masculino;Bajo;Ninguna;No;10;Tarde
+C-0442;España;Oviedo;Asturias;25;Masculino;Bajo;Ninguna;Sí;10;Tarde
+C-0702;España;Salamanca;Castilla y León;25;Masculino;Bajo;Ninguna;No;10;Tarde
+C-0886;España;Alicante;Comunidad Valenciana;25;Femenino;Bajo;Leve;Sí;10;Tarde
+C-1062;España;Badajoz;Extremadura;26;Femenino;Bajo;Ninguna;No;10;Noche
+C-1513;España;Alicante;Comunidad Valenciana;26;Masculino;Bajo;Crónica;Sí;10;Noche
+C-0090;España;Vigo;Galicia;26;Masculino;Bajo;Leve;Sí;10;Tarde
+C-1083;España;Elche;Comunidad Valenciana;26;Masculino;Bajo;Ninguna;No;10;Tarde
+C-0155;España;Zaragoza;Aragón;26;Femenino;Bajo;Ninguna;No;10;Tarde
+C-0517;España;Alicante;Comunidad Valenciana;26;Femenino;Bajo;Ninguna;No;10;Tarde
+C-0663;España;Córdoba;Andalucía;26;Masculino;Bajo;Ninguna;No;10;Tarde
+C-0671;España;Córdoba;Andalucía;26;Masculino;Bajo;Ninguna;No;10;Tarde
+C-0678;España;Santander;Cantabria;26;Masculino;Bajo;Ninguna;No;10;Tarde
+C-0713;España;Alicante;Comunidad Valenciana;26;Femenino;Bajo;Ninguna;Sí;10;Tarde
+C-0822;España;Madrid;Comunidad de Madrid;26;Femenino;Bajo;Ninguna;No;10;Tarde
+C-0908;España;Alicante;Comunidad Valenciana;26;Femenino;Bajo;Ninguna;Sí;10;Tarde
+C-0417;España;Bilbao;País Vasco;26;Masculino;Bajo;Ninguna;No;10;Tarde
+C-0454;España;Valencia;Comunidad Valenciana;26;Femenino;Bajo;Ninguna;No;10;Tarde
+C-0490;España;Madrid;Comunidad de Madrid;27;Femenino;Bajo;Ninguna;No;10;Tarde
+C-0357;España;Zaragoza;Aragón;28;Femenino;Bajo;Ninguna;No;10;Tarde
+C-0869;España;Logroño;La Rioja;28;Masculino;Bajo;Ninguna;No;10;Tarde
+C-1106;España;Alicante;Comunidad Valenciana;28;Masculino;Bajo;Leve;Sí;10;Noche
+C-0289;España;Palma;Islas Baleares;29;Femenino;Bajo;Ninguna;Sí;10;Tarde
+C-0629;España;Barcelona;Cataluña;29;Masculino;Bajo;Ninguna;No;10;Tarde
+C-0597;España;Elche;Comunidad Valenciana;29;Masculino;Bajo;Ninguna;No;10;Tarde
+C-1249;España;Madrid;Comunidad de Madrid;30;Masculino;Bajo;Ninguna;No;10;Noche
+C-0084;España;Vitoria-Gasteiz;País Vasco;30;Masculino;Bajo;Leve;Sí;10;Tarde
+C-0986;España;Málaga;Andalucía;30;Masculino;Bajo;Ninguna;No;10;Tarde
+C-1036;España;Vigo;Galicia;30;Femenino;Bajo;Leve;Sí;10;Tarde
+C-0859;España;Logroño;La Rioja;30;Masculino;Bajo;Ninguna;No;10;Tarde
+C-0147;España;Murcia;Región de Murcia;32;Femenino;Bajo;Ninguna;Sí;10;Tarde
+C-0257;España;Cáceres;Extremadura;32;Masculino;Bajo;Leve;Sí;10;Tarde
+C-1031;España;Barcelona;Cataluña;32;Femenino;Bajo;Ninguna;No;10;Tarde
+C-0467;España;Salamanca;Castilla y León;33;Masculino;Bajo;Ninguna;No;10;Tarde
+C-0797;España;Granada;Andalucía;34;Femenino;Bajo;Ninguna;No;10;Tarde
+C-1126;España;San Sebastián;País Vasco;34;Masculino;Bajo;Ninguna;No;10;Tarde
+C-0635;España;Barcelona;Cataluña;35;Masculino;Bajo;Leve;Sí;10;Tarde
+C-0234;España;Logroño;La Rioja;38;Masculino;Bajo;Crónica;Sí;10;Tarde
+C-0888;España;Alicante;Comunidad Valenciana;38;Masculino;Bajo;Ninguna;No;10;Tarde
+C-0969;España;Cáceres;Extremadura;38;Masculino;Bajo;Ninguna;No;10;Tarde
+C-0982;España;Málaga;Andalucía;38;Femenino;Bajo;Ninguna;No;10;Tarde
+C-0814;España;Vigo;Galicia;41;Femenino;Bajo;Ninguna;No;10;Tarde
+C-0826;España;Gijón;Asturias;42;Masculino;Bajo;Crónica;Sí;10;Noche
+C-1016;España;Gijón;Asturias;42;Masculino;Bajo;Ninguna;No;10;Noche
+C-1042;España;Vigo;Galicia;42;Femenino;Bajo;Leve;Sí;10;Tarde
+C-0247;España;Badajoz;Extremadura;43;Masculino;Bajo;Ninguna;Sí;10;Tarde
+C-0472;España;Salamanca;Castilla y León;43;Masculino;Bajo;Ninguna;Sí;10;Tarde
+C-0840;España;Alicante;Comunidad Valenciana;45;Masculino;Bajo;Ninguna;No;10;Tarde
+C-1011;España;Zaragoza;Aragón;47;Masculino;Bajo;Ninguna;No;10;Tarde
+C-1070;España;Salamanca;Castilla y León;49;Femenino;Bajo;Ninguna;No;10;Noche
+C-0038;España;Sevilla;Andalucía;49;Masculino;Bajo;Ninguna;No;10;Tarde
+C-0337;España;Murcia;Región de Murcia;49;Femenino;Bajo;Ninguna;No;10;Tarde
+C-0773;España;Palma;Islas Baleares;49;Masculino;Bajo;Ninguna;No;10;Tarde
+C-0816;España;Madrid;Comunidad de Madrid;49;Masculino;Bajo;Ninguna;Sí;10;Tarde
+C-0586;España;Oviedo;Asturias;50;Femenino;Bajo;Ninguna;No;10;Noche
+C-0798;España;Granada;Andalucía;52;Masculino;Bajo;Ninguna;No;10;Noche
+C-0967;España;Gijón;Asturias;52;Femenino;Bajo;Ninguna;No;10;Tarde
+C-0327;España;Gijón;Asturias;60;Femenino;Bajo;Ninguna;No;10;Tarde
+C-0387;España;Miranda de Ebro;Castilla y León;61;Femenino;Bajo;Ninguna;No;10;Noche
+C-1240;España;Zaragoza;Aragón;65;Masculino;Bajo;Ninguna;No;10;Noche
+C-0378;España;Vigo;Galicia;67;Masculino;Bajo;Ninguna;No;10;Tarde
+C-1555;España;Valencia;Comunidad Valenciana;21;Masculino;Bajo;Ninguna;No;8;Noche
+C-0322;España;Gijón;Asturias;21;Masculino;Bajo;Ninguna;Sí;8;Tarde
+C-0978;España;Cáceres;Extremadura;21;Masculino;Bajo;Leve;Sí;8;Tarde
+C-1073;España;Salamanca;Castilla y León;21;Femenino;Bajo;Ninguna;No;8;Tarde
+C-0596;España;Elche;Comunidad Valenciana;22;Masculino;Bajo;Ninguna;No;8;Tarde
+C-0320;España;Gijón;Asturias;23;Femenino;Bajo;Ninguna;No;8;Tarde
+C-1075;España;Salamanca;Castilla y León;23;Femenino;Bajo;Ninguna;Sí;8;Tarde
+C-0604;España;Elche;Comunidad Valenciana;24;Masculino;Bajo;Ninguna;No;8;Tarde
+C-0509;España;Alicante;Comunidad Valenciana;25;Femenino;Bajo;Ninguna;No;8;Tarde
+C-0664;España;Córdoba;Andalucía;25;Femenino;Bajo;Ninguna;No;8;Tarde
+C-0058;España;Bilbao;País Vasco;27;Femenino;Bajo;Ninguna;No;8;Tarde
+C-0332;España;Murcia;Región de Murcia;27;Femenino;Bajo;Ninguna;No;8;Tarde
+C-0529;España;Cáceres;Extremadura;27;Femenino;Bajo;Ninguna;Sí;8;Tarde
+C-0760;España;Alicante;Comunidad Valenciana;27;Femenino;Bajo;Ninguna;No;8;Tarde
+C-0411;España;Bilbao;País Vasco;28;Femenino;Bajo;Ninguna;No;8;Tarde
+C-1362;España;Elche;Comunidad Valenciana;29;Femenino;Bajo;Ninguna;Sí;8;Noche
+C-0508;España;Alicante;Comunidad Valenciana;29;Femenino;Bajo;Ninguna;No;8;Tarde
+C-0154;España;Murcia;Región de Murcia;30;Femenino;Bajo;Ninguna;No;8;Tarde
+C-0539;España;Cáceres;Extremadura;30;Femenino;Bajo;Ninguna;No;8;Tarde
+C-0640;España;Sevilla;Andalucía;31;Femenino;Bajo;Ninguna;No;8;Tarde
+C-0817;España;Madrid;Comunidad de Madrid;32;Masculino;Bajo;Ninguna;No;8;Noche
+C-0141;España;Córdoba;Andalucía;32;Masculino;Bajo;Ninguna;No;8;Tarde
+C-1066;España;Badajoz;Extremadura;32;Masculino;Bajo;Ninguna;No;8;Tarde
+C-0769;España;Alicante;Comunidad Valenciana;33;Masculino;Bajo;Ninguna;No;8;Noche
+C-0033;España;Valencia;Comunidad Valenciana;33;Femenino;Bajo;Ninguna;No;8;Tarde
+C-0070;España;San Sebastián;País Vasco;33;Femenino;Bajo;Leve;Sí;8;Tarde
+C-0214;España;Oviedo;Asturias;33;Femenino;Bajo;Ninguna;No;8;Tarde
+C-0493;España;Madrid;Comunidad de Madrid;33;Femenino;Bajo;Ninguna;No;8;Tarde
+C-1127;España;San Sebastián;País Vasco;33;Femenino;Bajo;Ninguna;No;8;Tarde
+C-0554;España;Granada;Andalucía;34;Masculino;Bajo;Leve;Sí;8;Noche
+C-0705;España;Alicante;Comunidad Valenciana;34;Femenino;Bajo;Ninguna;No;8;Noche
+C-1564;España;Zaragoza;Aragón;34;Femenino;Bajo;Ninguna;No;8;Noche
+C-0220;España;Oviedo;Asturias;34;Masculino;Bajo;Ninguna;No;8;Tarde
+C-0076;España;San Sebastián;País Vasco;37;Femenino;Bajo;Ninguna;No;8;Tarde
+C-0616;España;San Sebastián;País Vasco;37;Femenino;Bajo;Ninguna;No;8;Tarde
+C-0446;España;Oviedo;Asturias;39;Femenino;Bajo;Ninguna;No;8;Noche
+C-0022;España;Barcelona;Cataluña;39;Masculino;Bajo;Ninguna;No;8;Tarde
+C-0575;España;Pamplona;Navarra;41;Masculino;Bajo;Ninguna;Sí;8;Tarde
+C-0046;España;Málaga;Andalucía;42;Femenino;Bajo;Crónica;Sí;8;Tarde
+C-0416;España;Bilbao;País Vasco;44;Masculino;Bajo;Ninguna;No;8;Noche
+C-0317;España;Elche;Comunidad Valenciana;44;Masculino;Bajo;Ninguna;No;8;Tarde
+C-0548;España;Zaragoza;Aragón;45;Masculino;Bajo;Ninguna;No;8;Noche
+C-0044;España;Sevilla;Andalucía;45;Femenino;Bajo;Ninguna;No;8;Tarde
+C-0639;España;Sevilla;Andalucía;46;Femenino;Bajo;Ninguna;Sí;8;Noche
+C-0581;España;Pamplona;Navarra;46;Femenino;Bajo;Ninguna;No;8;Tarde
+C-0542;España;Zaragoza;Aragón;49;Femenino;Bajo;Ninguna;Sí;8;Noche
+C-0171;España;Valladolid;Castilla y León;50;Femenino;Bajo;Leve;Sí;8;Tarde
+C-1133;España;Madrid;Comunidad de Madrid;50;Masculino;Bajo;Ninguna;No;8;Tarde
+C-0064;España;Bilbao;País Vasco;56;Femenino;Bajo;Ninguna;No;8;Tarde
+C-0514;España;Alicante;Comunidad Valenciana;56;Femenino;Bajo;Ninguna;No;8;Tarde
+C-0762;España;Alicante;Comunidad Valenciana;57;Masculino;Bajo;Ninguna;Sí;8;Tarde
+C-0221;España;Pamplona;Navarra;58;Masculino;Bajo;Ninguna;No;8;Tarde
+C-0623;España;Madrid;Comunidad de Madrid;58;Masculino;Bajo;Leve;Sí;8;Tarde
+C-0714;España;Alicante;Comunidad Valenciana;62;Masculino;Bajo;Ninguna;No;8;Tarde
+C-0151;España;Murcia;Región de Murcia;64;Femenino;Bajo;Ninguna;No;8;Tarde
+C-1001;España;Elche;Comunidad Valenciana;67;Femenino;Bajo;Leve;Sí;8;Tarde
+C-0544;España;Zaragoza;Aragón;25;Masculino;Medio;Ninguna;No;16;Noche
+C-0591;España;Oviedo;Asturias;26;Masculino;Medio;Ninguna;Sí;16;Tarde
+C-1128;España;San Sebastián;País Vasco;26;Masculino;Medio;Ninguna;No;16;Tarde
+C-1414;España;Barcelona;Cataluña;26;Femenino;Medio;Ninguna;Sí;16;Tarde
+C-0409;España;Bilbao;País Vasco;26;Masculino;Medio;Ninguna;No;16;Tarde
+C-0731;España;Burgos;Castilla y León;26;Femenino;Medio;Ninguna;No;16;Mañana
+C-0881;España;Alicante;Comunidad Valenciana;27;Femenino;Medio;Ninguna;No;16;Noche
+C-1170;España;Barcelona;Cataluña;27;Masculino;Medio;Leve;Sí;16;Tarde
+C-0515;España;Alicante;Comunidad Valenciana;28;Femenino;Medio;Ninguna;Sí;16;Tarde
+C-1015;España;Gijón;Asturias;28;Femenino;Medio;Ninguna;No;16;Tarde
+C-0922;España;Sevilla;Andalucía;28;Masculino;Medio;Ninguna;No;16;Mañana
+C-0086;España;Vitoria-Gasteiz;País Vasco;28;Femenino;Medio;Ninguna;No;16;Noche
+C-1257;España;Madrid;Comunidad de Madrid;28;Femenino;Medio;Crónica;Sí;16;Noche
+C-1109;España;Pamplona;Navarra;28;Masculino;Medio;Ninguna;No;16;Tarde
+C-1503;España;Madrid;Comunidad de Madrid;29;Femenino;Medio;Leve;Sí;16;Tarde
+C-0048;España;Málaga;Andalucía;29;Masculino;Medio;Ninguna;No;16;Tarde
+C-0096;España;Vigo;Galicia;29;Masculino;Medio;Ninguna;No;16;Tarde
+C-1301;España;Barcelona;Cataluña;29;Femenino;Medio;Leve;Sí;16;Tarde
+C-1233;España;Bilbao;País Vasco;30;Masculino;Medio;Ninguna;No;16;Tarde
+C-0649;España;Sevilla;Andalucía;30;Femenino;Medio;Crónica;Sí;16;Tarde
+C-1492;España;Cáceres;Extremadura;30;Femenino;Medio;Ninguna;Sí;16;Tarde
+C-1178;España;Barcelona;Cataluña;33;Femenino;Medio;Ninguna;No;16;Tarde
+C-0461;España;Valencia;Comunidad Valenciana;33;Masculino;Medio;Ninguna;No;16;Tarde
+C-0668;España;Córdoba;Andalucía;33;Femenino;Medio;Ninguna;Sí;16;Tarde
+C-0392;España;Miranda de Ebro;Castilla y León;33;Femenino;Medio;Ninguna;No;16;Tarde
+C-1222;España;Vitoria-Gasteiz;País Vasco;35;Femenino;Medio;Ninguna;Sí;16;Tarde
+C-1466;España;Valladolid;Castilla y León;21;Masculino;Medio;Ninguna;Sí;15;Tarde
+C-1361;España;Elche;Comunidad Valenciana;26;Masculino;Medio;Ninguna;No;15;Tarde
+C-0293;España;Palma;Islas Baleares;26;Masculino;Medio;Leve;Sí;15;Tarde
+C-0571;España;Alicante;Comunidad Valenciana;26;Masculino;Medio;Leve;Sí;15;Tarde
+C-0928;España;Bilbao;País Vasco;26;Masculino;Medio;Ninguna;Sí;15;Tarde
+C-1363;España;Elche;Comunidad Valenciana;26;Femenino;Medio;Ninguna;No;15;Tarde
+C-1123;España;San Sebastián;País Vasco;26;Femenino;Medio;Leve;Sí;15;Tarde
+C-0631;España;Barcelona;Cataluña;26;Masculino;Medio;Ninguna;No;15;Tarde
+C-1499;España;Madrid;Comunidad de Madrid;27;Masculino;Medio;Ninguna;No;15;Noche
+C-1344;España;Córdoba;Andalucía;27;Masculino;Medio;Ninguna;Sí;15;Tarde
+C-0577;España;Pamplona;Navarra;27;Masculino;Medio;Ninguna;Sí;15;Tarde
+C-0892;España;Burgos;Castilla y León;28;Femenino;Medio;Ninguna;No;15;Mañana
+C-1328;España;Logroño;La Rioja;28;Masculino;Medio;Ninguna;No;15;Tarde
+C-0035;España;Sevilla;Andalucía;28;Femenino;Medio;Ninguna;No;15;Tarde
+C-1028;España;Barcelona;Cataluña;28;Femenino;Medio;Crónica;Sí;15;Tarde
+C-1193;España;Burgos;Castilla y León;28;Masculino;Medio;Ninguna;Sí;15;Tarde
+C-1327;España;Logroño;La Rioja;28;Masculino;Medio;Ninguna;Sí;15;Tarde
+C-1408;España;Málaga;Andalucía;28;Femenino;Medio;Ninguna;No;15;Tarde
+C-1520;España;Bilbao;País Vasco;29;Masculino;Medio;Leve;Sí;15;Tarde
+C-1584;España;Sevilla;Andalucía;29;Masculino;Medio;Crónica;Sí;15;Tarde
+C-1345;España;Córdoba;Andalucía;29;Masculino;Medio;Ninguna;No;15;Tarde
+C-0791;España;Sevilla;Andalucía;29;Masculino;Medio;Ninguna;No;15;Tarde
+C-1230;España;Bilbao;País Vasco;29;Masculino;Medio;Ninguna;No;15;Tarde
+C-0970;España;Cáceres;Extremadura;29;Femenino;Medio;Crónica;Sí;15;Noche
+C-1289;España;Burgos;Castilla y León;30;Femenino;Medio;Ninguna;Sí;15;Mediodía
+C-0034;España;Sevilla;Andalucía;30;Masculino;Medio;Leve;Sí;15;Tarde
+C-0530;España;Cáceres;Extremadura;30;Femenino;Medio;Ninguna;No;15;Tarde
+C-0951;España;San Sebastián;País Vasco;30;Masculino;Medio;Ninguna;No;15;Tarde
+C-1203;España;Córdoba;Andalucía;30;Femenino;Medio;Ninguna;No;15;Tarde
+C-0698;España;Salamanca;Castilla y León;31;Masculino;Medio;Ninguna;Sí;15;Mañana
+C-1080;España;Elche;Comunidad Valenciana;31;Masculino;Medio;Ninguna;No;15;Tarde
+C-1445;España;Alicante;Comunidad Valenciana;31;Masculino;Medio;Ninguna;No;15;Tarde
+C-0285;España;Miranda de Ebro;Castilla y León;32;Femenino;Medio;Ninguna;No;15;Tarde
+C-0777;España;Palma;Islas Baleares;32;Femenino;Medio;Ninguna;No;15;Mañana
+C-1302;España;Barcelona;Cataluña;32;Masculino;Medio;Ninguna;No;15;Tarde
+C-0578;España;Pamplona;Navarra;32;Femenino;Medio;Ninguna;No;15;Tarde
+C-0860;España;Logroño;La Rioja;32;Masculino;Medio;Ninguna;No;15;Tarde
+C-1430;España;San Sebastián;País Vasco;33;Masculino;Medio;Leve;Sí;15;Tarde
+C-0929;España;Bilbao;País Vasco;34;Masculino;Medio;Ninguna;Sí;15;Mañana
+C-1339;España;Córdoba;Andalucía;36;Femenino;Medio;Ninguna;Sí;15;Tarde
+C-1256;España;Madrid;Comunidad de Madrid;37;Femenino;Medio;Ninguna;No;15;Tarde
+C-1260;España;Zaragoza;Aragón;38;Femenino;Medio;Ninguna;Sí;15;Tarde
+C-0918;España;Sevilla;Andalucía;38;Masculino;Medio;Ninguna;No;15;Tarde
+C-1562;España;Zaragoza;Aragón;38;Femenino;Medio;Leve;Sí;15;Tarde
+C-0083;España;Vitoria-Gasteiz;País Vasco;40;Masculino;Medio;Ninguna;No;15;Tarde
+C-0126;España;Granada;Andalucía;49;Masculino;Medio;Ninguna;No;15;Mediodía
+C-0561;España;Granada;Andalucía;50;Femenino;Medio;Ninguna;Sí;15;Noche
+C-1278;España;Vigo;Galicia;50;Masculino;Medio;Ninguna;No;15;Noche
+C-1131;España;Madrid;Comunidad de Madrid;51;Femenino;Medio;Ninguna;Sí;15;Mañana
+C-0512;España;Alicante;Comunidad Valenciana;51;Femenino;Medio;Ninguna;No;15;Tarde
+C-0642;España;Sevilla;Andalucía;51;Masculino;Medio;Ninguna;No;15;Tarde
+C-1229;España;Bilbao;País Vasco;54;Masculino;Medio;Ninguna;No;15;Tarde
+C-0422;España;Logroño;La Rioja;55;Femenino;Medio;Ninguna;No;15;Mediodía
+C-1407;España;Málaga;Andalucía;55;Femenino;Medio;Crónica;Sí;15;Noche
+C-1500;España;Madrid;Comunidad de Madrid;55;Femenino;Medio;Ninguna;No;15;Tarde
+C-1541;España;Gijón;Asturias;21;Masculino;Medio;Ninguna;No;12;Tarde
+C-0010;España;Madrid;Comunidad de Madrid;21;Femenino;Medio;Ninguna;No;12;Tarde
+C-1549;España;Valencia;Comunidad Valenciana;22;Masculino;Medio;Ninguna;Sí;12;Mañana
+C-1596;España;Madrid;Comunidad de Madrid;22;Masculino;Medio;Leve;Sí;12;Noche
+C-0579;España;Pamplona;Navarra;22;Masculino;Medio;Ninguna;No;12;Tarde
+C-0734;España;Burgos;Castilla y León;22;Masculino;Medio;Ninguna;No;12;Tarde
+C-0203;España;Santander;Cantabria;23;Masculino;Medio;Ninguna;Sí;12;Mañana
+C-0788;España;Sevilla;Andalucía;23;Femenino;Medio;Ninguna;No;12;Mediodía
+C-0175;España;Valladolid;Castilla y León;24;Femenino;Medio;Ninguna;No;12;Mediodía
+C-1129;España;Madrid;Comunidad de Madrid;24;Masculino;Medio;Ninguna;No;12;Mediodía
+C-0931;España;Bilbao;País Vasco;24;Femenino;Medio;Ninguna;No;12;Tarde
+C-1093;España;Salamanca;Castilla y León;24;Femenino;Medio;Ninguna;No;12;Tarde
+C-1570;España;Zaragoza;Aragón;25;Femenino;Medio;Crónica;Sí;12;Mañana
+C-1320;España;Logroño;La Rioja;25;Femenino;Medio;Ninguna;No;12;Noche
+C-1453;España;Logroño;La Rioja;25;Femenino;Medio;Ninguna;No;12;Tarde
+C-0089;España;Vigo;Galicia;25;Masculino;Medio;Ninguna;No;12;Mañana
+C-0330;España;Gijón;Asturias;25;Masculino;Medio;Ninguna;No;12;Tarde
+C-1440;España;Alicante;Comunidad Valenciana;26;Masculino;Medio;Ninguna;No;12;Tarde
+C-1460;España;Valladolid;Castilla y León;26;Femenino;Medio;Ninguna;No;12;Tarde
+C-1049;España;Bilbao;País Vasco;26;Masculino;Medio;Crónica;Sí;12;Tarde
+C-1539;España;Gijón;Asturias;26;Femenino;Medio;Ninguna;No;12;Noche
+C-0056;España;Bilbao;País Vasco;26;Masculino;Medio;Ninguna;Sí;12;Tarde
+C-0560;España;Granada;Andalucía;26;Masculino;Medio;Ninguna;No;12;Tarde
+C-0829;España;Gijón;Asturias;26;Masculino;Medio;Ninguna;No;12;Tarde
+C-1226;España;Vitoria-Gasteiz;País Vasco;26;Masculino;Medio;Ninguna;No;12;Mediodía
+C-0843;España;Alicante;Comunidad Valenciana;27;Femenino;Medio;Ninguna;No;12;Mañana
+C-0521;España;Bilbao;País Vasco;27;Masculino;Medio;Ninguna;Sí;12;Tarde
+C-0803;España;Granada;Andalucía;27;Femenino;Medio;Ninguna;No;12;Tarde
+C-1088;España;Elche;Comunidad Valenciana;27;Masculino;Medio;Ninguna;No;12;Tarde
+C-0775;España;Palma;Islas Baleares;27;Femenino;Medio;Ninguna;No;12;Tarde
+C-0205;España;Santander;Cantabria;27;Femenino;Medio;Leve;Sí;12;Tarde
+C-1292;España;Burgos;Castilla y León;27;Femenino;Medio;Ninguna;No;16;Tarde
+C-1356;España;Málaga;Andalucía;27;Masculino;Medio;Ninguna;No;16;Tarde
+C-0527;España;Bilbao;País Vasco;27;Femenino;Medio;Ninguna;No;16;Tarde
+C-0552;España;Granada;Andalucía;27;Masculino;Medio;Ninguna;No;12;Tarde
+C-0738;España;Oviedo;Asturias;27;Femenino;Medio;Ninguna;No;12;Mañana
+C-1434;España;San Sebastián;País Vasco;27;Femenino;Medio;Ninguna;No;12;Tarde
+C-0413;España;Bilbao;País Vasco;28;Masculino;Medio;Ninguna;No;12;Tarde
+C-0916;España;Sevilla;Andalucía;28;Femenino;Medio;Ninguna;No;12;Tarde
+C-0458;España;Valencia;Comunidad Valenciana;28;Femenino;Medio;Leve;Sí;12;Mañana
+C-0007;España;Madrid;Comunidad de Madrid;28;Femenino;Medio;Ninguna;No;12;Mediodía
+C-0421;España;Logroño;La Rioja;28;Femenino;Medio;Ninguna;Sí;12;Mediodía
+C-1197;España;Burgos;Castilla y León;28;Masculino;Medio;Ninguna;No;12;Tarde
+C-1262;España;Zaragoza;Aragón;28;Masculino;Medio;Ninguna;No;12;Tarde
+C-1285;España;Málaga;Andalucía;28;Masculino;Medio;Ninguna;No;12;Tarde
+C-0150;España;Murcia;Región de Murcia;28;Masculino;Medio;Leve;Sí;12;Tarde
+C-0489;España;Madrid;Comunidad de Madrid;28;Masculino;Medio;Ninguna;No;12;Tarde
+C-0599;España;Elche;Comunidad Valenciana;28;Masculino;Medio;Ninguna;Sí;12;Tarde
+C-0944;España;Vigo;Galicia;28;Femenino;Medio;Ninguna;Sí;12;Tarde
+C-1457;España;Logroño;La Rioja;28;Masculino;Medio;Ninguna;No;12;Tarde
+C-1559;España;Zaragoza;Aragón;28;Femenino;Medio;Ninguna;No;12;Tarde
+C-1265;España;Zaragoza;Aragón;28;Masculino;Medio;Ninguna;Sí;12;Tarde
+C-1357;España;Málaga;Andalucía;28;Masculino;Medio;Ninguna;Sí;12;Tarde
+C-1190;España;Burgos;Castilla y León;28;Femenino;Medio;Ninguna;No;12;Tarde
+C-0996;España;Elche;Comunidad Valenciana;28;Femenino;Medio;Ninguna;Sí;12;Tarde
+C-0901;España;Burgos;Castilla y León;29;Femenino;Medio;Ninguna;No;12;Mañana
+C-1145;España;Burgos;Castilla y León;29;Femenino;Medio;Crónica;Sí;12;Mañana
+C-0186;España;Salamanca;Castilla y León;29;Masculino;Medio;Ninguna;No;12;Tarde
+C-0899;España;Burgos;Castilla y León;29;Masculino;Medio;Ninguna;No;12;Tarde
+C-0780;España;Palma;Islas Baleares;29;Femenino;Medio;Ninguna;No;12;Mañana
+C-1589;España;Madrid;Comunidad de Madrid;29;Femenino;Medio;Ninguna;No;12;Mañana
+C-1140;España;Burgos;Castilla y León;29;Femenino;Medio;Ninguna;No;12;Tarde
+C-0381;España;Vigo;Galicia;29;Femenino;Medio;Ninguna;Sí;12;Mañana
+C-1054;España;Bilbao;País Vasco;29;Femenino;Medio;Ninguna;Sí;12;Mañana
+C-1364;España;Elche;Comunidad Valenciana;29;Femenino;Medio;Ninguna;No;12;Mañana
+C-0690;España;Cáceres;Extremadura;29;Masculino;Medio;Ninguna;No;16;Noche
+C-0448;España;Oviedo;Asturias;29;Masculino;Medio;Ninguna;No;12;Tarde
+C-0900;España;Burgos;Castilla y León;29;Femenino;Medio;Ninguna;No;12;Tarde
+C-1037;España;Vigo;Galicia;29;Masculino;Medio;Ninguna;No;12;Tarde
+C-1439;España;Alicante;Comunidad Valenciana;29;Femenino;Medio;Ninguna;No;12;Tarde
+C-1527;España;Bilbao;País Vasco;29;Masculino;Medio;Ninguna;No;12;Tarde
+C-0874;España;Bilbao;País Vasco;29;Femenino;Medio;Ninguna;Sí;12;Tarde
+C-1421;España;Cáceres;Extremadura;29;Masculino;Medio;Ninguna;No;12;Tarde
+C-0555;España;Granada;Andalucía;29;Masculino;Medio;Ninguna;Sí;12;Tarde
+C-0844;España;Alicante;Comunidad Valenciana;29;Femenino;Medio;Ninguna;No;15;Tarde
+C-0042;España;Sevilla;Andalucía;30;Femenino;Medio;Leve;Sí;15;Mañana
+C-0050;España;Málaga;Andalucía;30;Femenino;Medio;Ninguna;Sí;15;Mañana
+C-1211;España;Valencia;Comunidad Valenciana;30;Femenino;Medio;Ninguna;No;12;Tarde
+C-0088;España;Vitoria-Gasteiz;País Vasco;30;Masculino;Medio;Ninguna;No;12;Tarde
+C-1530;España;Logroño;La Rioja;30;Masculino;Medio;Ninguna;No;12;Noche
+C-1154;España;Gijón;Asturias;30;Masculino;Medio;Ninguna;Sí;12;Tarde
+C-1472;España;Salamanca;Castilla y León;30;Masculino;Medio;Ninguna;No;12;Tarde
+C-0272;España;Plasencia;Extremadura;30;Femenino;Medio;Ninguna;Sí;12;Tarde
+C-1010;España;Zaragoza;Aragón;30;Femenino;Medio;Ninguna;No;12;Tarde
+C-1018;España;Gijón;Asturias;30;Femenino;Medio;Ninguna;No;12;Tarde
+C-1330;España;Bilbao;País Vasco;30;Masculino;Medio;Ninguna;No;12;Tarde
+C-1365;España;Elche;Comunidad Valenciana;30;Masculino;Medio;Ninguna;No;12;Tarde
+C-1385;España;Madrid;Comunidad de Madrid;30;Masculino;Medio;Ninguna;No;12;Tarde
+C-0535;España;Cáceres;Extremadura;30;Femenino;Medio;Ninguna;No;12;Mañana
+C-0510;España;Alicante;Comunidad Valenciana;30;Masculino;Medio;Ninguna;No;12;Mañana
+C-1451;España;Logroño;La Rioja;30;Masculino;Medio;Crónica;Sí;12;Mañana
+C-1167;España;Valencia;Comunidad Valenciana;31;Masculino;Medio;Leve;Sí;12;Tarde
+C-0990;España;Málaga;Andalucía;31;Masculino;Medio;Ninguna;Sí;12;Tarde
+C-1084;España;Elche;Comunidad Valenciana;31;Masculino;Medio;Ninguna;No;12;Tarde
+C-0024;España;Valencia;Comunidad Valenciana;31;Masculino;Medio;Ninguna;No;12;Tarde
+C-0365;España;Sevilla;Andalucía;31;Masculino;Medio;Ninguna;No;12;Mañana
+C-0384;España;Vigo;Galicia;31;Masculino;Medio;Ninguna;No;12;Mañana
+C-0645;España;Sevilla;Andalucía;31;Femenino;Medio;Crónica;Sí;12;Mañana
+C-0658;España;San Sebastián;País Vasco;31;Masculino;Medio;Leve;Sí;12;Mediodía
+C-1535;España;Logroño;La Rioja;31;Masculino;Medio;Ninguna;No;12;Noche
+C-1221;España;Vitoria-Gasteiz;País Vasco;31;Femenino;Medio;Ninguna;No;12;Tarde
+C-1592;España;Madrid;Comunidad de Madrid;31;Femenino;Medio;Ninguna;No;12;Tarde
+C-0021;España;Barcelona;Cataluña;31;Femenino;Medio;Ninguna;No;16;Tarde
+C-0244;España;Badajoz;Extremadura;31;Masculino;Medio;Ninguna;No;16;Tarde
+C-0572;España;Alicante;Comunidad Valenciana;31;Masculino;Medio;Ninguna;No;16;Tarde
+C-1333;España;Bilbao;País Vasco;31;Masculino;Medio;Ninguna;No;16;Tarde
+C-0729;España;Burgos;Castilla y León;31;Masculino;Medio;Ninguna;No;16;Tarde
+C-0157;España;Zaragoza;Aragón;31;Femenino;Medio;Ninguna;No;16;Tarde
+C-0545;España;Zaragoza;Aragón;31;Femenino;Medio;Ninguna;No;15;Mañana
+C-0694;España;Salamanca;Castilla y León;31;Femenino;Medio;Ninguna;No;15;Mediodía
+C-0476;España;Valladolid;Castilla y León;31;Masculino;Medio;Ninguna;No;15;Tarde
+C-1392;España;Granada;Andalucía;31;Femenino;Medio;Ninguna;No;12;Tarde
+C-0001;España;Madrid;Comunidad de Madrid;32;Femenino;Medio;Ninguna;No;12;Mañana
+C-0190;España;Burgos;Castilla y León;32;Femenino;Medio;Ninguna;Sí;12;Mañana
+C-0259;España;Cáceres;Extremadura;32;Femenino;Medio;Ninguna;No;12;Tarde
+C-1038;España;Vigo;Galicia;32;Masculino;Medio;Ninguna;Sí;12;Mañana
+C-0606;España;San Sebastián;País Vasco;32;Femenino;Medio;Ninguna;No;12;Mañana
+C-0701;España;Salamanca;Castilla y León;32;Femenino;Medio;Ninguna;No;12;Mañana
+C-1192;España;Burgos;Castilla y León;32;Masculino;Medio;Ninguna;No;12;Tarde
+C-1456;España;Logroño;La Rioja;32;Masculino;Medio;Ninguna;Sí;12;Tarde
+C-0003;España;Madrid;Comunidad de Madrid;32;Masculino;Medio;Ninguna;Sí;12;Tarde
+C-0071;España;San Sebastián;País Vasco;32;Masculino;Medio;Ninguna;No;12;Tarde
+C-0325;España;Gijón;Asturias;32;Femenino;Medio;Ninguna;No;12;Tarde
+C-0468;España;Salamanca;Castilla y León;32;Masculino;Medio;Ninguna;Sí;12;Tarde
+C-0959;España;Gijón;Asturias;32;Masculino;Medio;Ninguna;No;12;Tarde
+C-1348;España;Córdoba;Andalucía;32;Masculino;Medio;Leve;Sí;12;Tarde
+C-1573;España;Zaragoza;Aragón;32;Masculino;Medio;Ninguna;No;12;Tarde
+C-0520;España;Bilbao;País Vasco;32;Femenino;Medio;Ninguna;Sí;12;Tarde
+C-1029;España;Barcelona;Cataluña;33;Femenino;Medio;Ninguna;Sí;12;Mañana
+C-0017;España;Barcelona;Cataluña;33;Femenino;Medio;Ninguna;No;12;Tarde
+C-0709;España;Alicante;Comunidad Valenciana;33;Masculino;Medio;Ninguna;No;12;Tarde
+C-0669;España;Córdoba;Andalucía;33;Masculino;Medio;Leve;Sí;16;Noche
+C-0127;España;Granada;Andalucía;33;Femenino;Medio;Ninguna;Sí;12;Tarde
+C-1474;España;Salamanca;Castilla y León;33;Masculino;Medio;Ninguna;No;12;Tarde
+C-0696;España;Salamanca;Castilla y León;33;Femenino;Medio;Ninguna;No;12;Tarde
+C-0356;España;Zaragoza;Aragón;33;Femenino;Medio;Ninguna;No;12;Tarde
+C-1332;España;Bilbao;País Vasco;34;Femenino;Medio;Ninguna;No;12;Tarde
+C-1515;España;Alicante;Comunidad Valenciana;34;Femenino;Medio;Ninguna;No;12;Tarde
+C-0516;España;Alicante;Comunidad Valenciana;34;Masculino;Medio;Ninguna;No;12;Tarde
+C-1299;España;Barcelona;Cataluña;34;Masculino;Medio;Ninguna;Sí;12;Tarde
+C-0465;España;Salamanca;Castilla y León;35;Masculino;Medio;Ninguna;Sí;12;Tarde
+C-0364;España;Sevilla;Andalucía;35;Masculino;Medio;Ninguna;No;12;Noche
+C-0601;España;Elche;Comunidad Valenciana;35;Masculino;Medio;Ninguna;No;12;Tarde
+C-1370;España;Bilbao;País Vasco;36;Femenino;Medio;Ninguna;No;12;Noche
+C-1437;España;San Sebastián;País Vasco;36;Femenino;Medio;Ninguna;No;12;Tarde
+C-0218;España;Oviedo;Asturias;37;Femenino;Medio;Leve;Sí;12;Tarde
+C-0614;España;San Sebastián;País Vasco;37;Masculino;Medio;Ninguna;No;12;Tarde
+C-1064;España;Badajoz;Extremadura;37;Masculino;Medio;Ninguna;Sí;12;Mañana
+C-1259;España;Zaragoza;Aragón;37;Femenino;Medio;Ninguna;No;12;Mañana
+C-0426;España;Logroño;La Rioja;37;Femenino;Medio;Ninguna;Sí;12;Mediodía
+C-1250;España;Madrid;Comunidad de Madrid;37;Femenino;Medio;Ninguna;No;12;Noche
+C-0680;España;Santander;Cantabria;37;Masculino;Medio;Ninguna;No;12;Tarde
+C-0950;España;San Sebastián;País Vasco;37;Femenino;Medio;Ninguna;Sí;12;Tarde
+C-0912;España;Alicante;Comunidad Valenciana;38;Masculino;Medio;Ninguna;Sí;12;Mañana
+C-0942;España;Vigo;Galicia;38;Masculino;Medio;Ninguna;No;12;Mañana
+C-1105;España;Alicante;Comunidad Valenciana;38;Masculino;Medio;Ninguna;Sí;12;Mañana
+C-0612;España;San Sebastián;País Vasco;38;Femenino;Medio;Ninguna;Sí;12;Tarde
+C-1528;España;Bilbao;País Vasco;38;Masculino;Medio;Ninguna;No;12;Mañana
+C-0848;España;Málaga;Andalucía;38;Femenino;Medio;Crónica;Sí;12;Mediodía
+C-1452;España;Logroño;La Rioja;38;Masculino;Medio;Ninguna;No;12;Mediodía
+C-0027;España;Valencia;Comunidad Valenciana;38;Femenino;Medio;Ninguna;No;12;Tarde
+C-0741;España;Oviedo;Asturias;38;Femenino;Medio;Ninguna;Sí;12;Tarde
+C-0361;España;Zaragoza;Aragón;40;Masculino;Medio;Ninguna;Sí;12;Noche
+C-0609;España;San Sebastián;País Vasco;40;Femenino;Medio;Ninguna;No;12;Noche
+C-0689;España;Cáceres;Extremadura;40;Femenino;Medio;Ninguna;No;12;Tarde
+C-1216;España;Valencia;Comunidad Valenciana;40;Masculino;Medio;Ninguna;No;12;Mañana
+C-1471;España;Salamanca;Castilla y León;40;Femenino;Medio;Ninguna;No;12;Mañana
+C-1388;España;Madrid;Comunidad de Madrid;40;Masculino;Medio;Ninguna;Sí;12;Mediodía
+C-0498;España;Málaga;Andalucía;41;Masculino;Medio;Ninguna;No;12;Tarde
+C-1213;España;Valencia;Comunidad Valenciana;41;Masculino;Medio;Ninguna;No;12;Tarde
+C-1199;España;Córdoba;Andalucía;42;Masculino;Medio;Ninguna;No;12;Mañana
+C-0350;España;Plasencia;Extremadura;43;Femenino;Medio;Ninguna;No;12;Tarde
+C-0196;España;Burgos;Castilla y León;43;Masculino;Medio;Ninguna;Sí;12;Mediodía
+C-0715;España;Alicante;Comunidad Valenciana;43;Femenino;Medio;Ninguna;No;12;Tarde
+C-1181;España;Logroño;La Rioja;44;Masculino;Medio;Ninguna;No;12;Tarde
+C-0782;España;Sevilla;Andalucía;44;Masculino;Medio;Ninguna;Sí;12;Tarde
+C-1025;España;Barcelona;Cataluña;44;Masculino;Medio;Ninguna;No;12;Tarde
+C-1454;España;Logroño;La Rioja;44;Femenino;Medio;Ninguna;No;12;Tarde
+C-0979;España;Cáceres;Extremadura;45;Masculino;Medio;Ninguna;No;12;Noche
+C-0333;España;Murcia;Región de Murcia;45;Masculino;Medio;Ninguna;Sí;12;Tarde
+C-0373;España;Sevilla;Andalucía;45;Femenino;Medio;Ninguna;Sí;12;Tarde
+C-0683;España;Cáceres;Extremadura;45;Femenino;Medio;Ninguna;No;12;Mediodía
+C-0576;España;Pamplona;Navarra;45;Femenino;Medio;Ninguna;No;12;Tarde
+C-1046;España;Bilbao;País Vasco;47;Masculino;Medio;Ninguna;No;12;Mañana
+C-1177;España;Barcelona;Cataluña;47;Masculino;Medio;Ninguna;No;12;Tarde
+C-0379;España;Vigo;Galicia;47;Masculino;Medio;Ninguna;Sí;12;Noche
+C-1400;España;Málaga;Andalucía;47;Masculino;Medio;Leve;Sí;12;Tarde
+C-1206;España;Córdoba;Andalucía;47;Femenino;Medio;Crónica;Sí;12;Tarde
+C-1508;España;Madrid;Comunidad de Madrid;48;Masculino;Medio;Ninguna;No;12;Tarde
+C-1533;España;Logroño;La Rioja;48;Masculino;Medio;Ninguna;No;12;Tarde
+C-0896;España;Burgos;Castilla y León;49;Femenino;Medio;Ninguna;No;12;Mediodía
+C-1172;España;Barcelona;Cataluña;50;Masculino;Medio;Ninguna;No;12;Mañana
+C-1496;España;Cáceres;Extremadura;51;Masculino;Medio;Ninguna;No;12;Tarde
+C-0828;España;Gijón;Asturias;51;Femenino;Medio;Ninguna;Sí;12;Tarde
+C-0480;España;Valladolid;Castilla y León;52;Femenino;Medio;Ninguna;Sí;12;Tarde
+C-0849;España;Málaga;Andalucía;52;Femenino;Medio;Ninguna;No;12;Noche
+C-1005;España;Zaragoza;Aragón;53;Masculino;Medio;Leve;Sí;12;Mediodía
+C-1279;España;Málaga;Andalucía;53;Masculino;Medio;Ninguna;No;12;Noche
+C-0146;España;Murcia;Región de Murcia;54;Masculino;Medio;Leve;Sí;12;Tarde
+C-0556;España;Granada;Andalucía;54;Masculino;Medio;Ninguna;Sí;12;Tarde
+C-0339;España;Murcia;Región de Murcia;54;Masculino;Medio;Ninguna;Sí;12;Mañana
+C-0553;España;Granada;Andalucía;54;Masculino;Medio;Ninguna;No;12;Noche
+C-1263;España;Zaragoza;Aragón;54;Masculino;Medio;Ninguna;No;12;Tarde
+C-1186;España;Logroño;La Rioja;55;Masculino;Medio;Leve;Sí;12;Mañana
+C-1432;España;San Sebastián;País Vasco;55;Femenino;Medio;Ninguna;No;12;Mañana
+C-1529;España;Logroño;La Rioja;55;Femenino;Medio;Ninguna;Sí;12;Mediodía
+C-1433;España;San Sebastián;País Vasco;55;Masculino;Medio;Ninguna;No;12;Tarde
+C-0584;España;Oviedo;Asturias;56;Femenino;Medio;Ninguna;No;12;Tarde
+C-0191;España;Burgos;Castilla y León;56;Masculino;Medio;Ninguna;No;12;Mañana
+C-0670;España;Córdoba;Andalucía;57;Masculino;Medio;Ninguna;No;12;Tarde
+C-0292;España;Palma;Islas Baleares;57;Masculino;Medio;Leve;Sí;12;Tarde
+C-1248;España;Zaragoza;Aragón;59;Masculino;Medio;Leve;Sí;12;Mañana
+C-0305;España;Alicante;Comunidad Valenciana;60;Femenino;Medio;Ninguna;No;12;Mañana
+C-1436;España;San Sebastián;País Vasco;62;Femenino;Medio;Ninguna;No;12;Mañana
+C-1139;España;Burgos;Castilla y León;63;Femenino;Medio;Ninguna;No;12;Mañana
+C-1173;España;Barcelona;Cataluña;64;Masculino;Medio;Ninguna;No;12;Mañana
+C-0258;España;Cáceres;Extremadura;64;Femenino;Medio;Ninguna;Sí;12;Mediodía
+C-0129;España;Granada;Andalucía;64;Femenino;Medio;Ninguna;No;12;Mediodía
+C-1543;España;Gijón;Asturias;64;Masculino;Medio;Ninguna;No;12;Tarde
+C-0557;España;Granada;Andalucía;65;Femenino;Medio;Ninguna;No;12;Mediodía
+C-1351;España;Málaga;Andalucía;65;Femenino;Medio;Ninguna;No;12;Tarde
+C-0783;España;Sevilla;Andalucía;66;Masculino;Medio;Ninguna;No;12;Mediodía
+C-1510;España;Alicante;Comunidad Valenciana;67;Masculino;Medio;Ninguna;No;12;Tarde
+C-0873;España;Bilbao;País Vasco;21;Masculino;Medio;Ninguna;No;10;Tarde
+C-0963;España;Gijón;Asturias;21;Masculino;Medio;Ninguna;No;10;Tarde
+C-0028;España;Valencia;Comunidad Valenciana;22;Masculino;Medio;Ninguna;No;10;Noche
+C-1212;España;Valencia;Comunidad Valenciana;22;Masculino;Medio;Leve;Sí;10;Tarde
+C-0989;España;Málaga;Andalucía;23;Masculino;Medio;Ninguna;No;10;Mañana
+C-1119;España;San Sebastián;País Vasco;23;Femenino;Medio;Ninguna;No;10;Tarde
+C-1043;España;Vigo;Galicia;23;Femenino;Medio;Ninguna;No;10;Mañana
+C-0742;España;Oviedo;Asturias;24;Masculino;Medio;Ninguna;No;10;Tarde
+C-0194;España;Burgos;Castilla y León;24;Femenino;Medio;Ninguna;Sí;10;Mañana
+C-1030;España;Barcelona;Cataluña;25;Masculino;Medio;Ninguna;No;10;Mañana
+C-0351;España;Plasencia;Extremadura;25;Masculino;Medio;Ninguna;Sí;10;Mediodía
+C-1034;España;Barcelona;Cataluña;25;Masculino;Medio;Ninguna;Sí;10;Noche
+C-0352;España;Plasencia;Extremadura;25;Masculino;Medio;Crónica;Sí;10;Tarde
+C-1458;España;Logroño;La Rioja;25;Femenino;Medio;Leve;Sí;10;Tarde
+C-0375;España;Vigo;Galicia;25;Femenino;Medio;Ninguna;No;10;Tarde
+C-0222;España;Pamplona;Navarra;26;Femenino;Medio;Ninguna;No;10;Mañana
+C-1343;España;Córdoba;Andalucía;26;Masculino;Medio;Ninguna;No;10;Mediodía
+C-1566;España;Zaragoza;Aragón;26;Masculino;Medio;Ninguna;No;10;Tarde
+C-0359;España;Zaragoza;Aragón;26;Masculino;Medio;Ninguna;No;10;Tarde
+C-0437;España;Madrid;Comunidad de Madrid;26;Femenino;Medio;Ninguna;No;10;Tarde
+C-0839;España;Alicante;Comunidad Valenciana;26;Masculino;Medio;Ninguna;No;10;Tarde
+C-0957;España;San Sebastián;País Vasco;26;Femenino;Medio;Ninguna;No;10;Tarde
+C-1094;España;Salamanca;Castilla y León;26;Masculino;Medio;Ninguna;Sí;10;Tarde
+C-1100;España;Alicante;Comunidad Valenciana;26;Masculino;Medio;Leve;Sí;10;Tarde
+C-1114;España;Pamplona;Navarra;26;Masculino;Medio;Ninguna;No;10;Tarde
+C-1115;España;Pamplona;Navarra;26;Masculino;Medio;Ninguna;Sí;10;Tarde
+C-1380;España;Madrid;Comunidad de Madrid;26;Femenino;Medio;Leve;Sí;10;Tarde
+C-1238;España;Bilbao;País Vasco;26;Femenino;Medio;Ninguna;No;10;Mañana
+C-0602;España;Elche;Comunidad Valenciana;26;Masculino;Medio;Ninguna;No;10;Mañana
+C-0897;España;Burgos;Castilla y León;26;Femenino;Medio;Ninguna;No;10;Mañana
+C-0740;España;Oviedo;Asturias;26;Masculino;Medio;Ninguna;No;10;Noche
+C-1582;España;Sevilla;Andalucía;26;Femenino;Medio;Crónica;Sí;10;Tarde
+C-1207;España;Córdoba;Andalucía;26;Femenino;Medio;Ninguna;No;10;Tarde
+C-1480;España;Plasencia;Extremadura;26;Masculino;Medio;Ninguna;Sí;10;Noche
+C-0111;España;Santiago de Compostela;Galicia;27;Masculino;Medio;Ninguna;No;10;Mañana
+C-1002;España;Zaragoza;Aragón;27;Femenino;Medio;Ninguna;Sí;10;Mañana
+C-1560;España;Zaragoza;Aragón;27;Masculino;Medio;Ninguna;No;10;Mediodía
+C-0939;España;Vigo;Galicia;27;Femenino;Medio;Ninguna;Sí;10;Tarde
+C-1270;España;Vigo;Galicia;27;Femenino;Medio;Leve;Sí;10;Tarde
+C-1317;España;Valladolid;Castilla y León;28;Masculino;Medio;Ninguna;No;10;Mañana
+C-0624;España;Madrid;Comunidad de Madrid;28;Masculino;Medio;Crónica;Sí;10;Mediodía
+C-1287;España;Málaga;Andalucía;28;Femenino;Medio;Ninguna;No;10;Mediodía
+C-0858;España;Málaga;Andalucía;28;Femenino;Medio;Ninguna;No;10;Tarde
+C-0438;España;Madrid;Comunidad de Madrid;29;Femenino;Medio;Leve;Sí;10;Mañana
+C-1401;España;Málaga;Andalucía;29;Masculino;Medio;Ninguna;Sí;10;Mañana
+C-0323;España;Gijón;Asturias;29;Femenino;Medio;Ninguna;No;10;Mediodía
+C-0923;España;Sevilla;Andalucía;29;Masculino;Medio;Ninguna;Sí;10;Noche
+C-1516;España;Alicante;Comunidad Valenciana;29;Femenino;Medio;Ninguna;No;10;Tarde
+C-0450;España;Oviedo;Asturias;29;Masculino;Medio;Ninguna;No;10;Tarde
+C-0582;España;Pamplona;Navarra;29;Masculino;Medio;Ninguna;No;10;Tarde
+C-0836;España;Gijón;Asturias;29;Femenino;Medio;Ninguna;No;10;Tarde
+C-0861;España;Logroño;La Rioja;29;Femenino;Medio;Ninguna;No;10;Tarde
+C-0885;España;Alicante;Comunidad Valenciana;29;Femenino;Medio;Leve;Sí;10;Tarde
+C-0425;España;Logroño;La Rioja;30;Femenino;Medio;Ninguna;No;10;Mañana
+C-1329;España;Bilbao;País Vasco;30;Masculino;Medio;Ninguna;No;10;Mediodía
+C-1269;España;Vigo;Galicia;30;Masculino;Medio;Ninguna;No;10;Noche
+C-1275;España;Vigo;Galicia;30;Femenino;Medio;Ninguna;No;10;Noche
+C-1338;España;Bilbao;País Vasco;30;Femenino;Medio;Ninguna;Sí;10;Noche
+C-1183;España;Logroño;La Rioja;30;Masculino;Medio;Ninguna;No;10;Tarde
+C-1089;España;Salamanca;Castilla y León;30;Femenino;Medio;Ninguna;No;10;Tarde
+C-1498;España;Cáceres;Extremadura;30;Masculino;Medio;Ninguna;Sí;10;Tarde
+C-1567;España;Zaragoza;Aragón;31;Femenino;Medio;Ninguna;No;10;Mañana
+C-1402;España;Málaga;Andalucía;31;Femenino;Medio;Ninguna;No;10;Tarde
+C-0921;España;Sevilla;Andalucía;32;Femenino;Medio;Ninguna;Sí;10;Mañana
+C-1413;España;Barcelona;Cataluña;32;Masculino;Medio;Ninguna;No;10;Mañana
+C-0057;España;Bilbao;País Vasco;32;Masculino;Medio;Ninguna;No;10;Noche
+C-0037;España;Sevilla;Andalucía;32;Masculino;Medio;Ninguna;No;10;Tarde
+C-1150;España;Gijón;Asturias;32;Masculino;Medio;Ninguna;No;10;Tarde
+C-1350;España;Málaga;Andalucía;32;Masculino;Medio;Ninguna;No;10;Tarde
+C-0271;España;Plasencia;Extremadura;33;Masculino;Medio;Ninguna;No;10;Mañana
+C-0562;España;Alicante;Comunidad Valenciana;33;Masculino;Medio;Ninguna;No;10;Tarde
+C-1534;España;Logroño;La Rioja;33;Masculino;Medio;Ninguna;No;10;Tarde
+C-1578;España;Zaragoza;Aragón;33;Masculino;Medio;Ninguna;No;10;Tarde
+C-0593;España;Oviedo;Asturias;34;Femenino;Medio;Ninguna;No;10;Mañana
+C-0595;España;Elche;Comunidad Valenciana;34;Femenino;Medio;Ninguna;Sí;10;Mañana
+C-0781;España;Palma;Islas Baleares;34;Femenino;Medio;Ninguna;No;10;Mañana
+C-1235;España;Bilbao;País Vasco;34;Masculino;Medio;Ninguna;Sí;10;Tarde
+C-1544;España;Gijón;Asturias;34;Masculino;Medio;Ninguna;No;10;Tarde
+C-1217;España;Valencia;Comunidad Valenciana;35;Femenino;Medio;Ninguna;No;10;Tarde
+C-0153;España;Murcia;Región de Murcia;35;Femenino;Medio;Ninguna;No;10;Tarde
+C-0335;España;Murcia;Región de Murcia;35;Masculino;Medio;Ninguna;No;10;Tarde
+C-0875;España;Bilbao;País Vasco;35;Masculino;Medio;Ninguna;No;10;Tarde
+C-1322;España;Logroño;La Rioja;35;Masculino;Medio;Ninguna;No;10;Tarde
+C-1550;España;Valencia;Comunidad Valenciana;35;Femenino;Medio;Crónica;Sí;10;Tarde
+C-0801;España;Granada;Andalucía;36;Masculino;Medio;Ninguna;Sí;10;Tarde
+C-0910;España;Alicante;Comunidad Valenciana;36;Masculino;Medio;Ninguna;No;10;Tarde
+C-1168;España;Valencia;Comunidad Valenciana;36;Femenino;Medio;Ninguna;Sí;10;Tarde
+C-1175;España;Barcelona;Cataluña;36;Femenino;Medio;Ninguna;No;10;Tarde
+C-1196;España;Burgos;Castilla y León;36;Masculino;Medio;Ninguna;No;10;Tarde
+C-1576;España;Zaragoza;Aragón;36;Femenino;Medio;Ninguna;No;10;Tarde
+C-1391;España;Granada;Andalucía;37;Masculino;Medio;Ninguna;Sí;10;Tarde
+C-0743;España;Oviedo;Asturias;37;Masculino;Medio;Ninguna;Sí;10;Tarde
+C-0808;España;Vigo;Galicia;37;Femenino;Medio;Ninguna;No;10;Tarde
+C-1077;España;Salamanca;Castilla y León;37;Masculino;Medio;Ninguna;Sí;10;Tarde
+C-1166;España;Valencia;Comunidad Valenciana;37;Femenino;Medio;Ninguna;No;10;Tarde
+C-0131;España;Granada;Andalucía;38;Femenino;Medio;Ninguna;No;10;Noche
+C-1151;España;Gijón;Asturias;38;Masculino;Medio;Ninguna;No;10;Noche
+C-1442;España;Alicante;Comunidad Valenciana;38;Masculino;Medio;Ninguna;Sí;10;Tarde
+C-0677;España;Santander;Cantabria;38;Masculino;Medio;Ninguna;No;10;Tarde
+C-0902;España;Burgos;Castilla y León;38;Femenino;Medio;Ninguna;No;10;Tarde
+C-0954;España;San Sebastián;País Vasco;38;Masculino;Medio;Ninguna;No;10;Tarde
+C-1191;España;Burgos;Castilla y León;38;Masculino;Medio;Ninguna;No;10;Tarde
+C-1459;España;Valladolid;Castilla y León;38;Femenino;Medio;Ninguna;No;10;Tarde
+C-1545;España;Gijón;Asturias;39;Masculino;Medio;Ninguna;No;10;Tarde
+C-1180;España;Logroño;La Rioja;40;Femenino;Medio;Ninguna;No;10;Tarde
+C-0756;España;Gijón;Asturias;40;Masculino;Medio;Ninguna;No;10;Tarde
+C-1044;España;Vigo;Galicia;40;Masculino;Medio;Ninguna;No;10;Tarde
+C-0075;España;San Sebastián;País Vasco;41;Masculino;Medio;Ninguna;No;10;Mañana
+C-1293;España;Burgos;Castilla y León;41;Masculino;Medio;Ninguna;No;10;Mediodía
+C-0891;España;Alicante;Comunidad Valenciana;41;Masculino;Medio;Ninguna;No;10;Noche
+C-1144;España;Burgos;Castilla y León;41;Masculino;Medio;Ninguna;No;10;Noche
+C-1403;España;Málaga;Andalucía;41;Femenino;Medio;Ninguna;Sí;10;Noche
+C-1367;España;Elche;Comunidad Valenciana;41;Femenino;Medio;Ninguna;No;10;Tarde
+C-0483;España;Valladolid;Castilla y León;41;Masculino;Medio;Ninguna;Sí;10;Tarde
+C-0835;España;Gijón;Asturias;42;Femenino;Medio;Ninguna;No;10;Mañana
+C-0824;España;Madrid;Comunidad de Madrid;42;Femenino;Medio;Ninguna;No;10;Mediodía
+C-0098;España;Vigo;Galicia;42;Femenino;Medio;Ninguna;Sí;10;Tarde
+C-0229;España;Pamplona;Navarra;42;Femenino;Medio;Ninguna;No;10;Tarde
+C-0806;España;Vigo;Galicia;43;Femenino;Medio;Ninguna;No;10;Tarde
+C-1188;España;Logroño;La Rioja;43;Masculino;Medio;Ninguna;No;10;Tarde
+C-1101;España;Alicante;Comunidad Valenciana;44;Masculino;Medio;Ninguna;No;10;Mañana
+C-0716;España;A Coruña;Galicia;46;Femenino;Medio;Ninguna;No;10;Mediodía
+C-1450;España;Logroño;La Rioja;46;Femenino;Medio;Ninguna;No;10;Mediodía
+C-0183;España;Salamanca;Castilla y León;46;Masculino;Medio;Ninguna;No;10;Noche
+C-0943;España;Vigo;Galicia;46;Masculino;Medio;Ninguna;No;10;Noche
+C-1272;España;Vigo;Galicia;46;Masculino;Medio;Ninguna;Sí;10;Tarde
+C-0419;España;Logroño;La Rioja;46;Femenino;Medio;Ninguna;No;10;Tarde
+C-0914;España;Sevilla;Andalucía;47;Femenino;Medio;Ninguna;Sí;10;Mañana
+C-1375;España;Bilbao;País Vasco;47;Masculino;Medio;Ninguna;No;10;Mediodía
+C-1227;España;Vitoria-Gasteiz;País Vasco;47;Masculino;Medio;Ninguna;No;10;Tarde
+C-0336;España;Murcia;Región de Murcia;49;Masculino;Medio;Ninguna;No;10;Noche
+C-1469;España;Salamanca;Castilla y León;49;Femenino;Medio;Ninguna;No;10;Tarde
+C-1487;España;Plasencia;Extremadura;49;Masculino;Medio;Ninguna;No;10;Tarde
+C-1553;España;Valencia;Comunidad Valenciana;49;Masculino;Medio;Ninguna;No;10;Tarde
+C-1489;España;Cáceres;Extremadura;50;Femenino;Medio;Ninguna;No;10;Tarde
+C-1532;España;Logroño;La Rioja;52;Femenino;Medio;Leve;Sí;10;Tarde
+C-0906;España;Alicante;Comunidad Valenciana;54;Masculino;Medio;Crónica;Sí;10;Tarde
+C-0952;España;San Sebastián;País Vasco;54;Masculino;Medio;Ninguna;No;10;Tarde
+C-1251;España;Madrid;Comunidad de Madrid;55;Femenino;Medio;Ninguna;No;10;Tarde
+C-1588;España;Sevilla;Andalucía;55;Femenino;Medio;Ninguna;No;10;Tarde
+C-1447;España;Alicante;Comunidad Valenciana;56;Masculino;Medio;Ninguna;No;10;Mañana
+C-1296;España;Burgos;Castilla y León;56;Femenino;Medio;Ninguna;Sí;10;Mediodía
+C-1491;España;Cáceres;Extremadura;56;Femenino;Medio;Ninguna;Sí;10;Noche
+C-1379;España;Madrid;Comunidad de Madrid;56;Masculino;Medio;Ninguna;No;10;Tarde
+C-1143;España;Burgos;Castilla y León;57;Femenino;Medio;Ninguna;No;10;Mañana
+C-1243;España;Zaragoza;Aragón;57;Femenino;Medio;Ninguna;Sí;10;Mañana
+C-0473;España;Salamanca;Castilla y León;57;Masculino;Medio;Ninguna;No;10;Tarde
+C-0757;España;Gijón;Asturias;58;Masculino;Medio;Ninguna;No;10;Mañana
+C-1420;España;Cáceres;Extremadura;58;Femenino;Medio;Ninguna;No;10;Noche
+C-0464;España;Salamanca;Castilla y León;58;Femenino;Medio;Ninguna;No;10;Tarde
+C-0178;España;Salamanca;Castilla y León;59;Masculino;Medio;Ninguna;Sí;10;Mañana
+C-0811;España;Vigo;Galicia;59;Masculino;Medio;Leve;Sí;10;Mañana
+C-1382;España;Madrid;Comunidad de Madrid;60;Femenino;Medio;Ninguna;Sí;10;Tarde
+C-1085;España;Elche;Comunidad Valenciana;60;Masculino;Medio;Leve;Sí;10;Tarde
+C-0427;España;Logroño;La Rioja;61;Femenino;Medio;Ninguna;No;10;Tarde
+C-0815;España;Madrid;Comunidad de Madrid;62;Femenino;Medio;Ninguna;No;10;Tarde
+C-0865;España;Logroño;La Rioja;62;Femenino;Medio;Ninguna;No;10;Tarde
+C-1007;España;Zaragoza;Aragón;65;Femenino;Medio;Ninguna;No;10;Tarde
+C-1125;España;San Sebastián;País Vasco;65;Femenino;Medio;Ninguna;No;10;Tarde
+C-1337;España;Bilbao;País Vasco;67;Femenino;Medio;Ninguna;Sí;10;Tarde
+C-0537;España;Cáceres;Extremadura;67;Femenino;Medio;Crónica;Sí;10;Tarde
+C-0809;España;Vigo;Galicia;67;Masculino;Medio;Ninguna;No;10;Tarde
+C-0997;España;Elche;Comunidad Valenciana;21;Masculino;Medio;Ninguna;Sí;8;Mañana
+C-1090;España;Salamanca;Castilla y León;21;Masculino;Medio;Ninguna;No;8;Noche
+C-1376;España;Bilbao;País Vasco;21;Masculino;Medio;Ninguna;Sí;8;Tarde
+C-0528;España;Bilbao;País Vasco;21;Masculino;Medio;Ninguna;No;8;Tarde
+C-1041;España;Vigo;Galicia;21;Masculino;Medio;Ninguna;Sí;8;Tarde
+C-1341;España;Córdoba;Andalucía;21;Femenino;Medio;Ninguna;No;8;Tarde
+C-1521;España;Bilbao;País Vasco;21;Masculino;Medio;Ninguna;No;8;Tarde
+C-0587;España;Oviedo;Asturias;22;Masculino;Medio;Ninguna;No;8;Mañana
+C-0137;España;Córdoba;Andalucía;22;Femenino;Medio;Leve;Sí;8;Noche
+C-0149;España;Murcia;Región de Murcia;22;Femenino;Medio;Leve;Sí;8;Tarde
+C-0251;España;Badajoz;Extremadura;23;Femenino;Medio;Crónica;Sí;8;Noche
+C-1406;España;Málaga;Andalucía;23;Masculino;Medio;Ninguna;No;8;Tarde
+C-0110;España;A Coruña;Galicia;24;Masculino;Medio;Ninguna;No;8;Mañana
+C-0103;España;A Coruña;Galicia;24;Masculino;Medio;Ninguna;No;8;Tarde
+C-1195;España;Burgos;Castilla y León;24;Femenino;Medio;Ninguna;No;8;Tarde
+C-0031;España;Valencia;Comunidad Valenciana;25;Masculino;Medio;Leve;Sí;8;Tarde
+C-0466;España;Salamanca;Castilla y León;26;Masculino;Medio;Ninguna;Sí;8;Mañana
+C-0850;España;Málaga;Andalucía;26;Masculino;Medio;Ninguna;Sí;8;Mañana
+C-0513;España;Alicante;Comunidad Valenciana;26;Masculino;Medio;Crónica;Sí;8;Noche
+C-0765;España;Alicante;Comunidad Valenciana;26;Masculino;Medio;Ninguna;No;8;Noche
+C-0570;España;Alicante;Comunidad Valenciana;26;Masculino;Medio;Ninguna;No;8;Tarde
+C-0618;España;Madrid;Comunidad de Madrid;26;Masculino;Medio;Ninguna;No;8;Tarde
+C-0615;España;San Sebastián;País Vasco;27;Femenino;Medio;Ninguna;No;8;Mediodía
+C-0192;España;Burgos;Castilla y León;27;Masculino;Medio;Ninguna;No;8;Tarde
+C-0394;España;Miranda de Ebro;Castilla y León;28;Masculino;Medio;Ninguna;No;8;Mañana
+C-0638;España;Barcelona;Cataluña;28;Femenino;Medio;Ninguna;Sí;8;Mañana
+C-1281;España;Málaga;Andalucía;28;Masculino;Medio;Leve;Sí;8;Mediodía
+C-0991;España;Elche;Comunidad Valenciana;28;Femenino;Medio;Ninguna;No;8;Noche
+C-0435;España;Madrid;Comunidad de Madrid;28;Masculino;Medio;Ninguna;Sí;8;Tarde
+C-1027;España;Barcelona;Cataluña;28;Masculino;Medio;Ninguna;No;8;Tarde
+C-0093;España;Vigo;Galicia;29;Femenino;Medio;Leve;Sí;8;Mañana
+C-1019;España;Gijón;Asturias;29;Femenino;Medio;Ninguna;Sí;8;Mañana
+C-0672;España;Santander;Cantabria;29;Masculino;Medio;Ninguna;No;8;Mediodía
+C-1531;España;Logroño;La Rioja;29;Femenino;Medio;Ninguna;No;8;Tarde
+C-0233;España;Logroño;La Rioja;29;Femenino;Medio;Ninguna;No;8;Tarde
+C-0263;España;Cáceres;Extremadura;29;Masculino;Medio;Ninguna;Sí;8;Tarde
+C-0477;España;Valladolid;Castilla y León;29;Femenino;Medio;Ninguna;No;8;Tarde
+C-0187;España;Salamanca;Castilla y León;29;Femenino;Medio;Ninguna;No;8;Mediodía
+C-0288;España;Palma;Islas Baleares;29;Femenino;Medio;Ninguna;No;8;Mediodía
+C-0368;España;Sevilla;Andalucía;29;Femenino;Medio;Ninguna;No;8;Mediodía
+C-0313;España;Elche;Comunidad Valenciana;30;Femenino;Medio;Leve;Sí;8;Mañana
+C-0583;España;Pamplona;Navarra;30;Masculino;Medio;Ninguna;No;8;Mañana
+C-0856;España;Málaga;Andalucía;30;Femenino;Medio;Ninguna;No;8;Mañana
+C-1418;España;Barcelona;Cataluña;30;Masculino;Medio;Leve;Sí;8;Mediodía
+C-1579;España;Sevilla;Andalucía;30;Masculino;Medio;Leve;Sí;8;Noche
+C-1280;España;Málaga;Andalucía;30;Masculino;Medio;Ninguna;No;8;Tarde
+C-1340;España;Córdoba;Andalucía;30;Masculino;Medio;Ninguna;Sí;8;Tarde
+C-1427;España;Cáceres;Extremadura;30;Femenino;Medio;Ninguna;No;8;Tarde
+C-0240;España;Logroño;La Rioja;30;Masculino;Medio;Leve;Sí;8;Tarde
+C-0660;España;San Sebastián;País Vasco;30;Masculino;Medio;Crónica;Sí;8;Tarde
+C-1313;España;Valladolid;Castilla y León;30;Masculino;Medio;Ninguna;No;8;Tarde
+C-0206;España;Santander;Cantabria;31;Femenino;Medio;Ninguna;No;8;Mañana
+C-0846;España;Alicante;Comunidad Valenciana;31;Masculino;Medio;Crónica;Sí;8;Noche
+C-1102;España;Alicante;Comunidad Valenciana;31;Femenino;Medio;Ninguna;No;8;Noche
+C-1184;España;Logroño;La Rioja;31;Femenino;Medio;Ninguna;No;8;Noche
+C-1303;España;Barcelona;Cataluña;31;Masculino;Medio;Ninguna;No;8;Tarde
+C-1387;España;Madrid;Comunidad de Madrid;31;Masculino;Medio;Ninguna;No;8;Tarde
+C-0009;España;Madrid;Comunidad de Madrid;31;Femenino;Medio;Ninguna;No;8;Tarde
+C-0605;España;Elche;Comunidad Valenciana;31;Masculino;Medio;Crónica;Sí;8;Tarde
+C-1179;España;Logroño;La Rioja;31;Femenino;Medio;Ninguna;No;8;Tarde
+C-1242;España;Zaragoza;Aragón;31;Femenino;Medio;Ninguna;No;8;Tarde
+C-0479;España;Valladolid;Castilla y León;32;Femenino;Medio;Ninguna;No;8;Mañana
+C-0994;España;Elche;Comunidad Valenciana;32;Femenino;Medio;Leve;Sí;8;Noche
+C-1252;España;Madrid;Comunidad de Madrid;32;Femenino;Medio;Ninguna;No;8;Noche
+C-0117;España;Santiago de Compostela;Galicia;32;Femenino;Medio;Ninguna;Sí;8;Tarde
+C-0589;España;Oviedo;Asturias;32;Femenino;Medio;Ninguna;No;8;Tarde
+C-0699;España;Salamanca;Castilla y León;32;Femenino;Medio;Ninguna;No;8;Tarde
+C-1202;España;Córdoba;Andalucía;32;Femenino;Medio;Ninguna;Sí;8;Tarde
+C-0749;España;Gijón;Asturias;32;Masculino;Medio;Ninguna;Sí;8;Mañana
+C-0451;España;Oviedo;Asturias;33;Masculino;Medio;Ninguna;No;8;Mañana
+C-1298;España;Burgos;Castilla y León;33;Femenino;Medio;Ninguna;Sí;8;Mañana
+C-0307;España;Alicante;Comunidad Valenciana;33;Masculino;Medio;Leve;Sí;8;Noche
+C-0534;España;Cáceres;Extremadura;33;Femenino;Medio;Ninguna;No;8;Noche
+C-0735;España;Burgos;Castilla y León;33;Masculino;Medio;Ninguna;No;8;Noche
+C-1141;España;Burgos;Castilla y León;33;Masculino;Medio;Ninguna;Sí;8;Noche
+C-1371;España;Bilbao;País Vasco;33;Femenino;Medio;Ninguna;Sí;8;Tarde
+C-0005;España;Madrid;Comunidad de Madrid;33;Femenino;Medio;Ninguna;No;8;Mediodía
+C-0655;España;San Sebastián;País Vasco;34;Masculino;Medio;Ninguna;No;8;Noche
+C-1467;España;Valladolid;Castilla y León;34;Masculino;Medio;Ninguna;No;8;Tarde
+C-1557;España;Valencia;Comunidad Valenciana;34;Femenino;Medio;Ninguna;No;8;Tarde
+C-0030;España;Valencia;Comunidad Valenciana;34;Femenino;Medio;Ninguna;No;8;Tarde
+C-0260;España;Cáceres;Extremadura;34;Femenino;Medio;Ninguna;No;8;Tarde
+C-0984;España;Málaga;Andalucía;34;Femenino;Medio;Leve;Sí;8;Tarde
+C-0252;España;Badajoz;Extremadura;36;Femenino;Medio;Ninguna;No;8;Mañana
+C-0494;España;Madrid;Comunidad de Madrid;36;Masculino;Medio;Ninguna;No;8;Mañana
+C-1502;España;Madrid;Comunidad de Madrid;36;Masculino;Medio;Ninguna;No;8;Mañana
+C-0065;España;Bilbao;País Vasco;36;Masculino;Medio;Ninguna;No;8;Mediodía
+C-0166;España;Valladolid;Castilla y León;37;Masculino;Medio;Ninguna;Sí;8;Mañana
+C-0719;España;A Coruña;Galicia;37;Femenino;Medio;Ninguna;No;8;Mediodía
+C-0085;España;Vitoria-Gasteiz;País Vasco;37;Femenino;Medio;Ninguna;No;8;Tarde
+C-0261;España;Cáceres;Extremadura;37;Femenino;Medio;Ninguna;No;8;Tarde
+C-0474;España;Valladolid;Castilla y León;37;Masculino;Medio;Ninguna;No;8;Tarde
+C-0211;España;Oviedo;Asturias;39;Femenino;Medio;Ninguna;No;8;Mediodía
+C-0659;España;San Sebastián;País Vasco;39;Femenino;Medio;Ninguna;No;8;Tarde
+C-0768;España;Alicante;Comunidad Valenciana;39;Masculino;Medio;Ninguna;No;8;Tarde
+C-1072;España;Salamanca;Castilla y León;41;Masculino;Medio;Ninguna;Sí;8;Mañana
+C-1397;España;Granada;Andalucía;41;Masculino;Medio;Ninguna;Sí;8;Mediodía
+C-0270;España;Plasencia;Extremadura;42;Femenino;Medio;Ninguna;No;8;Tarde
+C-1169;España;Barcelona;Cataluña;42;Masculino;Medio;Ninguna;No;8;Tarde
+C-0302;España;Alicante;Comunidad Valenciana;44;Femenino;Medio;Ninguna;No;8;Tarde
+C-1311;España;Valladolid;Castilla y León;44;Femenino;Medio;Ninguna;No;8;Tarde
+C-0884;España;Alicante;Comunidad Valenciana;46;Masculino;Medio;Ninguna;No;8;Mediodía
+C-0291;España;Palma;Islas Baleares;46;Masculino;Medio;Ninguna;No;8;Tarde
+C-0393;España;Miranda de Ebro;Castilla y León;46;Masculino;Medio;Ninguna;No;8;Tarde
+C-0533;España;Cáceres;Extremadura;46;Masculino;Medio;Ninguna;No;8;Tarde
+C-0684;España;Cáceres;Extremadura;46;Femenino;Medio;Leve;Sí;8;Tarde
+C-0321;España;Gijón;Asturias;47;Femenino;Medio;Ninguna;No;8;Mañana
+C-0805;España;Vigo;Galicia;47;Femenino;Medio;Ninguna;No;8;Mediodía
+C-0358;España;Zaragoza;Aragón;49;Femenino;Medio;Ninguna;No;8;Tarde
+C-0372;España;Sevilla;Andalucía;49;Femenino;Medio;Ninguna;Sí;8;Tarde
+C-0538;España;Cáceres;Extremadura;49;Femenino;Medio;Ninguna;Sí;8;Tarde
+C-0946;España;Vigo;Galicia;50;Masculino;Medio;Ninguna;Sí;8;Mañana
+C-1325;España;Logroño;La Rioja;50;Masculino;Medio;Leve;Sí;8;Mañana
+C-0634;España;Barcelona;Cataluña;50;Femenino;Medio;Leve;Sí;8;Tarde
+C-1117;España;Pamplona;Navarra;50;Femenino;Medio;Ninguna;No;8;Tarde
+C-0842;España;Alicante;Comunidad Valenciana;52;Masculino;Medio;Ninguna;No;8;Tarde
+C-1409;España;Barcelona;Cataluña;52;Femenino;Medio;Ninguna;Sí;8;Tarde
+C-0746;España;Oviedo;Asturias;53;Femenino;Medio;Ninguna;No;8;Mañana
+C-0628;España;Barcelona;Cataluña;56;Femenino;Medio;Ninguna;No;8;Tarde
+C-0778;España;Palma;Islas Baleares;57;Masculino;Medio;Ninguna;No;8;Tarde
+C-1405;España;Málaga;Andalucía;57;Masculino;Medio;Crónica;Sí;8;Tarde
+C-0499;España;Málaga;Andalucía;58;Masculino;Medio;Ninguna;Sí;8;Mañana
+C-1312;España;Valladolid;Castilla y León;58;Femenino;Medio;Ninguna;No;8;Tarde
+C-1486;España;Plasencia;Extremadura;58;Masculino;Medio;Crónica;Sí;8;Tarde
+C-0752;España;Gijón;Asturias;59;Femenino;Medio;Ninguna;No;8;Mediodía
+C-0585;España;Oviedo;Asturias;62;Femenino;Medio;Ninguna;No;8;Tarde
+C-0804;España;Vigo;Galicia;62;Femenino;Medio;Ninguna;No;8;Tarde
+C-0851;España;Málaga;Andalucía;64;Femenino;Medio;Ninguna;No;8;Noche
+C-0436;España;Madrid;Comunidad de Madrid;64;Femenino;Medio;Crónica;Sí;8;Tarde
+C-0927;España;Bilbao;País Vasco;65;Masculino;Medio;Ninguna;Sí;8;Tarde

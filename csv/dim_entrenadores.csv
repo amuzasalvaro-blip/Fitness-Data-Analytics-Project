@@ -1,0 +1,151 @@
+﻿entrenador_id;genero;edad;anios_experiencia;pais;ciudad;comunidad_autonoma;nivel_entrenador;especialidades;rating_medio;gimnasio_id;tarifa_sesion;ofrece_descuento;porcentaje_descuento;descuento_decimal;idiomas;margen_gimnasio_pct;tipo_contrato
+EP-003;Hombre;37;12;España;Valencia;Comunidad Valenciana;Élite;Pérdida de Peso;4,1;G-003;62,00 €;No;0%;0,00;Español / Inglés / Francés;0,18;Autónomo
+EP-008;Mujer;40;10;España;Vitoria-Gasteiz;País Vasco;Élite;Yoga/Pilates;3,8;G-008;62,50 €;No;0%;0,00;Español;0,23;Autónomo
+EP-009;Mujer;36;15;España;Vigo;Galicia;Élite;Pérdida de Peso;4,7;G-009;62,00 €;No;0%;0,00;Español;0,19;Autónomo
+EP-010;Mujer;44;21;España;A Coruña;Galicia;Élite;Musculación;4,9;G-010;75,00 €;No;0%;0,00;Español / Inglés;0,19;Autónomo
+EP-013;Hombre;53;19;España;Córdoba;Andalucía;Élite;Pérdida de Peso;4,3;G-013;62,00 €;No;0%;0,00;Español;0,20;Autónomo
+EP-014;Hombre;53;31;España;Murcia;Región de Murcia;Élite;Rehabilitación, Musculación;3,7;G-014;70,50 €;No;0%;0,00;Español / Inglés;0,21;Autónomo
+EP-015;Mujer;42;15;España;Zaragoza;Aragón;Élite;Crossfit/Funcional, Nutrición Deportiva;4,6;G-015;72,00 €;No;0%;0,00;Español / Inglés;0,17;Autónomo
+EP-016;Mujer;50;4;España;Valladolid;Castilla y León;Élite;Pérdida de Peso;3,9;G-016;38,50 €;No;0%;0,00;Español;0,25;Autónomo
+EP-030;Mujer;37;11;España;Gijón;Asturias;Élite;Musculación;4,3;G-030;58,00 €;No;0%;0,00;Español / Inglés;0,18;Autónomo
+EP-032;Mujer;37;10;España;Plasencia;Extremadura;Élite;Nutrición Deportiva;4,1;G-032;65,00 €;No;0%;0,00;Español / Portugués;0,18;Autónomo
+EP-034;Hombre;53;17;España;Sevilla;Andalucía;Élite;Pérdida de Peso, Rehabilitación;4,0;G-034;59,00 €;No;0%;0,00;Español / Inglés / Francés;0,20;Autónomo
+EP-035;Hombre;42;11;España;Vigo;Galicia;Élite;Musculación;4,4;G-035;69,00 €;No;0%;0,00;Español;0,20;Autónomo
+EP-036;Hombre;33;10;España;Miranda de Ebro;Castilla y León;Élite;Yoga/Pilates;4,8;G-036;60,00 €;No;0%;0,00;Español / Inglés / Italiano;0,22;Autónomo
+EP-039;Hombre;49;13;España;Logroño;La Rioja;Élite;Musculación;4,8;G-039;59,00 €;No;0%;0,00;Español;0,19;Autónomo
+EP-045;Hombre;58;19;España;Madrid;Comunidad de Madrid;Élite;Musculación, Nutrición Deportiva;4,2;G-045;82,00 €;No;0%;0,00;Español;0,17;Autónomo
+EP-057;Hombre;44;15;España;Madrid;Comunidad de Madrid;Élite;Musculación, Nutrición Deportiva;4,5;G-057;77,00 €;No;0%;0,00;Español;0,19;Autónomo
+EP-059;Hombre;47;11;España;Sevilla;Andalucía;Élite;Musculación, Rehabilitación;4,2;G-059;62,00 €;No;0%;0,00;Español / Inglés / Francés;0,21;Autónomo
+EP-065;Hombre;42;10;España;Alicante;Comunidad Valenciana;Élite;Musculación;4,8;G-065;59,00 €;No;0%;0,00;Español;0,19;Autónomo
+EP-068;Mujer;37;15;España;Oviedo;Asturias;Élite;Pérdida de Peso;4,7;G-068;75,00 €;No;0%;0,00;Español / Inglés / Francés;0,17;Autónomo
+EP-075;Hombre;55;24;España;Madrid;Comunidad de Madrid;Élite;Crossfit/Funcional;4,6;G-075;79,50 €;No;0%;0,00;Español;0,17;Autónomo
+EP-077;Mujer;45;10;España;Alicante;Comunidad Valenciana;Élite;Nutrición Deportiva;4,2;G-077;57,00 €;No;0%;0,00;Español;0,20;Autónomo
+EP-079;Mujer;55;25;España;Logroño;La Rioja;Élite;Nutrición Deportiva;4,0;G-079;69,50 €;No;0%;0,00;Español;0,23;Autónomo
+EP-080;Hombre;46;11;España;Bilbao;País Vasco;Élite;Crossfit/Funcional, Nutrición Deportiva;3,9;G-080;55,50 €;No;0%;0,00;Español;0,21;Autónomo
+EP-084;Hombre;44;22;España;Sevilla;Andalucía;Élite;Musculación, Yoga/Pilates;4,4;G-034;73,00 €;No;0%;0,00;Español / Inglés / Francés;0,20;Autónomo
+EP-085;Hombre;33;11;España;Bilbao;País Vasco;Élite;Pérdida de Peso, Yoga/Pilates;4,3;G-038;62,00 €;No;0%;0,00;Español / Portugués;0,18;Autónomo
+EP-087;Hombre;54;24;España;San Sebastián;País Vasco;Élite;Pérdida de Peso;4,4;G-056;72,50 €;No;0%;0,00;Español / Portugués;0,19;Autónomo
+EP-090;Hombre;45;12;España;Málaga;Andalucía;Élite;Musculación, Crossfit/Funcional;3,9;G-046;64,50 €;No;0%;0,00;Español / Inglés;0,19;Autónomo
+EP-093;Mujer;33;11;España;Gijón;Asturias;Élite;Crossfit/Funcional;4,7;G-030;57,50 €;No;0%;0,00;Español;0,20;Autónomo
+EP-094;Mujer;47;11;España;Barcelona;Cataluña;Élite;Musculación, Rehabilitación;3,8;G-058;79,50 €;No;0%;0,00;Español / Inglés;0,21;Autónomo
+EP-095;Mujer;58;20;España;Vigo;Galicia;Élite;Musculación;3,7;G-074;71,00 €;No;0%;0,00;Español / Inglés / Italiano;0,21;Autónomo
+EP-098;Mujer;60;17;España;Salamanca;Castilla y León;Élite;Rehabilitación;4,0;G-043;62,50 €;No;0%;0,00;Español;0,21;Autónomo
+EP-099;Mujer;43;15;España;Elche;Comunidad Valenciana;Élite;Musculación;4,5;G-029;70,00 €;No;0%;0,00;Español / Inglés;0,20;Autónomo
+EP-105;Hombre;40;19;España;Burgos;Castilla y León;Élite;Musculación;4,8;G-018;61,00 €;No;0%;0,00;Español / Inglés;0,17;Autónomo
+EP-107;Hombre;31;10;España;Valencia;Comunidad Valenciana;Élite;Nutrición Deportiva, Crossfit/Funcional;4,1;G-003;59,00 €;No;0%;0,00;Español / Inglés;0,19;Autónomo
+EP-112;Hombre;37;12;España;Valencia;Comunidad Valenciana;Élite;Rehabilitación, Yoga/Pilates;4,6;G-003;62,50 €;No;0%;0,00;Español;0,18;Autónomo
+EP-113;Hombre;45;14;España;Vitoria-Gasteiz;País Vasco;Élite;Yoga/Pilates;4,3;G-008;72,00 €;No;0%;0,00;Español / Inglés / Francés;0,21;Autónomo
+EP-114;Hombre;38;12;España;Bilbao;País Vasco;Élite;Crossfit/Funcional;4,4;G-006;75,00 €;No;0%;0,00;Español / Inglés;0,21;Autónomo
+EP-116;Mujer;52;30;España;Madrid;Comunidad de Madrid;Élite;Musculación;4,7;G-075;85,00 €;No;0%;0,00;Español / Inglés / Francés;0,22;Autónomo
+EP-121;Hombre;43;11;España;Barcelona;Cataluña;Élite;Pérdida de Peso, Musculación;4,8;G-058;75,00 €;No;0%;0,00;Español;0,23;Autónomo
+EP-126;Hombre;41;14;España;Málaga;Andalucía;Élite;Musculación;3,9;G-078;58,50 €;No;0%;0,00;Español;0,21;Autónomo
+EP-127;Mujer;50;13;España;Elche;Comunidad Valenciana;Élite;Nutrición Deportiva;4,0;G-055;54,50 €;No;0%;0,00;Español / Inglés;0,18;Autónomo
+EP-128;Mujer;51;22;España;Bilbao;País Vasco;Élite;Nutrición Deportiva, Rehabilitación;4,2;G-080;58,00 €;No;0%;0,00;Español / Portugués;0,18;Autónomo
+EP-132;Hombre;32;10;España;Barcelona;Cataluña;Élite;Pérdida de Peso, Crossfit/Funcional;4,3;G-002;77,50 €;No;0%;0,00;Español;0,20;Autónomo
+EP-134;Hombre;58;27;España;San Sebastián;País Vasco;Élite;Rehabilitación;5,0;G-060;81,00 €;No;0%;0,00;Español;0,19;Autónomo
+EP-139;Hombre;32;10;España;Plasencia;Extremadura;Élite;Musculación;4,5;G-032;60,00 €;No;0%;0,00;Español / Inglés;0,19;Autónomo
+EP-140;Mujer;40;10;España;Cáceres;Extremadura;Élite;Rehabilitación;3,8;G-024;58,50 €;No;0%;0,00;Español / Inglés;0,23;Autónomo
+EP-143;Hombre;47;18;España;Bilbao;País Vasco;Élite;Nutrición Deportiva;4,0;G-048;75,50 €;No;0%;0,00;Español / Inglés;0,17;Autónomo
+EP-147;Mujer;38;14;España;Zaragoza;Aragón;Élite;Musculación;4,1;G-015;66,50 €;No;0%;0,00;Español;0,23;Autónomo
+EP-004;Mujer;41;13;España;Sevilla;Andalucía;Élite;Musculación;3,5;G-004;28,00 €;No;0%;0,00;Español / Portugués;0,29;Autónomo
+EP-005;Hombre;39;12;España;Málaga;Andalucía;Élite;Pérdida de Peso;3,6;G-005;29,00 €;Sí;10%;0,10;Español / Inglés / Francés;0,31;Autónomo
+EP-006;Hombre;43;15;España;Bilbao;País Vasco;Élite;Pérdida de Peso;4,8;G-006;25,50 €;No;0%;0,00;Español / Inglés;0,30;Autónomo
+EP-012;Mujer;50;14;España;Granada;Andalucía;Élite;Yoga/Pilates, Rehabilitación;4,6;G-012;28,50 €;No;0%;0,00;Español;0,29;Autónomo
+EP-017;Hombre;52;12;España;Salamanca;Castilla y León;Élite;Musculación;3,6;G-017;23,00 €;Sí;15%;0,15;Español;0,29;Autónomo
+EP-020;Mujer;49;13;España;Oviedo;Asturias;Élite;Rehabilitación, Musculación;4,2;G-020;27,00 €;Sí;10%;0,10;Español / Inglés;0,30;Autónomo
+EP-024;Mujer;45;10;España;Cáceres;Extremadura;Élite;Musculación;4,2;G-024;30,00 €;No;0%;0,00;Español / Portugués;0,28;Autónomo
+EP-027;Mujer;43;11;España;Palma;Islas Baleares;Élite;Pérdida de Peso;3,9;G-027;20,00 €;No;0%;0,00;Español / Inglés / Francés;0,30;Autónomo
+EP-031;Mujer;56;20;España;Murcia;Región de Murcia;Élite;Pérdida de Peso;3,7;G-031;21,50 €;No;0%;0,00;Español / Inglés;0,28;Autónomo
+EP-038;Mujer;49;15;España;Bilbao;País Vasco;Élite;Pérdida de Peso;3,5;G-038;20,00 €;Sí;10%;0,10;Español;0,31;Autónomo
+EP-047;Mujer;32;11;España;Alicante;Comunidad Valenciana;Élite;Rehabilitación, Yoga/Pilates;4,1;G-047;29,00 €;Sí;15%;0,15;Español;0,30;Autónomo
+EP-056;Hombre;40;14;España;San Sebastián;País Vasco;Élite;Musculación;4,0;G-056;30,00 €;Sí;10%;0,10;Español / Inglés;0,29;Autónomo
+EP-060;Mujer;38;12;España;San Sebastián;País Vasco;Élite;Yoga/Pilates;4,7;G-060;26,50 €;No;0%;0,00;Español;0,31;Autónomo
+EP-124;Mujer;35;11;España;Bilbao;País Vasco;Élite;Musculación;4,8;G-048;40,50 €;No;0%;0,00;Español / Inglés / Francés;0,27;Autónomo
+EP-125;Hombre;39;13;España;Córdoba;Andalucía;Élite;Crossfit/Funcional;3,7;G-013;50,00 €;No;0%;0,00;Español / Inglés;0,25;Autónomo
+EP-129;Hombre;46;16;España;Madrid;Comunidad de Madrid;Élite;Musculación, Crossfit/Funcional;4,0;G-057;52,00 €;No;0%;0,00;Español;0,26;Autónomo
+EP-130;Hombre;43;14;España;Granada;Andalucía;Élite;Nutrición Deportiva;3,9;G-051;39,50 €;No;0%;0,00;Español / Inglés;0,25;Autónomo
+EP-131;Mujer;44;14;España;Málaga;Andalucía;Élite;Crossfit/Funcional, Rehabilitación;4,2;G-046;46,00 €;No;0%;0,00;Español;0,25;Autónomo
+EP-021;Mujer;38;12;España;Pamplona;Navarra;Élite;Yoga/Pilates;4,2;G-021;40,00 €;Sí;10%;0,10;Español;0,24;Autónomo
+EP-022;Mujer;41;11;España;Logroño;La Rioja;Élite;Musculación;4,3;G-022;40,00 €;No;0%;0,00;Español;0,26;Autónomo
+EP-026;Mujer;38;14;España;Miranda de Ebro;Castilla y León;Élite;Musculación;4,9;G-026;42,50 €;No;0%;0,00;Español / Inglés;0,26;Autónomo
+EP-028;Mujer;52;14;España;Alicante;Comunidad Valenciana;Élite;Nutrición Deportiva, Musculación;4,7;G-028;40,00 €;Sí;10%;0,10;Español / Inglés;0,26;Autónomo
+EP-029;Hombre;33;11;España;Elche;Comunidad Valenciana;Élite;Pérdida de Peso;4,8;G-029;41,00 €;No;0%;0,00;Español;0,26;Autónomo
+EP-033;Hombre;56;17;España;Zaragoza;Aragón;Élite;Pérdida de Peso, Musculación;3,6;G-033;39,00 €;Sí;5%;0,05;Español / Portugués;0,27;Autónomo
+EP-037;Hombre;53;16;España;Granada;Andalucía;Élite;Nutrición Deportiva, Rehabilitación;4,0;G-037;42,00 €;No;0%;0,00;Español / Inglés;0,26;Autónomo
+EP-042;Mujer;54;25;España;Valencia;Comunidad Valenciana;Élite;Musculación;4,0;G-042;40,50 €;No;0%;0,00;Español;0,25;Autónomo
+EP-043;Hombre;36;11;España;Salamanca;Castilla y León;Élite;Pérdida de Peso;4,0;G-043;39,50 €;Sí;5%;0,05;Español / Inglés;0,25;Autónomo
+EP-041;Mujer;37;12;España;Oviedo;Asturias;Élite;Nutrición Deportiva;3,6;G-041;30,50 €;Sí;10%;0,10;Español / Inglés / Italiano;0,30;Autónomo
+EP-046;Mujer;39;12;España;Málaga;Andalucía;Élite;Pérdida de Peso;4,3;G-046;33,50 €;Sí;15%;0,15;Español / Alemán;0,30;Autónomo
+EP-049;Mujer;32;10;España;Cáceres;Extremadura;Élite;Crossfit/Funcional, Pérdida de Peso;4,5;G-049;21,00 €;Sí;10%;0,10;Español;0,29;Autónomo
+EP-050;Mujer;35;13;España;Zaragoza;Aragón;Élite;Rehabilitación, Crossfit/Funcional;4,9;G-050;22,00 €;Sí;15%;0,15;Español / Alemán;0,29;Autónomo
+EP-001;Mujer;45;18;España;Madrid;Comunidad de Madrid;Élite;Pérdida de Peso;4,7;G-001;46,00 €;Sí;10%;0,10;Español;0,24;Autónomo
+EP-002;Hombre;43;13;España;Barcelona;Cataluña;Élite;Pérdida de Peso;4,7;G-002;55,00 €;Sí;5%;0,05;Español / Inglés;0,27;Autónomo
+EP-007;Mujer;40;12;España;San Sebastián;País Vasco;Élite;Yoga/Pilates, Musculación;4,7;G-007;38,00 €;Sí;5%;0,05;Español;0,25;Autónomo
+EP-011;Mujer;37;17;España;Santiago de Compostela;Galicia;Élite;Pérdida de Peso;3,8;G-011;41,00 €;Sí;5%;0,05;Español / Portugués;0,25;Autónomo
+EP-040;Hombre;24;1;España;Madrid;Comunidad de Madrid;Junior;Pérdida de Peso, Crossfit/Funcional;3,9;G-040;33,00 €;Sí;10%;0,10;Español;0,29;Autónomo
+EP-051;Mujer;44;0;España;Granada;Andalucía;Junior;Yoga/Pilates;3,7;G-051;25,00 €;Sí;10%;0,10;Español;0,31;Autónomo
+EP-054;Mujer;31;0;España;Oviedo;Asturias;Junior;Musculación;4,4;G-054;22,50 €;No;0%;0,00;Español;0,31;Autónomo
+EP-055;Hombre;55;13;España;Elche;Comunidad Valenciana;Junior;Yoga/Pilates, Musculación;3,8;G-055;26,50 €;No;0%;0,00;Español / Inglés / Francés;0,28;Autónomo
+EP-061;Hombre;42;1;España;Córdoba;Andalucía;Junior;Rehabilitación, Musculación;4,6;G-061;26,50 €;No;0%;0,00;Español / Inglés;0,31;Autónomo
+EP-062;Mujer;42;9;España;Santander;Cantabria;Junior;Rehabilitación, Nutrición Deportiva;4,1;G-062;21,00 €;Sí;15%;0,15;Español / Inglés / Francés;0,29;Autónomo
+EP-063;Hombre;23;0;España;Cáceres;Extremadura;Junior;Crossfit/Funcional;4,8;G-063;23,50 €;No;0%;0,00;Español;0,31;Autónomo
+EP-066;Mujer;30;1;España;A Coruña;Galicia;Junior;Pérdida de Peso;4,0;G-066;23,00 €;No;0%;0,00;Español / Inglés;0,31;Autónomo
+EP-069;Hombre;23;0;España;Gijón;Asturias;Junior;Nutrición Deportiva;4,2;G-069;23,00 €;Sí;10%;0,10;Español;0,28;Autónomo
+EP-071;Hombre;31;2;España;Palma;Islas Baleares;Junior;Musculación;4,3;G-071;26,50 €;Sí;15%;0,15;Español / Inglés;0,29;Autónomo
+EP-076;Mujer;48;18;España;Gijón;Asturias;Junior;Pérdida de Peso;3,7;G-076;25,50 €;No;0%;0,00;Español / Portugués;0,28;Autónomo
+EP-078;Mujer;31;1;España;Málaga;Andalucía;Junior;Yoga/Pilates, Nutrición Deportiva;4,3;G-078;24,00 €;No;0%;0,00;Español;0,29;Autónomo
+EP-081;Hombre;47;1;España;Alicante;Comunidad Valenciana;Junior;Musculación;4,0;G-065;25,00 €;No;0%;0,00;Español / Inglés;0,31;Autónomo
+EP-082;Mujer;28;1;España;Burgos;Castilla y León;Junior;Musculación;4,1;G-018;27,00 €;Sí;15%;0,15;Español;0,28;Autónomo
+EP-086;Hombre;22;1;España;Vigo;Galicia;Junior;Rehabilitación, Nutrición Deportiva;5,0;G-035;20,50 €;Sí;10%;0,10;Español / Inglés;0,29;Autónomo
+EP-088;Hombre;31;1;España;Gijón;Asturias;Junior;Nutrición Deportiva, Rehabilitación;4,0;G-030;21,00 €;Sí;10%;0,10;Español;0,29;Autónomo
+EP-097;Hombre;31;8;España;Badajoz;Extremadura;Junior;Musculación;3,8;G-023;26,50 €;Sí;10%;0,10;Español;0,31;Autónomo
+EP-101;Mujer;23;2;España;Alicante;Comunidad Valenciana;Junior;Crossfit/Funcional;3,8;G-070;30,50 €;No;0%;0,00;Español;0,31;Autónomo
+EP-104;Mujer;24;2;España;Madrid;Comunidad de Madrid;Junior;Musculación;3,7;G-075;35,00 €;Sí;15%;0,15;Español / Inglés;0,28;Autónomo
+EP-110;Mujer;23;2;España;Burgos;Castilla y León;Junior;Yoga/Pilates;4,3;G-067;30,50 €;No;0%;0,00;Español;0,28;Autónomo
+EP-115;Hombre;24;0;España;Zaragoza;Aragón;Junior;Musculación;4,8;G-033;23,50 €;Sí;15%;0,15;Español / Inglés;0,30;Autónomo
+EP-120;Hombre;24;2;España;Burgos;Castilla y León;Junior;Musculación;4,5;G-067;35,00 €;Sí;10%;0,10;Español;0,30;Autónomo
+EP-123;Hombre;23;2;España;Logroño;La Rioja;Junior;Musculación;4,1;G-039;28,00 €;Sí;10%;0,10;Español;0,30;Autónomo
+EP-135;Hombre;32;2;España;Alicante;Comunidad Valenciana;Junior;Musculación, Pérdida de Peso;4,9;G-047;32,00 €;Sí;15%;0,15;Español / Inglés;0,30;Autónomo
+EP-137;Hombre;22;1;España;Valladolid;Castilla y León;Junior;Pérdida de Peso, Nutrición Deportiva;4,8;G-016;25,00 €;Sí;10%;0,10;Español / Inglés;0,31;Autónomo
+EP-138;Mujer;25;0;España;Salamanca;Castilla y León;Junior;Pérdida de Peso;4,2;G-043;22,50 €;Sí;15%;0,15;Español / Inglés / Francés;0,31;Autónomo
+EP-144;Mujer;32;2;España;Logroño;La Rioja;Junior;Pérdida de Peso;4,5;G-039;29,50 €;No;0%;0,00;Español / Inglés;0,28;Autónomo
+EP-150;Mujer;23;2;España;Madrid;Comunidad de Madrid;Junior;Crossfit/Funcional, Musculación;4,1;G-045;36,00 €;No;0%;0,00;Español / Inglés;0,28;Autónomo
+EP-018;Mujer;37;8;España;Burgos;Castilla y León;Senior;Pérdida de Peso;4,6;G-018;45,00 €;Sí;5%;0,05;Español;0,27;Autónomo
+EP-019;Hombre;37;3;España;Santander;Cantabria;Senior;Musculación;3,7;G-019;39,00 €;No;0%;0,00;Español;0,26;Autónomo
+EP-023;Hombre;25;4;España;Badajoz;Extremadura;Senior;Pérdida de Peso;4,9;G-023;40,00 €;No;0%;0,00;Español / Inglés;0,26;Autónomo
+EP-025;Hombre;30;8;España;Plasencia;Extremadura;Senior;Musculación;4,5;G-025;41,50 €;No;0%;0,00;Español;0,24;Autónomo
+EP-044;Hombre;27;5;España;Valladolid;Castilla y León;Senior;Yoga/Pilates, Crossfit/Funcional;4,2;G-044;41,00 €;Sí;5%;0,05;Español / Inglés;0,27;Autónomo
+EP-048;Hombre;59;13;España;Bilbao;País Vasco;Senior;Pérdida de Peso;4,1;G-048;33,50 €;Sí;10%;0,10;Español / Inglés;0,24;Autónomo
+EP-052;Hombre;38;12;España;Alicante;Comunidad Valenciana;Senior;Pérdida de Peso;4,9;G-052;43,00 €;No;0%;0,00;Español / Inglés;0,24;Autónomo
+EP-053;Hombre;45;12;España;Pamplona;Navarra;Senior;Musculación, Rehabilitación;4,5;G-053;42,50 €;No;0%;0,00;Español;0,26;Autónomo
+EP-058;Hombre;46;8;España;Barcelona;Cataluña;Senior;Crossfit/Funcional;3,6;G-058;53,50 €;No;0%;0,00;Español / Inglés / Francés;0,26;Autónomo
+EP-064;Hombre;25;4;España;Salamanca;Castilla y León;Senior;Rehabilitación, Musculación;4,2;G-064;36,00 €;No;0%;0,00;Español;0,24;Autónomo
+EP-067;Mujer;45;18;España;Burgos;Castilla y León;Senior;Musculación;3,9;G-067;39,00 €;No;0%;0,00;Español;0,27;Autónomo
+EP-070;Hombre;25;4;España;Alicante;Comunidad Valenciana;Senior;Pérdida de Peso;3,5;G-070;40,00 €;No;0%;0,00;Español / Inglés / Francés;0,27;Autónomo
+EP-072;Hombre;35;11;España;Sevilla;Andalucía;Senior;Pérdida de Peso, Crossfit/Funcional;4,2;G-072;45,00 €;Sí;5%;0,05;Español / Inglés / Francés;0,27;Autónomo
+EP-073;Hombre;45;17;España;Granada;Andalucía;Senior;Pérdida de Peso, Rehabilitación;3,6;G-073;41,00 €;No;0%;0,00;Español / Inglés / Francés;0,24;Autónomo
+EP-074;Hombre;39;10;España;Vigo;Galicia;Senior;Musculación, Nutrición Deportiva;4,4;G-074;45,00 €;No;0%;0,00;Español;0,25;Autónomo
+EP-083;Mujer;52;4;España;Alicante;Comunidad Valenciana;Senior;Yoga/Pilates, Pérdida de Peso;4,7;G-028;40,00 €;No;0%;0,00;Español / Inglés;0,27;Autónomo
+EP-089;Mujer;54;15;España;Cáceres;Extremadura;Senior;Pérdida de Peso, Rehabilitación;3,9;G-063;35,00 €;No;0%;0,00;Español / Inglés / Francés;0,25;Autónomo
+EP-091;Hombre;36;11;España;Elche;Comunidad Valenciana;Senior;Crossfit/Funcional;3,9;G-029;42,50 €;No;0%;0,00;Español / Inglés / Italiano;0,26;Autónomo
+EP-092;Mujer;46;11;España;Zaragoza;Aragón;Senior;Rehabilitación;4,4;G-033;43,50 €;No;0%;0,00;Español / Inglés;0,26;Autónomo
+EP-096;Hombre;32;5;España;Bilbao;País Vasco;Senior;Musculación, Nutrición Deportiva;4,4;G-080;42,00 €;Sí;5%;0,05;Español;0,27;Autónomo
+EP-100;Hombre;43;11;España;Salamanca;Castilla y León;Senior;Musculación;4,8;G-064;40,00 €;No;0%;0,00;Español / Inglés / Italiano;0,24;Autónomo
+EP-102;Mujer;46;12;España;Pamplona;Navarra;Senior;Musculación, Rehabilitación;4,8;G-053;39,50 €;No;0%;0,00;Español;0,26;Autónomo
+EP-103;Mujer;37;9;España;San Sebastián;País Vasco;Senior;Rehabilitación;4,1;G-007;43,50 €;No;0%;0,00;Español;0,24;Autónomo
+EP-106;Mujer;34;5;España;Gijón;Asturias;Senior;Musculación;4,5;G-076;42,00 €;No;0%;0,00;Español;0,24;Autónomo
+EP-108;Hombre;38;6;España;Barcelona;Cataluña;Senior;Rehabilitación;4,8;G-058;51,00 €;No;0%;0,00;Español;0,27;Autónomo
+EP-109;Mujer;30;7;España;Logroño;La Rioja;Senior;Yoga/Pilates;4,8;G-022;45,50 €;No;0%;0,00;Español / Inglés;0,26;Autónomo
+EP-111;Hombre;24;3;España;Córdoba;Andalucía;Senior;Musculación;5,0;G-061;39,50 €;No;0%;0,00;Español / Inglés;0,25;Autónomo
+EP-117;Hombre;37;3;España;Zaragoza;Aragón;Senior;Musculación, Yoga/Pilates;3,8;G-015;37,50 €;Sí;10%;0,10;Español;0,24;Autónomo
+EP-118;Hombre;41;9;España;Vigo;Galicia;Senior;Pérdida de Peso;4,9;G-074;48,50 €;Sí;5%;0,05;Español;0,26;Autónomo
+EP-119;Mujer;34;9;España;Málaga;Andalucía;Senior;Musculación;3,6;G-005;43,00 €;Sí;5%;0,05;Español / Inglés / Francés;0,27;Autónomo
+EP-122;Mujer;30;9;España;Valladolid;Castilla y León;Senior;Yoga/Pilates;4,2;G-016;49,50 €;No;0%;0,00;Español / Inglés;0,27;Autónomo
+EP-133;Mujer;51;5;España;Cáceres;Extremadura;Senior;Pérdida de Peso;3,5;G-063;40,00 €;No;0%;0,00;Español / Inglés / Francés;0,27;Autónomo
+EP-136;Mujer;38;5;España;Logroño;La Rioja;Senior;Pérdida de Peso;4,5;G-079;40,00 €;No;0%;0,00;Español;0,27;Autónomo
+EP-141;Mujer;35;8;España;Madrid;Comunidad de Madrid;Senior;Crossfit/Funcional, Musculación;4,7;G-040;49,50 €;No;0%;0,00;Español / Inglés / Francés;0,27;Autónomo
+EP-142;Mujer;29;3;España;Alicante;Comunidad Valenciana;Senior;Nutrición Deportiva;4,5;G-047;39,00 €;No;0%;0,00;Español / Inglés / Francés;0,27;Autónomo
+EP-145;Mujer;31;4;España;Gijón;Asturias;Senior;Pérdida de Peso;4,1;G-030;39,50 €;Sí;10%;0,10;Español / Inglés;0,26;Autónomo
+EP-146;Mujer;30;4;España;Valencia;Comunidad Valenciana;Senior;Musculación;4,5;G-003;41,50 €;Sí;5%;0,05;Español / Inglés / Francés;0,24;Autónomo
+EP-148;Mujer;31;9;España;Zaragoza;Aragón;Senior;Crossfit/Funcional, Musculación;4,7;G-015;50,50 €;No;0%;0,00;Español / Inglés / Francés;0,26;Autónomo
+EP-149;Mujer;41;12;España;Sevilla;Andalucía;Senior;Rehabilitación;4,6;G-072;46,00 €;Sí;5%;0,05;Español / Alemán;0,27;Autónomo

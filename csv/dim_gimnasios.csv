@@ -1,0 +1,81 @@
+﻿gimnasio_id;nombre_gimnasio;ciudad;provincia;tipo_gimnasio;horario_gimnasio;anio_apertura;cuota_mensual
+G-001;Gimnasio Infinit Fitness Bahía;Madrid;Madrid;Comercial;6:30-22:30;2020;38,00 €
+G-002;Green Fit ;Barcelona;Barcelona;Low Cost;6:00-22:30;2012;26,00 €
+G-003;Evolution Gym;Valencia;Valencia;Low Cost;6:00-23:00;2014;27,00 €
+G-004;Esteban Gym;Sevilla;Sevilla;Low Cost;6:00-23:00;2015;23,00 €
+G-005;Nuscle Force Gym;Málaga;Málaga;Comercial;7:00-22:00;2012;42,00 €
+G-006;Synergym Bilbao;Bilbao;Bizkaia;Low Cost;7:00-22:00;2016;27,00 €
+G-007;Beti Fit ;San Sebastián;Gipuzkoa;Comercial;6:00-23:00;2019;29,00 €
+G-008;Fitness Park;Vitoria-Gasteiz;Álava;Low Cost;6:00-22:30;2023;27,00 €
+G-009;Imperium;Vigo;Pontevedra;Low Cost;6:00-22:30;2015;27,00 €
+G-010;ADH Fitness Club;A Coruña;A Coruña;Low Cost;6:00-22:30;2016;27,00 €
+G-011;Ima Gym Camargo ;Santander;Cantabria;Low Cost;6:00-23:00;2018;23,00 €
+G-012;Okeymas;Granada;Granada;Low Cost;6:00-23:00;2017;23,00 €
+G-013;Club Gym Sierra;Córdoba;Córdoba;Low Cost;6:00-22:30;2015;27,00 €
+G-014;Featness Gym;Cádiz;Cádiz;Premium;7:00-22:00;2015;79,00 €
+G-015;Fitmi Center;Vitoria-Gasteiz;Álava;Comercial;6:30-22:30;2017;52,00 €
+G-016;Mythos Gym;Valladolid;Valladolid;Low Cost;6:00-23:00;2016;27,00 €
+G-017;Fitness Park;Salamanca;Salamanca;Comercial;6:30-22:30;2015;49,00 €
+G-018;Altafit Burgos;Burgos;Burgos;Low Cost;6:00-22:30;2015;19,00 €
+G-019;Fitness Place;Santander;Cantabria;Low Cost;6:00-22:30;2011;26,00 €
+G-020;Tartiere Sport;Oviedo;Asturias;Low Cost;24h;2015;29,00 €
+G-021;Planet Fitness;Pamplona;Navarra;Comercial;6:30-22:30;2009;40,00 €
+G-022;Iron Gym;Logroño;La Rioja;Low Cost;6:00-23:00;2014;21,00 €
+G-023;Fitness Park;Badajoz;Badajoz;Comercial;6:30-22:30;2021;49,00 €
+G-024;Principe Fitness Center;Cáceres;Cáceres;Comercial;7:00-22:00;2012;45,00 €
+G-025;Gimnasio Losan;Plasencia;Cáceres;Premium;7:00-23:00;2001;89,00 €
+G-026;Kraus Fitness Club;Cádiz;Cádiz;Premium;7:00-23:00;2004;89,00 €
+G-027;Fitness Park;Albacete;Albacete;Comercial;6:30-22:30;2017;45,00 €
+G-028;Gym Fort Strong;Barcelona;Barcelona;Comercial;6:30-22:30;2018;49,00 €
+G-029;Impact Gym;Marbella;Málaga;Low Cost;6:00-23:00;2016;24,00 €
+G-030;Energy Fit;Gijón;Asturias;Comercial;6:30-22:30;2021;48,00 €
+G-031;JR Sport Center;Cádiz;Cádiz;Low Cost;6:00-22:30;2018;24,00 €
+G-032;Liceo Wellness;Plasencia;Cáceres;Premium;7:00-22:00;2004;95,00 €
+G-033;Island Gym Club;Zaragoza;Zaragoza;Low Cost;6:00-22:30;2019;23,00 €
+G-034;Gimnasio Family Fitness;Sevilla;Sevilla;Premium;7:00-23:00;2015;99,00 €
+G-035;Florida Gym;Vigo;Pontevedra;Comercial;6:30-22:30;2013;40,00 €
+G-036;Garage Warriors;Orense;Orense;Low Cost;6:00-23:00;2017;27,00 €
+G-037;Fitness Park;Granada;Granada;Comercial;6:30-22:30;2019;52,00 €
+G-038;Fitness Park ;Bilbao;Bizkaia;Comercial;7:00-22:00;2022;42,00 €
+G-039;Smart Club;Madrid;Madrid;Comercial;6:30-22:30;2019;38,00 €
+G-040;Basic Fit;Madrid;Madrid;Comercial;7:00-22:00;2021;38,00 €
+G-041;Fitness Park;Oviedo;Asturias;Low Cost;6:00-23:00;2014;26,00 €
+G-042;Orange Bleue Zaidia;Valencia;Valencia;Low Cost;24h;2019;23,00 €
+G-043;Gimnasio Sport Club Fontana;Salamanca;Salamanca;Low Cost;6:00-23:00;2018;27,00 €
+G-044;Sportia;Valladolid;Valladolid;Comercial;7:00-22:00;2018;38,00 €
+G-045;Loona Fitness Experience;Madrid;Madrid;Comercial;6:30-22:30;2013;52,00 €
+G-046;Funes Fit Gym;Málaga;Málaga;Premium;7:00-23:00;2012;89,00 €
+G-047;Gimnasio Fit 21;Alicante;Alicante;Comercial;6:30-22:30;2017;45,00 €
+G-048;Being Fit;Bilbao;Bizkaia;Premium;7:00-22:00;2008;89,00 €
+G-049;Gimnasio Mocara Fitnes;Cáceres;Cáceres;Low Cost;6:00-22:30;2020;21,00 €
+G-050;Metropolitan;Zaragoza;Zaragoza;Premium;7:00-22:00;2002;99,00 €
+G-051;New Harmony Gym;Granada;Granada;Comercial;7:00-22:00;2010;48,00 €
+G-052;Gimnasio Yin Fels;Barcelona;Barcelona;Comercial;6:30-22:30;2018;40,00 €
+G-053;Méndez Gym;Pamplona;Navarra;Comercial;7:00-22:00;2017;45,00 €
+G-054;OVD Club Fitness;Oviedo;Asturias;Low Cost;6:00-23:00;2012;27,00 €
+G-055;Basic Fit;Elche;Alicante;Low Cost;6:00-22:30;2019;27,00 €
+G-056;Club Metropolitan;San Sebastián;Gipuzkoa;Premium;7:00-23:00;2010;105,00 €
+G-057;David Lloyd Serrano Gym;Madrid;Madrid;Premium;24h;2018;29,00 €
+G-058;Bonavista Gym;Barcelona;Barcelona;Comercial;6:30-22:30;2018;48,00 €
+G-059;Century Fitness;Sevilla;Sevilla;Low Cost;6:00-23:00;2018;23,00 €
+G-060;Brooklyn Fitboxing;San Sebastián;Gipuzkoa;Comercial;7:00-23:00;2006;35,00 €
+G-061;Fitwell;Cáceres;Cáceres;Comercial;6:30-22:30;2011;42,00 €
+G-062;Basic Fit;Santander;Cantabria;Comercial;6:30-22:30;2013;42,00 €
+G-063;Asfit;Cáceres;Cáceres;Comercial;7:00-22:00;2015;52,00 €
+G-064;Synergym;Plasencia;Cáceres;Low Cost;6:00-23:00;2017;19,00 €
+G-065;Alma Fitness Club;Alicante;Alicante;Low Cost;6:00-22:30;2016;29,00 €
+G-066;Delta Training Center;A Coruña;A Coruña;Comercial;6:30-22:30;2018;38,00 €
+G-067;Gimnasio Sparta Sport Center;Burgos;Burgos;Comercial;6:30-22:30;2010;38,00 €
+G-068;Olimpya Fitness;Oviedo;Asturias;Low Cost;6:00-23:00;2017;26,00 €
+G-069;Asgard Gym;Gijón;Asturias;Comercial;7:00-22:00;2006;45,00 €
+G-070;Carolinas Fitness Gym;Alicante;Alicante;Low Cost;6:00-22:30;2017;26,00 €
+G-071;Lizard Gym;Jaén;Jaén;Low Cost;6:00-23:00;2015;21,00 €
+G-072;Mas Fitness Gym;Sevilla;Sevilla;Comercial;6:30-22:30;2019;49,00 €
+G-073;Dreamfit Granada;Granada;Granada;Low Cost;6:00-22:30;2013;29,00 €
+G-074;Bulan Fit Experience;Vigo;Pontevedra;Comercial;6:30-22:30;2015;52,00 €
+G-075;Anytime Fitness Madrid;Madrid;Madrid;Comercial;7:00-22:00;2021;40,00 €
+G-076;Gimnasio Vivagym;Gijón;Asturias;Premium;7:00-23:00;2007;79,00 €
+G-077;Eleven Hybrid Club;Barcelona;Barcelona;Low Cost;6:00-22:30;2014;23,00 €
+G-078;O2 Centro Wellness;Málaga;Málaga;Low Cost;6:00-22:30;2014;26,00 €
+G-079;Gimnasio Habana Dream Sport;Madrid;Madrid;Comercial;7:00-23:00;2000;85,00 €
+G-080;Club Metropolitan;Bilbao;Bizkaia;Premium;7:00-22:00;2003;79,00 €
