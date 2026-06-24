@@ -134,6 +134,6 @@ El proyecto permite analizar indicadores relevantes relacionados con clientes, e
 
 ## Autor
 
-**Álvaro Muzas Antuña**
+**Álvaro Muzás Antuña**
 
 Proyecto Final de Analítica de Datos.
